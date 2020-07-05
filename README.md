@@ -1,1 +1,1 @@
-#Reconhecimento facial em tempo real através da webcam
+# Reconhecimento facial em tempo real através da webcam
