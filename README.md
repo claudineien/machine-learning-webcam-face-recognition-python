@@ -44,12 +44,17 @@ Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, por mais 
 
 Observação: Analisar o item **Tecnologias utilizadas neste projeto**
 
+### Bibliotecas python utilizadas
+```batch
+-
+```
+
 ### 4. FLUXO DO PROCESSO
 Desenvolver com a linguagem python um algoritmo machine learning em modo supervisionado para utilizar a tecnologia deep learning no reconhecimento facial
 
-### 5. INSTALAÇÃO DO SISTEMA
-- [X] Acessará a webcam local do computador, notebook com o algoritmo  [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")
-- [X] Gravará a imagem com outras imagens no computador local
+### 5. INSTALAÇÃO DO SISTEMA RECONHECIMENTO FACIAL EM TEMPO REAL ATRAVÉS DA WEBCAM
+- [X] Baixar o arquivo dszero-desafio-facenet-mtcnn-labelencoder.ipynb
+- [X] 
 
 
 Este foi um desafio proposto pela equipe Data Science do Zero
