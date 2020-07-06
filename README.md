@@ -34,8 +34,14 @@ Este foi um desafio proposto pela equipe Data Science do Zero
 * [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf)
 
 ### *Agradecimentos*
-Ser grato para mim é a atitude que modifica o mundo a ser um lugar melhor para viver
-Agradeço a minha esposa e as minhas filhas pelo apoio
-Agradeço aos criadores do computador, da internet, das linguagens para programação computacional, inteligência artificial e tecnologias em geral
-Agradeço a equipe Mineirando Dados que criou o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science
+*Ser agradecido para mim é a atitude que modifica as pessoas a serem melhor para tornar o lugar em que vivemos ainda melhor*
 
+Agradeço a minha mãe sra Rosalita Borges Evangelista por ter me ensinado, através de suas ações, a ser um guerreiro que aprende com a perda das batalhas mas alcança a vitória da guerra, por me ensinar a ser um ser humano que tenta melhorar a vida das pessoas
+
+Agradeço à minha esposa e às minhas filhas por serem minha inspiração e pelo apoio em minhas decisões
+
+Agradeço aos criadores do computador, da internet, das linguagens para programação computacional, inteligência artificial e tecnologias em geral
+
+Agradeço a equipe Mineirando Dados que criou o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science, parq encurtar meu aprendizado
+
+Muito obrigado a todos :hang:
