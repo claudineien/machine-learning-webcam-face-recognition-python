@@ -29,9 +29,12 @@ Em palavras bem simples ...
 Este foi um desafio proposto pela equipe Data Science do Zero
 
 
-#### Bibliografias estudadas
+#### Fontes de estudo
+* [Minerando Dados](https://minerandodados.com.br/)
+* [Site OpenCV](https://opencv.org/)
 * [OpenCV no github](https://github.com/opencv/opencv/)
 * [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf)
+
 
 ### *Agradecimentos*
 *Ser agradecido para mim é a atitude que faz as pessoas a serem melhores e tornar o lugar em que vivemos ainda melhor*
