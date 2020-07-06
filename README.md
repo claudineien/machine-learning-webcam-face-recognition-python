@@ -10,7 +10,7 @@ Em palavras bem simples ...
 
 
 ### Utilizando algoritmos deep learning para desenvolver um sistema que
-- [X] Acessará a webcam local do computador, notebook com o algoritmo ![OpenCV](https://docs.opencv.org/2.4.13.7/_static/opencv-logo-white.png)
+- [X] Acessará a webcam local do computador, notebook com o algoritmo ![OpenCV](opencv-logo-white.png)
 - [X] Gravará a imagem com outras imagens no computador local
 
 ### Utilizando as técnicas machine learning vamos 
