@@ -46,7 +46,7 @@ Observação: Analisar o item **Tecnologias utilizadas neste projeto**
 
 ### Bibliotecas python utilizadas
 ```batch
--
+- faremoi
 ```
 
 ### 4. FLUXO DO PROCESSO
@@ -57,7 +57,8 @@ Desenvolver com a linguagem python um algoritmo machine learning em modo supervi
 - [X] 
 
 
-Este foi um desafio proposto pela equipe Data Science do Zero
+#### Origem deste projeto
+Este foi um desafio proposto no curso Data Science do Zero da equipe Minerando Dados
 
 
 #### Fontes de estudo
@@ -66,9 +67,10 @@ Este foi um desafio proposto pela equipe Data Science do Zero
 * [OpenCV no github](https://github.com/opencv/opencv/)
 * [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf)
 
-### ---------------------------------------------------------------------------------------------------------------------------------------------------
-### *Agradecimentos*
-*Ser agradecido para mim é a atitude que torna as pessoas seres melhores e tornar o lugar em que vivemos ainda melhor*
+
+
+### *AGRADECIMENTOS*
+*Ser agradecido para mim é a atitude que torna as pessoas seres melhores*
 
 Agradeço a minha mãe sra Rosalita Borges Evangelista por ter me ensinado, através de suas ações, a ser um guerreiro que aprende com a perda das batalhas mas alcança a vitória da guerra, por me ensinar a ser um ser humano que tenta melhorar a vida das pessoas
 
