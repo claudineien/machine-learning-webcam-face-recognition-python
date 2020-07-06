@@ -1,5 +1,4 @@
-## Programa Reconhecimento facial em tempo real através da webcam
-<h2 align="center">REAL TIME FACE RECOGNINTION</h2>
+## Sistema Reconhecimento facial em tempo real através da webcam
 ### Reconhecimento Facial
 Em simples palavras ...
 
@@ -7,13 +6,31 @@ Em simples palavras ...
 A imagem pode ser foto, vídeo ou câmera
 
 ### Machine Learning
+Em simples palavras ...
+
 É a técnica computacional de ensinar uma máquina com determinado poder computacional a resolver tarefas complexas para predizer ações passadas ou futuras o mais automático possível
 Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, por mais complexa que seja
 
 ### Deep Learning
 Em simples palavras ...
 
-É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio, voz para auxiliar a identificar o seu autor
+É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio ou voz para auxiliar a identificar o seu autor e/ou
+
+## Informações Técnicas
+---
+### Tecnologias utilizadas neste projeto
+Linguagem de programação : python 3.7.7
+Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1
+OS : Windows_NT x64 10.0.18363
+CPU : Intel(R) Corel(TM) i3-4005U CPU @ 1.70GHz 1.70 GHz
+RAM : 8GB
+SSD : 225GB
+Browser : Chrome: 78.0.3904.130
+Plataforma de Desenvolvimento : Jupyter notebook 4.6.3
+Plataforma de Desenvolvimento : miniconda-conda 4.8.3
+
+### Fluxo do processo
+Desenvolver com a linguagem python um algoritmo machine learning em modo supervisionado para ativar tecnologia deep learning para reconhecimento facial
 
 ### Utilizando algoritmos deep learning para desenvolver um sistema que
 - [X] Acessará a webcam local do computador, notebook com o algoritmo  [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")
