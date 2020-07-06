@@ -32,3 +32,10 @@ Este foi um desafio proposto pela equipe Data Science do Zero
 #### Bibliografias estudadas
 * [OpenCV no github](https://github.com/opencv/opencv/)
 * [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf)
+
+#### *Agradecimentos*
+Ser grato para mim é a atitude que modifica o mundo a ser um lugar melhor para se viver
+Agradeço a minha esposa e as minhas filhas pelo apoio
+Agradeço aos criadores do computador, da internet, das linguagens para programação computacional, inteligência artificial e tecnologias em geral
+Agradeço a equipe Mineirando Dados que criou o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science
+
