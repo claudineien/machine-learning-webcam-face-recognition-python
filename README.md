@@ -66,7 +66,7 @@ Este foi um desafio proposto pela equipe Data Science do Zero
 * [OpenCV no github](https://github.com/opencv/opencv/)
 * [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf)
 
-
+###---------------------------------------------------------------------------------------------------------------------------------------------------
 ### *Agradecimentos*
 *Ser agradecido para mim é a atitude que torna as pessoas seres melhores e tornar o lugar em que vivemos ainda melhor*
 
