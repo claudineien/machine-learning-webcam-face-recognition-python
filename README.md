@@ -30,4 +30,5 @@ Este foi um desafio proposto pela equipe Data Science do Zero
 
 
 #### Bibliografias estudadas
-![Partnershiponai.org]("https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf")
+* [OpenCV no github](https://github.com/opencv/opencv/)
+* [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf)
