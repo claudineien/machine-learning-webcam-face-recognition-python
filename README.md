@@ -1,4 +1,5 @@
 ## Programa Reconhecimento facial em tempo real através da webcam
+<h2 align="center">REAL TIME FACE RECOGNINTION</h2>
 ### Reconhecimento Facial
 Em simples palavras ...
 
