@@ -1,6 +1,5 @@
 <h2 align="center">Sistema Reconhecimento facial em tempo real através da webcam</h2>
 
-<a href="https://www.python.org/downloads/release/python-382/">python tecnology</a>
 
 ### 1. CONCEITOS DE FORMA SIMPLES
 ### Reconhecimento Facial
@@ -48,9 +47,12 @@ Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, por mais 
 Observação: Analisar o item **Tecnologias utilizadas neste projeto**
 
 ### Bibliotecas python utilizadas
-```batch
-- faremoi
-```
+<ol>
+  <li>opencv-custom<a href="blank"> saiba como instalar</a></li>
+  <li>pandas</li>
+  <li>SVC</li>
+  <li>MTCNN</li>
+</ol>
 
 ### 4. FLUXO DO PROCESSO
 Desenvolver com a linguagem python um algoritmo machine learning em modo supervisionado para utilizar a tecnologia deep learning no reconhecimento facial
