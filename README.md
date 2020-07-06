@@ -37,7 +37,7 @@ Este foi um desafio proposto pela equipe Data Science do Zero
 
 
 ### *Agradecimentos*
-*Ser agradecido para mim é a atitude que faz as pessoas a serem melhores e tornar o lugar em que vivemos ainda melhor*
+*Ser agradecido para mim é a atitude que torna as pessoas seres melhores e tornar o lugar em que vivemos ainda melhor*
 
 Agradeço a minha mãe sra Rosalita Borges Evangelista por ter me ensinado, através de suas ações, a ser um guerreiro que aprende com a perda das batalhas mas alcança a vitória da guerra, por me ensinar a ser um ser humano que tenta melhorar a vida das pessoas
 
