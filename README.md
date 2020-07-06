@@ -1,6 +1,6 @@
 ## Programa Reconhecimento facial em tempo real através da webcam
 ### Reconhecimento Facial
-Em palavras bem simples ...
+Em simples palavras ...
 
 É a técnica de capturar/pegar toda a parte do rosto que envolve testa, olhos, nariz, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, apontar similaridades e exibir resultado mais próximo ao que desejamos
 A imagem pode ser foto, vídeo ou câmera
@@ -10,12 +10,12 @@ A imagem pode ser foto, vídeo ou câmera
 Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, por mais complexa que seja
 
 ### Deep Learning
-Em palavras bem simples ...
+Em simples palavras ...
 
-É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio, voz para auxiliar na identificação do seu autor
+É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio, voz para auxiliar a identificar o seu autor
 
 ### Utilizando algoritmos deep learning para desenvolver um sistema que
-- [X] Acessará a webcam local do computador, notebook com o algoritmo [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")
+- Acessará a webcam local do computador, notebook com o algoritmo  [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")
 - [X] Gravará a imagem com outras imagens no computador local
 
 ### Utilizando as técnicas machine learning vamos 
