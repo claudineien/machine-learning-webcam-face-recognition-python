@@ -44,4 +44,4 @@ Agradeço aos criadores do computador, da internet, das linguagens para programa
 
 Agradeço a equipe Mineirando Dados que criou o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science, parq encurtar meu aprendizado
 
-Muito obrigado a todos :simple_smile:
+Muito obrigado a todos :wink:
