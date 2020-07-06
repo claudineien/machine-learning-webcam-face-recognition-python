@@ -1,7 +1,6 @@
 ## Sistema Reconhecimento facial em tempo real através da webcam
+### 1. CONCEITOS
 ### Reconhecimento Facial
-Em simples palavras ...
-
 É a técnica de capturar/pegar toda a parte do rosto que envolve testa, olhos, nariz, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, apontar similaridades e exibir resultado mais próximo ao que desejamos
 A imagem pode ser foto, vídeo ou câmera
 
@@ -16,18 +15,20 @@ Em simples palavras ...
 
 É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio ou voz para auxiliar a identificar o seu autor e/ou
 
-## Informações Técnicas
----
+### 2. INFORMAÇÕES TÉCNICAS
 ### Tecnologias utilizadas neste projeto
 Linguagem de programação : python 3.7.7
 Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1
-OS : Windows_NT x64 10.0.18363
+OS : Windows_NT Home x64 10.0.18363
 CPU : Intel(R) Corel(TM) i3-4005U CPU @ 1.70GHz 1.70 GHz
 RAM : 8GB
 SSD : 225GB
 Browser : Chrome: 78.0.3904.130
-Plataforma de Desenvolvimento : Jupyter notebook 4.6.3
-Plataforma de Desenvolvimento : miniconda-conda 4.8.3
+Plataforma Front de Desenvolvimento : Jupyter notebook 4.6.3
+Plataforma Back de Desenvolvimento : miniconda-conda 4.8.3
+
+### PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA
+Analisar o item **Tecnologias utilizadas neste projeto**
 
 ### Fluxo do processo
 Desenvolver com a linguagem python um algoritmo machine learning em modo supervisionado para ativar tecnologia deep learning para reconhecimento facial
