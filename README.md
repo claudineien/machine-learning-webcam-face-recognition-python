@@ -13,4 +13,4 @@
 
 Este foi um desafio proposto pela equipe Data Science do Zero
 
-[![DaringFire](mardkdowndaringfireballv.png)](https://daringfireball.net/linked/2019/11/28/ink/)
+[![DaringFire](mardkdowndaringfireball.png)](https://daringfireball.net/linked/2019/11/28/ink/)
