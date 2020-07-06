@@ -48,7 +48,7 @@ Observação: Analisar o item **Tecnologias utilizadas neste projeto**
 
 ### Bibliotecas python utilizadas
 <ol>
-  <li>opencv-custom<a href="blank"> saiba como instalar</a></li>
+  <li>opencv-custom<a href="blank"> <b>(?)<b> </a></li>
   <li>pandas</li>
   <li>SVC</li>
   <li>MTCNN</li>
