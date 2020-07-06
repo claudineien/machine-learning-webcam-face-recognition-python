@@ -15,7 +15,7 @@ Em palavras bem simples ...
 É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio, voz para auxiliar na identificação do seu autor
 
 ### Utilizando algoritmos deep learning para desenvolver um sistema que
-- [X] Acessará a webcam local do computador, notebook com o algoritmo ![OpenCV](opencv-logo-white-mini.jpg)https://opencv.org/
+- [X] Acessará a webcam local do computador, notebook com o algoritmo ![OpenCV](opencv-logo-white-mini.jpg "OpenCV")https://opencv.org/
 - [X] Gravará a imagem com outras imagens no computador local
 
 ### Utilizando as técnicas machine learning vamos 
