@@ -1,4 +1,14 @@
 ## Programa Reconhecimento facial em tempo real através da webcam
+### Reconhecimento Facial
+Em palavras bem simples ...
+É a técnica de capturar/pegar toda a parte do rosto que envolve testa, olhos, nariz, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, apontar similaridades e exibir resultado mais próximo ao que desejamos
+
+### Machine Learning
+
+
+### Deep Learning
+
+
 ### Utilizando algoritmos deep learning para desenvolver um sistema que
 - [X] Acessará a webcam local do computador, notebook com o algoritmo OpenCV
 - [X] Gravará a imagem com outras imagens no computador local
@@ -13,4 +23,6 @@
 
 Este foi um desafio proposto pela equipe Data Science do Zero
 
-[![DaringFire](mardkdowndaringfireballv1.png)](https://daringfireball.net/linked/2019/11/28/ink/)
+
+#### Bibliografias estudadas
+![Partnershiponai.org]("https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf")
