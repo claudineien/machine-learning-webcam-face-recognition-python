@@ -15,16 +15,16 @@ Em simples palavras ...
 É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio, voz para auxiliar a identificar o seu autor
 
 ### Utilizando algoritmos deep learning para desenvolver um sistema que
-- Acessará a webcam local do computador, notebook com o algoritmo  [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")
+- [X] Acessará a webcam local do computador, notebook com o algoritmo  [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")
 - [X] Gravará a imagem com outras imagens no computador local
 
 ### Utilizando as técnicas machine learning vamos 
-- [x] Aplicar Standartization
-- [x] Aplicar Normatization
-- [x] Executar treinamento de reconhecimento facial do algorítimo MTCNN
-- [x] Utilizar técnica de Predição do algorítimo MTCNN
-- [x] Converter dados categóricos em numéricos com LabelEncoder
-- [x] Treinar o modelo Classificador SVC-SVM
+- [X] Aplicar Standartization
+- [X] Aplicar Normatization
+- [X] Executar treinamento de reconhecimento facial do algorítimo MTCNN
+- [X] Utilizar técnica de Predição do algorítimo MTCNN
+- [X] Converter dados categóricos em numéricos com LabelEncoder
+- [X] Treinar o modelo Classificador SVC-SVM
 
 Este foi um desafio proposto pela equipe Data Science do Zero
 
