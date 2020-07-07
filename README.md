@@ -13,6 +13,51 @@
   </ol>
 </details>
 
+<details>
+  <summary><strong>2. INFORMAÇÕES TÉCNICAS</strong></summary>
+  <ol>
+    <li><strong>Tecnologias utilizadas neste projeto</strong></li>
+    <p>- [X] Linguagem de programação : python 3.7.7</p>
+    <p>- [X] Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1</p>
+    <p>- [X] OS : Windows_NT Home x64 10.0.18363</p>
+    <p>- [X] CPU : Intel(R) Corel(TM) i3-4005U CPU @ 1.70GHz 1.70 GHz</p>
+    <p>- [X] RAM : 8GB</p>
+    <p>- [X] SSD : 225GB</p>
+    <p>- [X] Browser : Chrome: 78.0.3904.130</p>
+    <p>- [X] Plataforma Front de Desenvolvimento : Jupyter notebook 4.6.3</p>
+    <p>- [X] Plataforma Back de Desenvolvimento : miniconda-conda 4.8.3</p>
+    <li><strong>Utilizando algoritmos deep learning para desenvolver um sistema que</strong></li>
+    <p>- [X] Acessará a webcam local do computador, notebook com o algoritmo  [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")</p>
+    <p>- [X] Gravará a imagem com outras imagens no computador local</p>
+
+    
+  </ol>
+  
+  
+  <img src="opencv-logo-white-mini.jpg" alt="Workplace" usemap="#workmap" width="38" height="38">
+
+
+  
+
+### Utilizando algoritmos deep learning para desenvolver um sistema que
+- [X] Acessará a webcam local do computador, notebook com o algoritmo  [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")
+- [X] Gravará a imagem com outras imagens no computador local
+
+
+</details>
+
+
+<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+
+
+### Utilizando as técnicas machine learning vamos 
+- [X] Aplicar Standartization
+- [X] Aplicar Normatization
+- [X] Executar treinamento de reconhecimento facial do algorítimo MTCNN
+- [X] Utilizar técnica de Predição do algorítimo MTCNN
+- [X] Converter dados categóricos em numéricos com LabelEncoder
+- [X] Treinar o modelo Classificador SVC-SVM
+
 
 
 
