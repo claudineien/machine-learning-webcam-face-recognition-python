@@ -1,3 +1,29 @@
+<h2><strong>Sistema Reconhecimento facial em tempo real através da webcam</strong></h2>
+<details>
+  <summary><strong>1. CONCEITOS DE FORMA SIMPLES</strong></summary>
+  <ol>
+    <li><strong>Reconhecimento Facial</strong></li>
+    <p>É a técnica de capturar/pegar toda a parte do rosto que envolve testa, olhos, nariz, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, apontar similaridades e exibir resultado mais próximo ao que desejamos</p>
+    <p>A imagem considerada é uma foto, vídeo ou câmera</p>
+    <li><strong>Machine Learning</strong></li>
+    <p>É a técnica computacional de ensinar uma máquina com determinado poder computacional a resolver tarefas complexas para predizer ações passadas ou futuras o mais automático possível</p>
+    <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, por mais complexa que seja</p>
+    <li><strong>Deep Learning</strong></li>
+    <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio ou voz para auxiliar a identificar o seu autor e/ou </p>
+  </ol>
+</details>
+
+
+<img src="opencv-logo-white-mini.jpg" alt="Workplace" usemap="#workmap" width="160" height="151">
+<map name="workmap">
+  <area shape="rect" coords="34,44,108,140" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="coffee.htm">
+</map>
+
+
+
+
 ## Sistema Reconhecimento facial em tempo real através da webcam
 
 ### 1. CONCEITOS DE FORMA SIMPLES
