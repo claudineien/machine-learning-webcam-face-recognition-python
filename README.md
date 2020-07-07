@@ -17,18 +17,18 @@
   <summary><strong>2. INFORMAÇÕES TÉCNICAS</strong></summary>
   <ol>
     <li><strong>Tecnologias utilizadas neste projeto</strong></li>
-    <p>- [X] Linguagem de programação : python 3.7.7</p>
-    <p>- [X] Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1</p>
-    <p>- [X] OS : Windows_NT Home x64 10.0.18363</p>
-    <p>- [X] CPU : Intel(R) Corel(TM) i3-4005U CPU @ 1.70GHz 1.70 GHz</p>
-    <p>- [X] RAM : 8GB</p>
-    <p>- [X] SSD : 225GB</p>
-    <p>- [X] Browser : Chrome: 78.0.3904.130</p>
-    <p>- [X] Plataforma Front de Desenvolvimento : Jupyter notebook 4.6.3</p>
-    <p>- [X] Plataforma Back de Desenvolvimento : miniconda-conda 4.8.3</p>
+    <p>- Linguagem de programação : python 3.7.7</p>
+    <p>- Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1</p>
+    <p>- OS : Windows_NT Home x64 10.0.18363</p>
+    <p>- CPU : Intel(R) Corel(TM) i3-4005U CPU @ 1.70GHz 1.70 GHz</p>
+    <p>- RAM : 8GB</p>
+    <p>- SSD : 225GB</p>
+    <p>- Browser : Chrome: 78.0.3904.130</p>
+    <p>- Plataforma Front de Desenvolvimento : Jupyter notebook 4.6.3</p>
+    <p>- Plataforma Back de Desenvolvimento : miniconda-conda 4.8.3</p>
     <li><strong>Utilizando algoritmos deep learning para desenvolver um sistema que</strong></li>
-    <p>- [X] Acessará a webcam local do computador, notebook com o algoritmo  [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")</p>
-    <p>- [X] Gravará a imagem com outras imagens no computador local</p>
+    <p>- Acessará a webcam local do computador, notebook com o algoritmo  [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")</p>
+    <p>- Gravará a imagem com outras imagens no computador local</p>
 
     
   </ol>
@@ -46,8 +46,6 @@
 
 </details>
 
-
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
 
 
 ### Utilizando as técnicas machine learning vamos 
