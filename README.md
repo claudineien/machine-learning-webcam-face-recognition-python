@@ -22,7 +22,7 @@
 <details>
   <summary><strong>2. INFORMAÇÕES TÉCNICAS</strong></summary>
   <ol>
-    <li><strong>Tecnologias utilizadas neste projeto</strong>
+    <li><strong><a id="itemtec" >Tecnologias utilizadas neste projeto</a></strong>
       <ol>
         <p>
         <li>- [x] Linguagem de programação : python 3.7.7</li>
@@ -80,7 +80,7 @@
           <li>- [x] Instalar <a href="https://code.visualstudio.com/download" target="_blank">visual studio code</a></li>
         </p>
       </ol>
-      <p><b>Nota: </b>Analisar o item <em>Tecnologias utilizadas neste projeto</em></p>
+      <p><b>Nota: </b>Analisar o item <em><a href="itemtec">Tecnologias utilizadas neste projeto</a></em></p>
     </li>
     <li><strong>Instalar as bibliotecas de algoritmos</strong>
       <ol>
