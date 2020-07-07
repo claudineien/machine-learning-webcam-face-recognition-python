@@ -36,14 +36,22 @@
         </p>
       </ol>
     </li>
-    <li><strong>Utilizando algoritmos deep learning para desenvolver um sistema que</strong>
+    <li><strong>Algoritmos de visão computacional <a href=""><img src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> para e deep learning MTCNN  para desenvolver um sistema que</strong>
       <ol>
         <p>
-        <li>- [x] Acessará a webcam local do computador, notebook com o algoritmo <img src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28">/li>
-        <li>- [x] Gravará a imagem com outras imagens no computador local</li>
+        <li>- [x] Acessar a webcam local do computador, notebook </li>
+        <li>- [x] Gravar a imagem com outras imagens no computador local</li>
         </p>
       </ol>
     </li>
+    <li><strong>Algoritmos deep learning e rede neural mtcnn 0.1.0 <a href="https://pypi.org/project/mtcnn/"><img src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> para e deep learning MTCNN  para desenvolver um sistema que</strong>
+      <ol>
+        <p>
+        <li>- [x] Acessar a webcam local do computador, notebook </li>
+        <li>- [x] Gravar a imagem com outras imagens no computador local</li>
+        </p>
+      </ol>
+    </li>    
     <li><strong>Utilizando as técnicas machine learning vamos</strong>
       <ol>
         <p>
@@ -53,7 +61,7 @@
           <li>- [x] Utilizar técnica de Predição do algorítimo MTCNN</li>
           <li>- [x] Converter dados categóricos em numéricos com LabelEncoder</li>
           <li>- [x] Treinar o modelo Classificador SVC-SVM</li>
-          <li>- [x] Exibir o resultado no algorítimo OpenCV pela webcam</li>
+          <li>- [x] Exibir o resultado da identificação no algorítimo OpenCV pela webcam</li>
         </p>
       </ol>
     </li>    
