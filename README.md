@@ -3,7 +3,7 @@
   <summary><strong>1. CONCEITOS DE FORMA SIMPLES</strong></summary>
   <ol>
     <li><strong>Reconhecimento Facial</strong></li>
-    <p>É a técnica de capturar/pegar toda a parte do rosto que envolve testa, olhos, nariz, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, apontar similaridades e exibir resultado mais próximo ao que desejamos</p>
+    <p>É a técnica de capturar/pegar toda a parte frontal do rosto que envolve parte da cabeça, testa, olhos, nariz, maças do rosto, bochechas, lábios, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, apontar similaridades e exibir resultado mais próximo ao que desejamos</p>
     <p>A imagem considerada é uma foto, vídeo ou câmera</p>
     <li><strong>Machine Learning</strong></li>
     <p>É a técnica computacional de ensinar uma máquina com determinado poder computacional a resolver tarefas complexas para predizer ações passadas ou futuras o mais automático possível</p>
