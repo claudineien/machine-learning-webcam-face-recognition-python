@@ -27,34 +27,23 @@
     <p>- Plataforma Front de Desenvolvimento : Jupyter notebook 4.6.3</p>
     <p>- Plataforma Back de Desenvolvimento : miniconda-conda 4.8.3</p>
     <li><strong>Utilizando algoritmos deep learning para desenvolver um sistema que</strong></li>
-    <p>- Acessará a webcam local do computador, notebook com o algoritmo  [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")</p>
+    <p>- Acessará a webcam local do computador, notebook com o algoritmo <img src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28">/p>
     <p>- Gravará a imagem com outras imagens no computador local</p>
+    <li><strong>Utilizando as técnicas machine learning vamos</strong></li>
+    <p>- Aplicar Standartization</p>
+    <p>- Aplicar Normatization</p>
+    <p>- Executar treinamento de reconhecimento facial do algorítimo MTCNN</p>
+    <p>- Utilizar técnica de Predição do algorítimo MTCNN</p>
+    <p>- Converter dados categóricos em numéricos com LabelEncoder</p>
+    <p>- Treinar o modelo Classificador SVC-SVM</p>
 
     
   </ol>
-  
-  
-  <img src="opencv-logo-white-mini.jpg" alt="Workplace" usemap="#workmap" width="38" height="38">
-
-
-  
-
-### Utilizando algoritmos deep learning para desenvolver um sistema que
-- [X] Acessará a webcam local do computador, notebook com o algoritmo  [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")
-- [X] Gravará a imagem com outras imagens no computador local
-
-
 </details>
 
+ <img src="opencv-logo-white-mini.jpg" alt="Workplace" usemap="#workmap" width="38" height="38">
+ 
 
-
-### Utilizando as técnicas machine learning vamos 
-- [X] Aplicar Standartization
-- [X] Aplicar Normatization
-- [X] Executar treinamento de reconhecimento facial do algorítimo MTCNN
-- [X] Utilizar técnica de Predição do algorítimo MTCNN
-- [X] Converter dados categóricos em numéricos com LabelEncoder
-- [X] Treinar o modelo Classificador SVC-SVM
 
 
 
