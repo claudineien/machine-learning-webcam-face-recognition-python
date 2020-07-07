@@ -2,21 +2,24 @@
 <details>
   <summary><strong>1. CONCEITOS DE FORMA SIMPLES</strong></summary>
   <ol>
-    <li><strong>Reconhecimento Facial</strong></li>
-    <p>É a técnica de capturar/pegar toda a parte frontal do rosto que envolve parte da cabeça, testa, olhos, nariz, maças do rosto, bochechas, lábios, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, apontar similaridades e exibir resultado mais próximo ao que desejamos</p>
-    <p>A imagem considerada é uma foto, vídeo ou câmera</p>
-    <li><strong>Machine Learning</strong></li>
-    <p>É a técnica computacional de ensinar uma máquina com determinado poder computacional a resolver tarefas complexas para predizer ações passadas ou futuras o mais automático possível</p>
-    <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, por mais complexa que seja</p>
-    <li><strong>Deep Learning</strong></li>
-    <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio ou voz para auxiliar a identificar o seu autor e/ou </p>
+    <li><strong>Reconhecimento Facial</strong>
+      <p>É a técnica de capturar/pegar toda a parte frontal do rosto que envolve parte da cabeça, testa, olhos, nariz, maças do rosto, bochechas, lábios, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, apontar similaridades e exibir resultado mais próximo ao que desejamos</p>
+      <p>A imagem considerada é uma foto, vídeo ou câmera</p>
+    </li>
+    <li><strong>Machine Learning</strong>
+      <p>É a técnica computacional de ensinar uma máquina com determinado poder computacional a resolver tarefas complexas para predizer ações passadas ou futuras o mais automático possível</p>
+      <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, por mais complexa que seja</p>
+    </li>
+    <li><strong>Deep Learning</strong>
+      <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio ou voz para auxiliar a identificar o seu autor e/ou </p>
+    </li>
   </ol>
 </details>
 
 <details>
   <summary><strong>2. INFORMAÇÕES TÉCNICAS</strong></summary>
   <ol>
-    <li><strong>Tecnologias utilizadas neste projeto</strong></li>
+    <li><strong>Tecnologias utilizadas neste projeto</strong>
       <ol>
         <li>- [x] Linguagem de programação : python 3.7.7</li>
         <li>- [x] Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1</li>
@@ -28,18 +31,21 @@
         <li>- [x] Plataforma Front de Desenvolvimento : Jupyter notebook 4.6.3</li>
         <li>- [x] Plataforma Back de Desenvolvimento : miniconda-conda 4.8.3</li>
       </ol>
-    <li><strong>Utilizando algoritmos deep learning para desenvolver um sistema que</strong></li>
+    </li>
+    <li><strong>Utilizando algoritmos deep learning para desenvolver um sistema que</strong>
       <ol>
         <li>- [x] Acessará a webcam local do computador, notebook com o algoritmo <img src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28">/li>
         <li>- [x] Gravará a imagem com outras imagens no computador local</li>
       </ol>
-    <li><strong>Utilizando as técnicas machine learning vamos</strong></li>
-    <p>- Aplicar Standartization</p>
-    <p>- Aplicar Normatization</p>
-    <p>- Executar treinamento de reconhecimento facial do algorítimo MTCNN</p>
-    <p>- Utilizar técnica de Predição do algorítimo MTCNN</p>
-    <p>- Converter dados categóricos em numéricos com LabelEncoder</p>
-    <p>- Treinar o modelo Classificador SVC-SVM</p>    
+    </li>
+    <li><strong>Utilizando as técnicas machine learning vamos</strong>
+      <p>- Aplicar Standartization</p>
+      <p>- Aplicar Normatization</p>
+      <p>- Executar treinamento de reconhecimento facial do algorítimo MTCNN</p>
+      <p>- Utilizar técnica de Predição do algorítimo MTCNN</p>
+      <p>- Converter dados categóricos em numéricos com LabelEncoder</p>
+      <p>- Treinar o modelo Classificador SVC-SVM</p>
+    </li>    
   </ol>
 </details>
 
