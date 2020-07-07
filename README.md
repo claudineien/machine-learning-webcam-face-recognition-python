@@ -36,7 +36,7 @@
         </p>
       </ol>
     </li>
-    <li><strong>Algoritmos de visão computacional <a href="" target="blank"><img src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> para</strong>
+    <li><strong>Algoritmos de visão computacional <a href="" target="_blank"><img src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> para</strong>
       <ol>
         <p>
         <li>- [x] Acessar a webcam local do computador, notebook </li>
@@ -44,7 +44,7 @@
         </p>
       </ol>
     </li>
-    <li><strong>Algoritmos deep learning e rede neural <a href="https://pypi.org/project/mtcnn/" target="blank">mtcnn 0.1.0</a> para</strong>
+    <li><strong>Algoritmos deep learning e rede neural <a href="https://pypi.org/project/mtcnn/" target="_blank">mtcnn 0.1.0</a> para</strong>
       <ol>
         <p>
         <li>- [x] Analisar imagem capturada</li>
