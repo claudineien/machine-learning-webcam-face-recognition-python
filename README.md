@@ -1,11 +1,3 @@
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-![alt text][logo]
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-
-
 ## Sistema Reconhecimento facial em tempo real através da webcam
 
 ### 1. CONCEITOS DE FORMA SIMPLES
@@ -74,10 +66,10 @@ Este foi um desafio proposto no curso Data Science do Zero da equipe Minerando D
 
 
 #### Fontes de estudo
-* [Minerando Dados >>](https://minerandodados.com.br/ "Minerando Dados")
-* [Site OpenCV](https://opencv.org/)
-* [OpenCV no github](https://github.com/opencv/opencv/)
-* [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf)
+* [Minerando Dados](https://minerandodados.com.br/ "Minerando Dados")
+* [Site OpenCV](https://opencv.org/ "Site OpenCV")
+* [OpenCV no github](https://github.com/opencv/opencv/ "OpenCV no github")
+* [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf "Partnershiponai.org")
 
 
 
