@@ -45,14 +45,17 @@
       </ol>
     </li>
     <li><strong>Utilizando as técnicas machine learning vamos</strong>
-      <p>
-        <li>- [x] Aplicar Standartization</li>
-        <li>- [x] Aplicar Normatization</li>
-        <li>- [x] Executar treinamento de reconhecimento facial do algorítimo MTCNN</li>
-      <p>- Utilizar técnica de Predição do algorítimo MTCNN</p>
-      <p>- Converter dados categóricos em numéricos com LabelEncoder</p>
-      <p>- Treinar o modelo Classificador SVC-SVM</p>
-      <p>- Exibir o resultado no algorítimo OpenCV pela webcam</p>
+      <ol>
+        <p>
+          <li>- [x] Aplicar Standartization</li>
+          <li>- [x] Aplicar Normatization</li>
+          <li>- [x] Executar treinamento de reconhecimento facial do algorítimo MTCNN</li>
+          <li>- [x] Utilizar técnica de Predição do algorítimo MTCNN</li>
+          <li>- [x] Converter dados categóricos em numéricos com LabelEncoder</li>
+          <li>- [x] Treinar o modelo Classificador SVC-SVM</li>
+          <li>- [x] Exibir o resultado no algorítimo OpenCV pela webcam</li>
+        </p>
+      </ol>
     </li>    
   </ol>
 </details>
