@@ -75,9 +75,9 @@
     <li><strong>Instalar as plataformas de desenvolvimento</strong>
       <ol>
         <p>
-          <li>- [x] Instalar miniconda3</li>
-          <li>- [x] Instalar jupyter notebook</li>
-          <li>- [x] Instalar Visual Studio Code</li>
+          <li>- [x] Instalar <a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank">miniconda3</a></li>
+          <li>- [x] Instalar <a href="https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html" target="_blank">jupyter notebook</a></li>
+          <li>- [x] Instalar <a href="https://code.visualstudio.com/download" target="_blank">visual studio code</a></li>
         </p>
       </ol>
       <p><b>Nota: </b>Analisar o item <em>Tecnologias utilizadas neste projeto</em></p>
