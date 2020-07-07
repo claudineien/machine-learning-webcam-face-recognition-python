@@ -39,7 +39,7 @@
     <li><strong>Algoritmos de visão computacional <a href="https://docs.opencv.org/2.4/" target="_blank"><img src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> para</strong>
       <ol>
         <p>
-        <li>- [x] Acessar a webcam local do computador![OPENCV](https://docs.opencv.org/2.4/ "OpenCV"), notebook </li>
+        <li>- [x] Acessar a webcam local do computador [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV"), notebook </li>
         <li>- [x] Gravar a imagem com outras imagens no computador local</li>
         </p>
       </ol>
