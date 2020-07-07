@@ -17,27 +17,29 @@
   <summary><strong>2. INFORMAÇÕES TÉCNICAS</strong></summary>
   <ol>
     <li><strong>Tecnologias utilizadas neste projeto</strong></li>
-    <p>- Linguagem de programação : python 3.7.7</p>
-    <p>- Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1</p>
-    <p>- OS : Windows_NT Home x64 10.0.18363</p>
-    <p>- CPU : Intel(R) Corel(TM) i3-4005U CPU @ 1.70GHz 1.70 GHz</p>
-    <p>- RAM : 8GB</p>
-    <p>- SSD : 225GB</p>
-    <p>- Browser : Chrome: 78.0.3904.130</p>
-    <p>- Plataforma Front de Desenvolvimento : Jupyter notebook 4.6.3</p>
-    <p>- Plataforma Back de Desenvolvimento : miniconda-conda 4.8.3</p>
+      <ol>
+        <li>- [x] Linguagem de programação : python 3.7.7</li>
+        <li>- [x] Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1</li>
+        <li>- [x] OS : Windows_NT Home x64 10.0.18363</li>
+        <li>- [x] CPU : Intel(R) Corel(TM) i3-4005U CPU @ 1.70GHz 1.70 GHz</li>
+        <li>- [x] RAM : 8GB</li>
+        <li>- [x] SSD : 225GB</li>
+        <li>- [x] Browser : Chrome: 78.0.3904.130</li>
+        <li>- [x] Plataforma Front de Desenvolvimento : Jupyter notebook 4.6.3</li>
+        <li>- [x] Plataforma Back de Desenvolvimento : miniconda-conda 4.8.3</li>
+      </ol>
     <li><strong>Utilizando algoritmos deep learning para desenvolver um sistema que</strong></li>
-    <p>- Acessará a webcam local do computador, notebook com o algoritmo <img src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28">/p>
-    <p>- Gravará a imagem com outras imagens no computador local</p>
+      <ol>
+        <li>- [x] Acessará a webcam local do computador, notebook com o algoritmo <img src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28">/li>
+        <li>- [x] Gravará a imagem com outras imagens no computador local</li>
+      </ol>
     <li><strong>Utilizando as técnicas machine learning vamos</strong></li>
     <p>- Aplicar Standartization</p>
     <p>- Aplicar Normatization</p>
     <p>- Executar treinamento de reconhecimento facial do algorítimo MTCNN</p>
     <p>- Utilizar técnica de Predição do algorítimo MTCNN</p>
     <p>- Converter dados categóricos em numéricos com LabelEncoder</p>
-    <p>- Treinar o modelo Classificador SVC-SVM</p>
-
-    
+    <p>- Treinar o modelo Classificador SVC-SVM</p>    
   </ol>
 </details>
 
