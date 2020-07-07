@@ -1,5 +1,5 @@
 <h2 align="center"><strong>Sistema Reconhecimento facial em tempo real através da webcam</strong></h2>
-<h4 align="left"><b>Nivel Conhecimento: Estudante Iniciante</b></h4>
+<h4 align="left">Nivel Conhecimento : Estudante Iniciante</h4>
 <details >
   <summary><strong>1. CONCEITOS DE FORMA SIMPLES</strong></summary>
   <ol>
@@ -69,6 +69,22 @@
   </ol>
 </details>
 
+<details>
+  <summary><strong>3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</strong></summary>
+  <ol>
+    <li>Plataformas para desenvolvimento
+      <ol>
+        <li>- [x] Instalar miniconda3</li>
+        <li>- [x] Instalar jupyter notebook</li>
+        <li>- [x] Instalar Visual Studio Code</li>
+      </ol>
+      <p><b>Nota: </b>Esta técnica é normalmente utilizada em seres humanos</p>
+      <p>Observação: Analisar o item **Tecnologias utilizadas neste projeto**</p>
+    </li>
+  </ol>
+</details>
+
+<br>
 <br>
 <br>
 <br>
