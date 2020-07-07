@@ -23,6 +23,7 @@
   <ol>
     <li><strong>Tecnologias utilizadas neste projeto</strong>
       <ol>
+        <p>
         <li>- [x] Linguagem de programação : python 3.7.7</li>
         <li>- [x] Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1</li>
         <li>- [x] OS : Windows_NT Home x64 10.0.18363</li>
@@ -32,32 +33,41 @@
         <li>- [x] Browser : Chrome: 78.0.3904.130</li>
         <li>- [x] Plataforma Front de Desenvolvimento : Jupyter notebook 4.6.3</li>
         <li>- [x] Plataforma Back de Desenvolvimento : miniconda-conda 4.8.3</li>
+        </p>
       </ol>
     </li>
     <li><strong>Utilizando algoritmos deep learning para desenvolver um sistema que</strong>
       <ol>
+        <p>
         <li>- [x] Acessará a webcam local do computador, notebook com o algoritmo <img src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28">/li>
         <li>- [x] Gravará a imagem com outras imagens no computador local</li>
+        </p>
       </ol>
     </li>
     <li><strong>Utilizando as técnicas machine learning vamos</strong>
-      <p>- Aplicar Standartization</p>
-      <p>- Aplicar Normatization</p>
-      <p>- Executar treinamento de reconhecimento facial do algorítimo MTCNN</p>
+      <p>
+        <li>- [x] Aplicar Standartization</li>
+        <li>- [x] Aplicar Normatization</li>
+        <li>- [x] Executar treinamento de reconhecimento facial do algorítimo MTCNN</li>
       <p>- Utilizar técnica de Predição do algorítimo MTCNN</p>
       <p>- Converter dados categóricos em numéricos com LabelEncoder</p>
       <p>- Treinar o modelo Classificador SVC-SVM</p>
+      <p>- Exibir o resultado no algorítimo OpenCV pela webcam</p>
     </li>    
   </ol>
 </details>
 
- <img src="opencv-logo-white-mini.jpg" alt="Workplace" usemap="#workmap" width="38" height="38">
- 
-
-
-
-
-
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<img src="opencv-logo-white-mini.jpg" alt="Workplace" usemap="#workmap" width="38" height="38">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 ## Sistema Reconhecimento facial em tempo real através da webcam
 
 ### 1. CONCEITOS DE FORMA SIMPLES
