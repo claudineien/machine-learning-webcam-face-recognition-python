@@ -1,5 +1,5 @@
 <h2 align="center"><strong>Sistema Reconhecimento facial em tempo real através da webcam</strong></h2>
-<h4 align="left">Nivel Conhecimento : Estudante Iniciante</h4>
+<h4 align="left">Nivel Conhecimento : Estudante Iniciante &#x1F393;</h4>
 <details class="sbdocs sbdocs-details">
   <summary class="sbdocs sbdocs-summary"><strong>1. CONCEITOS DE FORMA SIMPLES</strong></summary>
   <ol>
@@ -37,7 +37,7 @@
         </p>
       </ol>
     </li>
-    <li><strong>Algoritmos de visão computacional <a href="https://opencv.org/" target="_blank"><img src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> para</strong>
+    <li><strong>Algoritmos de visão computacional <a href="https://opencv.org/" target="_blank"><img title="OpenCV" src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> para</strong>
       <ol>
         <p>
         <li>- [x] Acessar a webcam local do computador, notebook </li>
@@ -83,20 +83,11 @@
       <p><b>Nota: </b><br>Analisar o item <em><a href="#itemtec">Tecnologias utilizadas neste projeto</a></em></p>
     </li>
     <li><strong>Instalar as bibliotecas de algoritmos</strong>
-      <p>Antes de iniciar a instação das bibliotecas, atualizar o instalador pip - python package index : python3 -m pip install --upgrade pip</p>
-      ## :file_folder:
-      <div>
-        <div class="agile_float">
-          <script type="text/javascript">
-            dw(IDS_statistics_aglie_month_volume_used);
-            dw(common_colon);
-          </script>
-        </div>
-        <div id="month_used_value" class="agile_td_ltr"></div>
-      </div>
-      <p>Recomendo utilizar o prompt/terminal do anaconda e/ou miniconda para instalar as bibliotecas, por ser mais prático e apresentar menos inconsistências</p>
-      <p>Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user</p>
       <ol>
+        <li>
+        1. Atualizar o instalador pip - python package index :computer: python3 -m pip install --upgrade pip<br>
+        2. Recomendo utilizar o prompt/terminal do anaconda e/ou miniconda para instalar as bibliotecas, por ser mais prático e apresentar menos inconsistências.<br>
+        3. Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user<br></li>
         <li>- [x] pandas</li>
         <li>- [x] opencv-contrib-python</li>
         <li>- [x] scikit-learn</li>
