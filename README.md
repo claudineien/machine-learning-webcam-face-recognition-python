@@ -80,7 +80,7 @@
           <li>- [x] Instalar <a href="https://code.visualstudio.com/download" target="_blank">visual studio code</a></li>
         </p>
       </ol>
-      <p><b>Nota: </b>Analisar o item <em><a href="itemtec">Tecnologias utilizadas neste projeto</a></em></p>
+      <p><b>Nota: </b>Analisar o item <em><a href="#itemtec">Tecnologias utilizadas neste projeto</a></em></p>
     </li>
     <li><strong>Instalar as bibliotecas de algoritmos</strong>
       <ol>
