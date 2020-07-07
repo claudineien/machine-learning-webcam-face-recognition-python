@@ -1,5 +1,5 @@
 <h2 align="center"><strong>Sistema Reconhecimento facial em tempo real através da webcam</strong></h2>
-<details>
+<details open>
   <summary><strong>1. CONCEITOS DE FORMA SIMPLES</strong></summary>
   <ol>
     <li><strong>Reconhecimento Facial</strong>
@@ -18,7 +18,7 @@
   </ol>
 </details>
 
-<details>
+<details open>
   <summary><strong>2. INFORMAÇÕES TÉCNICAS</strong></summary>
   <ol>
     <li><strong>Tecnologias utilizadas neste projeto</strong>
