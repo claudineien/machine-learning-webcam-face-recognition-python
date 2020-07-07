@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/css/style.css">
-</head>
-<body>
 <h2 align="center">Sistema Reconhecimento facial em tempo real através da webcam</h2>
 
 ### 1. CONCEITOS DE FORMA SIMPLES
@@ -93,5 +85,3 @@ Agradeço aos criadores do computador, da internet, das linguagens para programa
 Agradeço a equipe Mineirando Dados que criou o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science, parq encurtar meu aprendizado
 
 Muito obrigado a todos :wink:
-</body>
-</html>
