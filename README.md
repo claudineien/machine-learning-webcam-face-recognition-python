@@ -1,7 +1,7 @@
 <h2 align="center"><strong>Sistema Reconhecimento facial em tempo real através da webcam</strong></h2>
 <h4 align="left">Nivel Conhecimento : Estudante Iniciante</h4>
-<details >
-  <summary><strong>1. CONCEITOS DE FORMA SIMPLES</strong></summary>
+<details class="sbdocs sbdocs-details">
+  <summary class="sbdocs sbdocs-summary"><strong>1. CONCEITOS DE FORMA SIMPLES</strong></summary>
   <ol>
     <li><strong>Reconhecimento Facial</strong>
       <p>É a técnica de capturar/pegar em uma imagem toda a parte frontal do rosto/face que envolve parte da cabeça, testa, olhos, nariz, maças do rosto, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, comparar similaridades e exibir o alvo desejado</p>
