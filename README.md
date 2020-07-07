@@ -60,17 +60,20 @@
   </ol>
 </details>
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <img src="opencv-logo-white-mini.jpg" alt="Workplace" usemap="#workmap" width="38" height="38">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Sistema Reconhecimento facial em tempo real através da webcam
 
 ### 1. CONCEITOS DE FORMA SIMPLES
