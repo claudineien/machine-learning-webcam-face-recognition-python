@@ -1,4 +1,4 @@
-<h2><strong>Sistema Reconhecimento facial em tempo real através da webcam</strong></h2>
+<h2 align="center"><strong>Sistema Reconhecimento facial em tempo real através da webcam</strong></h2>
 <details>
   <summary><strong>1. CONCEITOS DE FORMA SIMPLES</strong></summary>
   <ol>
@@ -12,14 +12,6 @@
     <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio ou voz para auxiliar a identificar o seu autor e/ou </p>
   </ol>
 </details>
-
-
-<img src="opencv-logo-white-mini.jpg" alt="Workplace" usemap="#workmap" width="160" height="151">
-<map name="workmap">
-  <area shape="rect" coords="34,44,108,140" alt="Computer" href="computer.htm">
-  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
-  <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="coffee.htm">
-</map>
 
 
 
