@@ -85,9 +85,12 @@
     <li><strong>Instalar as bibliotecas de algoritmos</strong>
       <p>Antes de iniciar a instação das bibliotecas, atualizar o instalador pip - python package index : python3 -m pip install --upgrade pip</p>
       ## :file_folder:
+      
       ```bash
+      
         python3 -m pip install --upgrade pip
       ```
+      
       <p>Recomendo utilizar o prompt/terminal do anaconda e/ou miniconda para instalar as bibliotecas, por ser mais prático e apresentar menos inconsistências</p>
       <p>Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user</p>
       <ol>
