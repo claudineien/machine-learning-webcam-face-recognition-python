@@ -72,17 +72,27 @@
 <details>
   <summary><strong>3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</strong></summary>
   <ol>
-    <li>Plataformas para desenvolvimento
+    <li><strong>Instalar as plataformas de desenvolvimento</strong>
       <ol>
-        <li>- [x] Instalar miniconda3</li>
-        <li>- [x] Instalar jupyter notebook</li>
-        <li>- [x] Instalar Visual Studio Code</li>
+        <p>
+          <li>- [x] Instalar miniconda3</li>
+          <li>- [x] Instalar jupyter notebook</li>
+          <li>- [x] Instalar Visual Studio Code</li>
+        </p>
       </ol>
-      <p><b>Nota: </b>Esta técnica é normalmente utilizada em seres humanos</p>
-      <p>Observação: Analisar o item **Tecnologias utilizadas neste projeto**</p>
+      <p><b>Nota: </b>Analisar o item <em>Tecnologias utilizadas neste projeto</em></p>
+    </li>
+    <li><strong>Instalar as bibliotecas de algoritmos</strong>
+      <ol>
+        <li>opencv-custom</li>
+        <li>pandas</li>
+        <li>SVC</li>
+        <li>MTCNN</li>
+      </ol>
     </li>
   </ol>
 </details>
+
 
 <br>
 <br>
