@@ -26,6 +26,7 @@
       <ol>
         <p>
         <li>- [x] Linguagem de programação : python 3.7.7</li>
+        <li>- [x] Python Package Index -pip : versão 20.1.1</li>
         <li>- [x] Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1</li>
         <li>- [x] OS : Windows_NT Home x64 10.0.18363</li>
         <li>- [x] CPU : Intel(R) Corel(TM) i3-4005U CPU @ 1.70GHz 1.70 GHz</li>
@@ -80,18 +81,49 @@
           <li>- [x] Instalar <a href="https://code.visualstudio.com/download" target="_blank">visual studio code</a></li>
         </p>
       </ol>
-      <p><b>Nota: </b>Analisar o item <em><a href="#itemtec">Tecnologias utilizadas neste projeto</a></em></p>
+      <p><b>Nota: </b><br>Analisar o item <em><a href="#itemtec">Tecnologias utilizadas neste projeto</a></em></p>
     </li>
     <li><strong>Instalar as bibliotecas de algoritmos</strong>
+      <p>Antes de iniciar a instação das bibliotecas, atualizar o instalador pip - python package index : python3 -m pip install --upgrade pip</p>
+      <p>Recomendo utilizar o prompt/terminal do anaconda e/ou miniconda para instalar as bibliotecas, por ser mais prático e apresentar menos inconsistências</p>
+      <p>Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user</p>
       <ol>
-        <li>opencv-custom</li>
-        <li>pandas</li>
-        <li>SVC</li>
-        <li>MTCNN</li>
+        <li>- [x] pandas</li>
+        <li>- [x] pandas-profilling</li>
+        <li>- [x] opencv-contrib-python</li>
+        <li>- [x] scikit-learn</li>
+        <li>- [x] numpy</li>
+        <li>- [x] scipy</li>
+        <li>- [x] keras</li>
+        <li>- [x] pillow</li>
+        <li>- [x] mtcnn</li>
+        <li>- [x] tensorflow</li>
+        <li>- [x] SVC</li>
+        <li>- [x] MTCNN</li>
       </ol>
+      <p><b>Nota: </b><br>Recomendo instalar as bibliotecas a partir do prompt/terminal do anaconda e/ou miniconda, por apresentar menos inconsistências</p>
     </li>
   </ol>
 </details>
+datetime
+import time
+from os import listdir
+from os.path import isdir
+from PIL import Image
+from numpy import savez_compressed, asarray, load, expand_dims
+from mtcnn.mtcnn import MTCNN
+from keras.models import load_model
+from sklearn.svm import SVC
+import pickle
+
+import cv2
+from mtcnn.mtcnn import MTCNN
+
+import subprocess
+
+https://keras.io/
+
+
 
 
 <br>
