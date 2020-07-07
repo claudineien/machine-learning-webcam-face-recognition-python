@@ -71,7 +71,7 @@
 </details>
 
 <details>
-  <summary><strong>3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</strong></summary>
+  <summary><strong><a id="prereq">3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></strong></summary>
   <ol>
     <li><strong>Instalar as plataformas de desenvolvimento</strong>
       <ol>
@@ -89,13 +89,12 @@
       <p>Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user</p>
       <ol>
         <li>- [x] pandas</li>
-        <li>- [x] pandas-profilling</li>
         <li>- [x] opencv-contrib-python</li>
         <li>- [x] scikit-learn</li>
         <li>- [x] numpy</li>
         <li>- [x] scipy</li>
         <li>- [x] keras</li>
-        <li>- [x] pillow</li>
+        <li>- [x] Pillow</li>
         <li>- [x] mtcnn</li>
         <li>- [x] tensorflow</li>
         <li>- [x] SVC</li>
@@ -105,26 +104,24 @@
     </li>
   </ol>
 </details>
-datetime
-import time
-from os import listdir
-from os.path import isdir
-from PIL import Image
-from numpy import savez_compressed, asarray, load, expand_dims
-from mtcnn.mtcnn import MTCNN
-from keras.models import load_model
-from sklearn.svm import SVC
-import pickle
 
-import cv2
-from mtcnn.mtcnn import MTCNN
+<details>
+  <summary><strong>4. INSTALAÇÃO DO SISTEMA RECONHECIMENTO FACIAL EM TEMPO REAL ATRAVÉS DA WEBCAM</strong></summary>
+  <ol>
+    <li>Cumprir o item <a href="#prereq">3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></li>
+    <li>Baixar o arquivo facenet-mtcnn-labelencoder.ipynb</li>
+  </ol>
+</details>
 
-import subprocess
-
-https://keras.io/
-
-
-
+<details>
+  <summary><strong>5. Fontes de estudo</strong></summary>
+  <ol>
+    <li>[Minerando Dados](https://minerandodados.com.br/ "Minerando Dados")</li>
+    <li>[Site OpenCV](https://opencv.org/ "Site OpenCV")</li>
+    <li>[OpenCV no github](https://github.com/opencv/opencv/ "OpenCV no github")</li>
+    <li>[Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf "Partnershiponai.org")</li>
+  </ol>
+</details>
 
 <br>
 <br>
@@ -134,6 +131,7 @@ https://keras.io/
 <br>
 <br>
 <img src="opencv-logo-white-mini.jpg" alt="Workplace" usemap="#workmap" width="38" height="38">
+https://keras.io/
 <br>
 <br>
 <br>
@@ -215,16 +213,17 @@ Este foi um desafio proposto no curso Data Science do Zero da equipe Minerando D
 * [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf "Partnershiponai.org")
 
 
-
 ### *AGRADECIMENTOS*
 *Ser agradecido para mim é a atitude que torna as pessoas seres melhores*
 
-Agradeço a minha mãe sra Rosalita Borges Evangelista por ter me ensinado, através de suas ações, a ser um guerreiro que aprende com a perda das batalhas mas alcança a vitória da guerra, por me ensinar a ser um ser humano que tenta melhorar a vida das pessoas
+Agradeço a mulher mais importante da minha vida, a minha mãe sra Rosalita Borges Evangelista por ter me sido uma lutadora incansável, lutando por mim, para mim e junto a mim e também aos meus irmãos. Minha mãe é o motivo deu me tornar ser humano honrado.
 
-Agradeço à minha esposa e às minhas filhas por serem minha inspiração e pelo apoio em minhas decisões
+Agradeço aos meus dois irmãos que me ajudaram nos momentos em que mais precisei
+
+Agradeço à minha esposa e às minhas filhas por serem minha razão, emoção e inspiração e pelo apoio em minhas decisões
 
 Agradeço aos criadores do computador, da internet, das linguagens para programação computacional, inteligência artificial e tecnologias em geral
 
-Agradeço a equipe Mineirando Dados que criou o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science, parq encurtar meu aprendizado
+Agradeço a equipe Minerando Dados que criou o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science, parq encurtar meu aprendizado
 
 Muito obrigado a todos :wink:
