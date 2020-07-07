@@ -26,7 +26,7 @@
         <p>
         <li>- [x] Linguagem de programação : python 3.7.7</li>
         <li>- [x] Python Package Index -pip : versão 20.1.1</li>
-        <li>- [x] Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1</li>
+        <li>- [x] Visual Studio Code : Version: 1.46.0 (user setup) Electron: 7.3.1</li>
         <li>- [x] OS : Windows_NT x64 10.0.18363 (Windows 10 Home)</li>
         <li>- [x] CPU : Intel(R) Corel(TM) i3-4005U CPU @ 1.70GHz 1.70 GHz</li>
         <li>- [x] RAM : 8GB</li>
@@ -85,12 +85,15 @@
     <li><strong>Instalar as bibliotecas de algoritmos</strong>
       <p>Antes de iniciar a instação das bibliotecas, atualizar o instalador pip - python package index : python3 -m pip install --upgrade pip</p>
       ## :file_folder:
-      
-      ```bash
-      
-        python3 -m pip install --upgrade pip
-      ```
-      
+      <div>
+        <div class="agile_float">
+          <script type="text/javascript">
+            dw(IDS_statistics_aglie_month_volume_used);
+            dw(common_colon);
+          </script>
+        </div>
+        <div id="month_used_value" class="agile_td_ltr"></div>
+      </div>
       <p>Recomendo utilizar o prompt/terminal do anaconda e/ou miniconda para instalar as bibliotecas, por ser mais prático e apresentar menos inconsistências</p>
       <p>Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user</p>
       <ol>
