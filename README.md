@@ -4,17 +4,16 @@
   <summary class="sbdocs sbdocs-summary"><strong>1. CONCEITOS DE FORMA SIMPLES</strong></summary>
   <ol>
     <li><strong>Reconhecimento Facial</strong>
-      <p>É a técnica de capturar/pegar em uma imagem toda a parte frontal do rosto/face que envolve parte da cabeça, testa, olhos, nariz, maças do rosto, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, comparar similaridades e exibir o alvo desejado</p>
-      <p>A imagem considerada é obtida de uma foto, vídeo ou câmera</p>
-      <p>O alvo desejado é o oser humano que esta sendo buscado</p>
-      <p><b>Nota: </b>Esta técnica é normalmente utilizada em seres humanos</p>
+      <p>É a técnica de capturar/pegar em uma imagem toda a parte frontal do rosto/face que envolve parte da cabeça, testa, olhos, nariz, maças do rosto, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, comparar similaridades e exibir o alvo desejado.</p>
+      <p>A imagem considerada pode ser uma foto, vídeo ou câmera.</p>
+      <p>O alvo desejado é o ser humano que será identificado.</p>
     </li>
     <li><strong>Machine Learning</strong>
-      <p>É a técnica computacional de ensinar uma máquina com determinado poder computacional a resolver tarefas complexas para predizer ações passadas ou futuras o mais automático possível</p>
-      <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, por mais complexa que seja</p>
+      <p>É a técnica computacional de ensinar uma máquina com determinado poder computacional a analisar um conjunto de dados e predizer informações para auxiliar nas decisões.</p>
+      <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, da mais simples a mai complexa.</p>
     </li>
     <li><strong>Deep Learning</strong>
-      <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio ou voz para auxiliar a identificar o seu autor e/ou </p>
+      <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem para auxiliar a identificar a quem esta na imagem.</p>
     </li>
   </ol>
 </details>
@@ -28,7 +27,7 @@
         <li>- [x] Linguagem de programação : python 3.7.7</li>
         <li>- [x] Python Package Index -pip : versão 20.1.1</li>
         <li>- [x] Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1</li>
-        <li>- [x] OS : Windows_NT Home x64 10.0.18363</li>
+        <li>- [x] OS : Windows_NT x64 10.0.18363 (Windows 10 Home)</li>
         <li>- [x] CPU : Intel(R) Corel(TM) i3-4005U CPU @ 1.70GHz 1.70 GHz</li>
         <li>- [x] RAM : 8GB</li>
         <li>- [x] SSD : 225GB</li>
@@ -85,6 +84,10 @@
     </li>
     <li><strong>Instalar as bibliotecas de algoritmos</strong>
       <p>Antes de iniciar a instação das bibliotecas, atualizar o instalador pip - python package index : python3 -m pip install --upgrade pip</p>
+      ## :file_folder:
+      ```bash
+        python3 -m pip install --upgrade pip
+      ```
       <p>Recomendo utilizar o prompt/terminal do anaconda e/ou miniconda para instalar as bibliotecas, por ser mais prático e apresentar menos inconsistências</p>
       <p>Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user</p>
       <ol>
