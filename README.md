@@ -157,7 +157,7 @@
     <thead>
       <tr>
         <ol>
-          <li>Criar uma estrutura de pasta, para armazenar os arquivos disponibilizados na pasta file deste repositório<br>
+          <li>Criar uma estrutura de pasta, para armazenar os arquivos disponibilizados na pasta file deste repositório
             <figure role="img" aria-labelledby="direc_struc">
               <pre>
               Modelo de estrutura a ser criada
