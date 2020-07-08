@@ -144,15 +144,17 @@
 
 <details>
   <summary><strong>5. FONTES DE ESTUDO</strong></summary> 
-  * [Minerando Dados](https://minerandodados.com.br/ "Minerando Dados")
-  * [Site OpenCV](https://opencv.org/ "Site OpenCV")
-  * [OpenCV no github](https://github.com/opencv/opencv/ "OpenCV no github")
-  * [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf "Partnershiponai.org")
-  * [Techradar](https://www.techradar.com/news/what-is-a-neural-network)
-  * [Wikpedia-Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
-  * [scikit-learn](https://scikit-learn.org/stable/)
-  * [scipy](http://scipy.github.io/devdocs/hacking.html)
-  * []()
+  <ol>
+    * [Minerando Dados](https://minerandodados.com.br/ "Minerando Dados")
+    * [Site OpenCV](https://opencv.org/ "Site OpenCV")
+    * [OpenCV no github](https://github.com/opencv/opencv/ "OpenCV no github")
+    * [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf "Partnershiponai.org")
+    * [Techradar](https://www.techradar.com/news/what-is-a-neural-network)
+    * [Wikpedia-Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+    * [scikit-learn](https://scikit-learn.org/stable/)
+    * [scipy](http://scipy.github.io/devdocs/hacking.html)
+    * []()
+  </ol>
 </details>
 
 <br>
