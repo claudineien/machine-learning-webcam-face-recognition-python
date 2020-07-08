@@ -83,6 +83,24 @@
       <p><b>Nota: </b><br>Analisar o item <em><a href="#itemtec">Tecnologias utilizadas neste projeto</a></em></p>
     </li>
     <li><strong>Instalar as bibliotecas de algoritmos</strong>
+    <table>
+    <thead>
+      <tr>
+        <th>Biblioteca</th>
+        <th scope="col">Objetivo</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th scope="row">pandas</th>
+        <td>Estrutura de dados e ferramentas de análise de dados</td>
+      </tr>
+      <tr>
+        <th scope="row">numpy</th>
+        <td>Computação Científica</td>
+      </tr>
+    </tbody>
+    </table>
       <ol>
         <li>
         1. Atualizar o instalador pip - python package index :computer: python3 -m pip install --upgrade pip<br>
