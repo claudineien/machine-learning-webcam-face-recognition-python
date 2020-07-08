@@ -158,13 +158,16 @@
       <tr>
         <ol>
           <li>Abrir o notebook facenet-mtcnn-labelencoder.ipynb no jupyter notebook</li>
-          <li>Executar as linhas com os códigos, até a linha<br>
-            <code>python<br>
-              if __name__ == "__main__":<br>
-                os.system('cls')<br>
-                menu = MainMenu()<br>
+          <li>Executar as linhas com os códigos, até o código a seguir
+            <pre>
+              if __name__ == "__main__":
+                os.system('cls')
+                menu = MainMenu()
                 menu.menu_inicial()
-            </code>
+            </pre>
+          </li>
+          <li>A seguinte linha será exibida<br>
+            <img title="OpenCV" src="opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
           </li>
           <li>O sistema se conectará em sua webcam, para filma-lo</li>
           <li>
