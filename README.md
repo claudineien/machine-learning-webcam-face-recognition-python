@@ -164,12 +164,26 @@
               c:/temp/facenet/ : colocar o conteudo do arquivo facenet_keras.rar
               c:/temp/facenet/facerecognition : esta será preenchida automaticamente durante o processo de . . .
               </pre>
-              <figcaption id="direc_struc">
-                Modelo de estrutura de diretórios e arquivos
-              </figcaption>
             </figure>
           </li>
-          <li>Abrir o notebook facenet-mtcnn-labelencoder.ipynb no jupyter notebook</li>
+          <li>Abrir o notebook facenet-mtcnn-labelencoder.ipynb no jupyter notebook e :
+            <ol>
+              <li>Na class RegisterImg: substituir conteúdo da variável self.grv_img pelo local em que o conteúdo do dataset.rar foi gravado</li>
+              <li>Na class FaceTrainer: substituir conteúdo da variável self.datasetpath pelo local em que o conteúdo do dataset.rar foi gravado</li>
+              <li>Na class FaceTrainer: substituir conteúdo da variável self.faces_npz pelo local em que o conteúdo do dataset.rar foi gravado</li>
+              <li>Na class FaceTrainer: substituir conteúdo da variável self.keras_facenet pelo local em que o conteúdo do facenet_keras.rar foi gravado</li>
+              <li>Na class FaceTrainer: substituir conteúdo da variável self.faces_embeddings pelo local em que você criou o diretório facerecognition</li>
+              <li>Na class FaceTrainer: substituir conteúdo da variável self.svm_classifier pelo local em que você criou o diretório facerecognition</li>
+              <li>Na class FaceDetector: substituir conteúdo da variável self.facenet_model pelo local em que o conteúdo do facenet_keras.rar foi gravado</li>
+              <li>Na class FaceDetector: substituir conteúdo da variável self.svm_model pelo local em que você criou o diretório facerecognition</li>
+              <li>Na class FaceDetector: substituir conteúdo da variável self.data pelo local em que você criou o diretório facerecognition</li>
+            </ol>
+            
+            durante treinamento é criado o arquivo faces_dataset.npz no diretorio C:\zproject-course\deeplearn\dataset
+            os arquivos faces_dataset_embeddings.npz, SVM_classifier.sav no diretorio C:\zproject-course\deeplearn\facerecognition
+            
+            
+          </li>
           <li>Executar as linhas com os códigos, até o código a seguir
             <pre>
               if __name__ == "__main__":
