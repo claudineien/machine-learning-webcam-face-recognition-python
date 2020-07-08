@@ -49,7 +49,7 @@
         </p>
       </ol>
     </li>
-    <li><strong>Algoritmos deep learning e rede neural <a style="font-color:green"  href="https://pypi.org/project/mtcnn/" target="_blank">mtcnn 0.1.0</a> para</strong>
+    <li><strong>Algoritmos deep learning e neural networks <a style="font-color:green"  href="https://pypi.org/project/mtcnn/" target="_blank">mtcnn 0.1.0</a> para</strong>
       <ol>
         <p>
         <li>- [x] Analisar imagem capturada</li>
@@ -123,27 +123,19 @@
         </tr>
         <tr>
           <th>keras</th>
-          <td>-</td>
+          <td>É uma interface de aplicação de programação desenvolvida para seres humanos, não para maquinas</td>
         </tr>
         <tr>
           <th>Pillow</th>
-          <td>-</td>
+          <td>Biblioteca com algoritmos para ler, escrever, criar, inserir, converter, cortar, redimensionar imagens</td>
         </tr>
         <tr>
           <th>mtcnn</th>
-          <td>-</td>
+          <td>Algoritmos para reconhecimento facial -Face Recognition</td>
         </tr>
         <tr>
           <th>tensorflow</th>
-          <td>-</td>
-        </tr>
-        <tr>
-          <th>SVC</th>
-          <td>-</td>
-        </tr>
-        <tr>
-          <th>SVC</th>
-          <td>-</td>
+          <td>Serviço flexível e de alto desempenho para machine learning, feito para ambientes de produção</td>
         </tr>
       </tbody>
     </table>
@@ -169,6 +161,11 @@
     <li><a href="https://en.wikipedia.org/wiki/Artificial_neural_network">Wikpedia-Neural Network</a></li>
     <li><a href="https://scikit-learn.org/stable/">scikit-learn</a></li>
     <li><a href="http://scipy.github.io/devdocs/hacking.html">scipy</a></li>
+    <li><a href="https://keras.io/">keras</a></li>
+    <li><a href="https://pillow.readthedocs.io/en/stable/">Pillow</a></li>
+    <li><a href="https://pypi.org/project/mtcnn/">mtcnn</a></li>
+    <li><a href="https://www.tensorflow.org/guide/tensor">tensorflow</a></li>
+    <li><a href="https://pythonprogramming.net/linear-svc-example-scikit-learn-svm-python/r">SVC e SVM</a></li>
   </ul>
 </details>
 
