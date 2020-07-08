@@ -15,6 +15,10 @@
     <li><strong>Deep Learning</strong>
       <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem para auxiliar a identificar a quem esta na imagem.</p>
     </li>
+    <li><strong>Neural Network</strong>
+      <p>É um algoritmo computacional que aprende com novos dados inseridos, simulando o cérebro humano.</p>
+      <p>Exemplo: Programamos o computador para aprender todos os detalhes de forma e formato de um determinado rosto, ao inserimos outros rostos ele automaticamente armazenara as suas formas e formatos e a partir dai conseguiremos extrair de quem é o rosto</p>
+    </li>
   </ol>
 </details>
 
