@@ -229,6 +229,8 @@ Este foi um desafio proposto no curso Data Science do Zero da equipe Minerando D
 * [Site OpenCV](https://opencv.org/ "Site OpenCV")
 * [OpenCV no github](https://github.com/opencv/opencv/ "OpenCV no github")
 * [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf "Partnershiponai.org")
+* [Techradar](https://www.techradar.com/news/what-is-a-neural-network)
+* [Wikpedia-Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
 
 
 ### *AGRADECIMENTOS*
