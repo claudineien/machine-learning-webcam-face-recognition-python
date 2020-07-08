@@ -91,6 +91,7 @@
         <li>- [x] Atualizar o instalador pip - python package index :computer: python3 -m pip install --upgrade pip</li>
         <li>- [x] Recomendo utilizar o prompt/terminal do anaconda e/ou miniconda para instalar as bibliotecas, por ser mais prático e apresentar menos inconsistências.</li>
         <li>- [x] Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user</li>
+        <li>- [x] Desbloquear sua webcam em seu anti-virus e/ou firewall</li>
       </ol>
     </li>
     <table>
@@ -143,15 +144,38 @@
 </details>
 
 <details>
-  <summary><strong>4. INSTALAÇÃO DO SISTEMA RECONHECIMENTO FACIAL EM TEMPO REAL ATRAVÉS DA WEBCAM</strong></summary>
+  <summary><strong>4. INSTALAÇÃO DO SISTEMA</strong></summary>
   <ol>
     <li>Cumprir o item <a href="#prereq">3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></li>
-    <li>Baixar o arquivo facenet-mtcnn-labelencoder.ipynb</li>
+    <li>Baixar o notebook facenet-mtcnn-labelencoder.ipynb</li>
   </ol>
 </details>
 
 <details>
-  <summary><strong>5. FONTES DE ESTUDO</strong></summary> 
+  <summary><strong>5. PROCEDIMENTOS PARA UTILIZAR O SISTEMA</strong></summary>
+  <table>
+    <thead>
+      <tr>
+        <ol>
+          <li>Abrir o notebook facenet-mtcnn-labelencoder.ipynb no jupyter notebook</li>
+          <li>Executar as linhas com os códigos, até a linha<br>
+            <code>python<br>
+              if __name__ == "__main__":<br>
+                os.system('cls')<br>
+                menu = MainMenu()<br>
+                menu.menu_inicial()
+            </code>
+          </li>
+          <li>O sistema se conectará em sua webcam, para filma-lo</li>
+          <li>
+      </tr>
+    </thead>
+  </table>
+
+</details>
+
+<details>
+  <summary><strong>6. FONTES DE ESTUDO</strong></summary> 
   <ul>
     <li><a href="https://minerandodados.com.br/">Minerando Dados</a></li>
     <li><a href="https://opencv.org/">Site OpenCV</a></li>
