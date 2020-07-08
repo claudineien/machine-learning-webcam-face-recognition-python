@@ -169,6 +169,10 @@
           <li>A seguinte linha será exibida<br>
             <img title="OpenCV" src="opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
           </li>
+          <li>Digitar no campo 'Local dos arquivos do sistema', o caminho aonde quer que o sistema crie a estrutura de arquivos
+            <img title="OpenCV" src="opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
+          </li>
+          <li>Fazer o download dos arquivos dataset.7 </li>
           <li>O sistema se conectará em sua webcam, para filma-lo</li>
           <li>
       </tr>
