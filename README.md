@@ -87,50 +87,66 @@
       <p><b>Nota: </b><br>Analisar o item <em><a href="#itemtec">Tecnologias utilizadas neste projeto</a></em></p>
     </li>
     <li><strong>Instalar as bibliotecas de algoritmos</strong>
-    <table>
-    <thead>
-      <tr>
-        <th>Biblioteca</th>
-        <th scope="col">Objetivo</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th scope="row">pandas</th>
-        <td>Estrutura de dados e ferramentas de análise de dados</td>
-      </tr>
-      <tr>
-        <th scope="row">numpy</th>
-        <td>Computação Científica</td>
-      </tr>
-      <tr>
-        <th>opencv-contrib-python</th>
-        <td>Algoritmos de visão computacional</td>
-      </tr>
-      <tr>
-        <th>scikit-learn</th>
-        <td>Possui algoritmos para classificação, regressão, agrupamento, dimensionalidade, validações, melhorar precisão de predições, reprocessamentos</td>
-      </tr>
-      <tr>
-        <th>scipy</th>
-        <td>Cálculos científicos com numpy</td>
-      </tr>
-    </tbody>
-    </table>
       <ol>
-        <li>
-        1. Atualizar o instalador pip - python package index :computer: python3 -m pip install --upgrade pip<br>
-        2. Recomendo utilizar o prompt/terminal do anaconda e/ou miniconda para instalar as bibliotecas, por ser mais prático e apresentar menos inconsistências.<br>
-        3. Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user<br></li>
-        <li>- [x] keras</li>
-        <li>- [x] Pillow</li>
-        <li>- [x] mtcnn</li>
-        <li>- [x] tensorflow</li>
-        <li>- [x] SVC</li>
-        <li>- [x] MTCNN</li>
+        <li>- [x] Atualizar o instalador pip - python package index :computer: python3 -m pip install --upgrade pip</li>
+        <li>- [x] Recomendo utilizar o prompt/terminal do anaconda e/ou miniconda para instalar as bibliotecas, por ser mais prático e apresentar menos inconsistências.</li>
+        <li>- [x] Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user</li>
       </ol>
-      <p><b>Nota: </b><br>Recomendo instalar as bibliotecas a partir do prompt/terminal do anaconda e/ou miniconda, por apresentar menos inconsistências</p>
     </li>
+    <table>
+      <thead>
+        <tr>
+          <th>Biblioteca</th>
+          <th scope="col">Objetivo</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">pandas</th>
+          <td>Estrutura de dados e ferramentas de análise de dados</td>
+        </tr>
+        <tr>
+          <th scope="row">numpy</th>
+          <td>Computação Científica</td>
+        </tr>
+        <tr>
+          <th>opencv-contrib-python</th>
+          <td>Algoritmos de visão computacional</td>
+        </tr>
+        <tr>
+          <th>scikit-learn</th>
+          <td>Algoritmos para classificação, regressão, agrupamento, dimensionalidade, validações, melhorar precisão de predições, reprocessamentos, normalizações</td>
+        </tr>
+        <tr>
+          <th>scipy</th>
+          <td>Cálculos científicos com numpy</td>
+        </tr>
+        <tr>
+          <th>keras</th>
+          <td>-</td>
+        </tr>
+        <tr>
+          <th>Pillow</th>
+          <td>-</td>
+        </tr>
+        <tr>
+          <th>mtcnn</th>
+          <td>-</td>
+        </tr>
+        <tr>
+          <th>tensorflow</th>
+          <td>-</td>
+        </tr>
+        <tr>
+          <th>SVC</th>
+          <td>-</td>
+        </tr>
+        <tr>
+          <th>SVC</th>
+          <td>-</td>
+        </tr>
+      </tbody>
+    </table>
   </ol>
 </details>
 
@@ -144,17 +160,16 @@
 
 <details>
   <summary><strong>5. FONTES DE ESTUDO</strong></summary> 
-  <ol>
-    * [Minerando Dados](https://minerandodados.com.br/ "Minerando Dados")
-    * [Site OpenCV](https://opencv.org/ "Site OpenCV")
-    * [OpenCV no github](https://github.com/opencv/opencv/ "OpenCV no github")
-    * [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf "Partnershiponai.org")
-    * [Techradar](https://www.techradar.com/news/what-is-a-neural-network)
-    * [Wikpedia-Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
-    * [scikit-learn](https://scikit-learn.org/stable/)
-    * [scipy](http://scipy.github.io/devdocs/hacking.html)
-    * []()
-  </ol>
+  <ul>
+    <li><a href="https://minerandodados.com.br/">Minerando Dados</a></li>
+    <li><a href="https://opencv.org/">Site OpenCV</a></li>
+    <li><a href="https://github.com/opencv/opencv/">OpenCV no github</a></li>
+    <li><a href="https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf">Partnershiponai.org</a></li>
+    <li><a href="https://www.techradar.com/news/what-is-a-neural-network">Techradar</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Artificial_neural_network">Wikpedia-Neural Network</a></li>
+    <li><a href="https://scikit-learn.org/stable/">scikit-learn</a></li>
+    <li><a href="http://scipy.github.io/devdocs/hacking.html">scipy</a></li>
+  </ul>
 </details>
 
 <br>
