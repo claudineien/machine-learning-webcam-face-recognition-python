@@ -13,7 +13,7 @@
       <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, da mais simples a mai complexa.</p>
     </li>
     <li><strong>Deep Learning</strong>
-      <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem para auxiliar a identificar a quem esta na imagem.</p>
+      <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem para auxiliar a identificar quem esta na imagem.</p>
     </li>
     <li><strong>Neural Network</strong>
       <p>É um algoritmo computacional que aprende com novos dados inseridos, simulando o cérebro humano.</p>
