@@ -157,14 +157,16 @@
     <thead>
       <tr>
         <ol>
-          <li>Criar uma estrutura de pasta, para armazenar os arquivos disponibilizados na pasta file deste repositório
+          <li>Criar uma estrutura de pasta, para armazenar os arquivos disponibilizados na pasta file deste repositório. A seguir modelo de estrutura a ser criada:
             <figure role="img" aria-labelledby="direc_struc">
               <pre>
-              Modelo de estrutura a ser criada
               c:/temp/facenet/ : colocar o conteudo do arquivo dataset.rar
               c:/temp/facenet/ : colocar o conteudo do arquivo facenet_keras.rar
               c:/temp/facenet/facerecognition : esta será preenchida automaticamente durante o processo de . . .
               </pre>
+              <figcaption id="direc_struc">
+                Modelo de estrutura de diretórios e arquivos
+              </figcaption>
             </figure>
           </li>
           <li>Abrir o notebook facenet-mtcnn-labelencoder.ipynb no jupyter notebook</li>
@@ -176,20 +178,29 @@
                 menu.menu_inicial()
             </pre>
           </li>
+          <li><b>Ao digitar no campo 'Digite O Número Relacionado a Opção Desejada' a opção 1 :</b></li>
+          <ol>
+            <li>No campo 'Número Matrícula -> ', digitar o número da matricula de quem esta sendo filmado<br>
+              <img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
+            </li>
+            <li>No campo 'Nome Completo -> ', digitar o primeiro nome de quem esta sendo filmado<br>
+              <img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
+            </li>
+            <li>O sistema se conectará em sua webcam, para lhe filmar. A luz de sua webcam ligara e uma janela com sua imagem deve esta em sua barra de taferas<br>
+              <img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
+            </li>
+          </ol>
+          <li><b>Ao digitar no campo 'Digite O Número Relacionado a Opção Desejada' a opção 2, o sistema iniciará o treinamento do algoritmo</li>
           <li>Digitar no campo 'Local dos arquivos do sistema', o caminho aonde quer que o sistema crie a estrutura de arquivos<br>
             <img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
           </li>
-          <li><b>Ao digitar no campo 'Digite O Número Relacionado a Opção Desejada' a opção 1, o sistema </b></li>
-          <li>Digitar no campo 'Local dos arquivos do sistema', o caminho aonde quer que o sistema crie a estrutura de arquivos<br>
-            <img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
-          </li>
-          <li><b>O sistema se conectará em sua webcam, para filma-lo</b></li>
+          <li><b>Ao digitar no campo 'Digite O Número Relacionado a Opção Desejada' a opção 2, o sistema iniciará o treinamento do algoritmo</li>
+          <li><b> - - </b></li>
           <li><b>O sistema se conectará em sua webcam, para filma-lo</b></li>
           <li>Fazer o download do arquivo dataset.rar, descompactar no diretorio dataset e dois arquivos serao exibidos : test e train</li>
           <li>Fazer o download do arquivo facenet_keras.rar e descompactar no diretorio facenet</li>
           <li>O sistema criara os arquivos faces_dataset_embeddings.npz e SVM_classifier.sav no diretório facerecognition, para </li>
           <li>O sistema criara o arquivo faces_dataset.npz no diretório dataset, para </li>
-          
           <li>
       </tr>
     </thead>
