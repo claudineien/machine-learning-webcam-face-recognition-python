@@ -103,6 +103,18 @@
         <th scope="row">numpy</th>
         <td>Computação Científica</td>
       </tr>
+      <tr>
+        <th>opencv-contrib-python</th>
+        <td>Algoritmos de visão computacional</td>
+      </tr>
+      <tr>
+        <th>scikit-learn</th>
+        <td>Possui algoritmos para classificação, regressão, agrupamento, dimensionalidade, validações, melhorar precisão de predições, reprocessamentos</td>
+      </tr>
+      <tr>
+        <th>scipy</th>
+        <td>Cálculos científicos com numpy</td>
+      </tr>
     </tbody>
     </table>
       <ol>
@@ -110,11 +122,6 @@
         1. Atualizar o instalador pip - python package index :computer: python3 -m pip install --upgrade pip<br>
         2. Recomendo utilizar o prompt/terminal do anaconda e/ou miniconda para instalar as bibliotecas, por ser mais prático e apresentar menos inconsistências.<br>
         3. Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user<br></li>
-        <li>- [x] pandas</li>
-        <li>- [x] opencv-contrib-python</li>
-        <li>- [x] scikit-learn</li>
-        <li>- [x] numpy</li>
-        <li>- [x] scipy</li>
         <li>- [x] keras</li>
         <li>- [x] Pillow</li>
         <li>- [x] mtcnn</li>
@@ -235,6 +242,10 @@ Este foi um desafio proposto no curso Data Science do Zero da equipe Minerando D
 * [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf "Partnershiponai.org")
 * [Techradar](https://www.techradar.com/news/what-is-a-neural-network)
 * [Wikpedia-Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+* [scikit-learn](https://scikit-learn.org/stable/)
+* [scipy](http://scipy.github.io/devdocs/hacking.html)
+* []()
+
 
 
 ### *AGRADECIMENTOS*
