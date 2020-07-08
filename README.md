@@ -172,7 +172,10 @@
           <li>Digitar no campo 'Local dos arquivos do sistema', o caminho aonde quer que o sistema crie a estrutura de arquivos
             <img title="OpenCV" src="opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
           </li>
-          <li>Fazer o download dos arquivos dataset.7 </li>
+          <li>Fazer o download do arquivo dataset.rar, descompactar no diretorio dataset e dois arquivos serao exibidos : test e train</li>
+          <li>Fazer o download do arquivo facenet_keras.rar e descompactar no diretorio facenet</li>
+          <li>O sistema criara os arquivos faces_dataset_embeddings.npz e SVM_classifier.sav no diretório facerecognition, para </li>
+          <li>O sistema criara o arquivo faces_dataset.npz no diretório dataset, para </li>
           <li>O sistema se conectará em sua webcam, para filma-lo</li>
           <li>
       </tr>
