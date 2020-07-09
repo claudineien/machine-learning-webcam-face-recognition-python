@@ -1,10 +1,14 @@
 <html>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="css/style_.css">
-<article class="markdown-body">
-    <h1>Unicorns</h1>
-    <p>All the things</p>
-</article>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/style_.css">
+    </head>
+    <body>
+        <article class="markdown-body">
+            <h1>Unicorns</h1>
+            <p>All the things</p>
+        </article>
+    </body>
 </html>
 <h2 align="center"><strong>Sistema Reconhecimento facial em tempo real através da webcam</strong></h2>
 <h4 align="left">Nivel Conhecimento : Estudante Iniciante &#x1F393;</h4>
