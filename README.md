@@ -1,30 +1,3 @@
-<html>
-    <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="css/style_.css">
-        <style>
-            .markdown-body {
-                            box-sizing: border-box;
-                            min-width: 200px;
-                            max-width: 980px;
-                            margin: 0 auto;
-                            padding: 45px;
-                            text-align: center;
-                            }
-            @media (max-width: 767px) {
-                            .markdown-body {
-                                            padding: 15px;
-                                            }
-                                      }
-        </style>
-    </head>
-    <body>
-        <article class="markdown-body">
-            <h1>Unicorns</h1>
-            <p>All the things</p>
-        </article>
-    </body>
-</html>
 <h2 align="center"><strong>Sistema Reconhecimento facial em tempo real através da webcam</strong></h2>
 <h4 align="left">Nivel Conhecimento : Estudante Iniciante &#x1F393;</h4>
 <details class="sbdocs sbdocs-details">
