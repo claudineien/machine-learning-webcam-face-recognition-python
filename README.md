@@ -206,7 +206,7 @@
             <p><b>Importante : </b> Pressione ESC para sair, caso queira executar uma das outras tarefas</p>
           </li>
           <li>Para treinar o algoritmo com a nova imagem, digitar 2. O sistema exibirá uma imagem similar a seguinte :<br>
-            <img title="Treinar Algoritmo" src="img/10trainalgor.png" alt="TrainAlgor" width="433" height="545">
+            <img title="Treinar Algoritmo" src="img/10trainalgor.png" alt="TrainAlgor" width="439" height="218">
             <p><b>Note : </b>O sistema<br>
               1. criara os arquivos faces_dataset_embeddings.npz e SVM_classifier.sav no diretório facerecognition
               2. criara o arquivo faces_dataset.npz no diretório dataset
