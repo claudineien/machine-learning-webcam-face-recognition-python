@@ -198,7 +198,7 @@
                 <img title="Nome Completo" src="img/08main_menu.png" alt="Nome_Completo" width="51" height="16">
               </li>
               <li>O sistema se conectará em sua webcam, para lhe filmar. A luz de sua webcam ligará e uma janela com sua imagem será habilitada em em barra de taferas<br>
-                <img title="Janela Webcam" src="img/09webcam.png" alt="Webcam_Img" width="63" height="49">
+                <img title="Janela Webcam" src="img/09webcamimg.png" alt="Webcam_Img" width="74" height="58">
               </li>
             </ol>
           </li>
