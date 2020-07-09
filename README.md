@@ -177,12 +177,10 @@
               <li>Na class FaceDetector: substituir conteúdo da variável self.facenet_model pelo local em que o conteúdo do facenet_keras.rar foi gravado</li>
               <li>Na class FaceDetector: substituir conteúdo da variável self.svm_model pelo local em que você criou o diretório facerecognition</li>
               <li>Na class FaceDetector: substituir conteúdo da variável self.data pelo local em que você criou o diretório facerecognition</li>
-            </ol>
-            
+            </ol><br>
+            <p>
             durante treinamento é criado o arquivo faces_dataset.npz no diretorio C:\zproject-course\deeplearn\dataset
-            os arquivos faces_dataset_embeddings.npz, SVM_classifier.sav no diretorio C:\zproject-course\deeplearn\facerecognition
-            
-            
+            os arquivos faces_dataset_embeddings.npz, SVM_classifier.sav no diretorio C:\zproject-course\deeplearn\facerecognition</p><br>
           </li>
           <li>Executar as linhas com os códigos, até o código a seguir
             <pre>
