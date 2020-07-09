@@ -153,7 +153,10 @@
   <ol>
     <li>Cumprir o item <a href="#prereq">3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></li>
     <li>Baixar o notebook facenet-mtcnn-labelencoder.ipynb</li>
+    <li>Baixar os arquivos facenet_keras.part1.rar a facenet_keras.part4.rar. Nestes há o arquivo modelo treinado facenet_keras.h5</li>
+    <li>Baixar o arquivo dataset.rar. Neste há imagens diversas para utilizar em seus treinos e testes</li>
   </ol>
+  <p><b>Importante :</b> Disponibilizei os arquivos .py caso queira testar com vscode, pycharm ou em outros ides de desenvolvimento
 </details>
 
 <details>
@@ -177,10 +180,10 @@
               <li>Na class RegisterImg: substituir conteúdo da variável self.grv_img pelo local em que o conteúdo do dataset.rar foi gravado</li>
               <li>Na class FaceTrainer: substituir conteúdo da variável self.datasetpath pelo local em que o conteúdo do dataset.rar foi gravado</li>
               <li>Na class FaceTrainer: substituir conteúdo da variável self.faces_npz pelo local em que o conteúdo do dataset.rar foi gravado</li>
-              <li>Na class FaceTrainer: substituir conteúdo da variável self.keras_facenet pelo local em que o conteúdo do facenet_keras.rar foi gravado</li>
+              <li>Na class FaceTrainer: substituir conteúdo da variável self.keras_facenet pelo local em que o conteúdo dos facenet_kerasX.rar foram gravados</li>
               <li>Na class FaceTrainer: substituir conteúdo da variável self.faces_embeddings pelo local em que você criou o diretório facerecognition</li>
               <li>Na class FaceTrainer: substituir conteúdo da variável self.svm_classifier pelo local em que você criou o diretório facerecognition</li>
-              <li>Na class FaceDetector: substituir conteúdo da variável self.facenet_model pelo local em que o conteúdo do facenet_keras.rar foi gravado</li>
+              <li>Na class FaceDetector: substituir conteúdo da variável self.facenet_model pelo local em que o conteúdo dos facenet_kerasX.rar foram gravados</li>
               <li>Na class FaceDetector: substituir conteúdo da variável self.svm_model pelo local em que você criou o diretório facerecognition</li>
               <li>Na class FaceDetector: substituir conteúdo da variável self.data pelo local em que você criou o diretório facerecognition</li>
             </ol><br>
@@ -227,7 +230,6 @@
       </tr>
     </thead>
   </table>
-
 </details>
 
 <details>
