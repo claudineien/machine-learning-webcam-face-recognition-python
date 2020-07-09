@@ -207,7 +207,7 @@
                 <img title="Janela Webcam" src="img/09webcamimg.png" alt="Webcam_Img" width="446" height="348">
               </li>
             </ol>
-            <p><b>Note : </b> Na parte superior desta janela há informação para pressionar ENTER para gravar ou ESC para Finalizar</p>
+            <p><b>Nota : </b> Na parte superior desta janela há informação para pressionar ENTER para gravar ou ESC para Finalizar</p>
             <p><b>Importante : </b> Pressione ESC para sair, caso queira executar uma das outras tarefas</p>
           </li>
           <li>Para treinar o algoritmo com a nova imagem, digitar 2. O sistema exibirá uma imagem similar a seguinte :<br>
@@ -218,7 +218,9 @@
               3. finalizara e retorna ao menu principal
             </p>
           </li>
-          <li><b> - / - </b></li><br>
+          <li>Para identificar a pessoa através da webcam digitar 3. O sistema ativará a webcam e iniciará o reconhecimento da face. Exibirá janela similar a seguinte :<br>
+            <img title="Janela Webcam" src="img/11webcamimg.png" alt="Webcam_Img" width="446" height="348">
+          </li>
           <li><b> - / - </b></li>
           <li>Para finalizar o sistema, digite 0 (zero). Uma janela similar a seguinte deverá aparece :<br>
             <img title="Finalziar Sistema" src="img/15final.png" alt="FinalSistem" width="439" height="218">
