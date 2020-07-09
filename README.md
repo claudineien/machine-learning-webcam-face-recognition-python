@@ -160,12 +160,13 @@
           <li>Criar estrutura de diretório, para armazenar os arquivos disponibilizados neste repositório. A seguir um modelo de estrutura como orientação :
             <figure role="img" aria-labelledby="direc_struc">
               <pre>
-              c:/temp/facenet/ : colocar o conteudo do arquivo dataset.rar
-              c:/temp/facenet/ : colocar o conteudo do arquivo facenet_keras.rar
-              c:/temp/facenet/facerecognition : os arquivos serão criados automaticamente no processo de treinamento do modelo
+              c:/temp/facenet/ : colocar aqui o conteudo do arquivo dataset.rar, que esta na em files
+              c:/temp/facenet/ : colocar aqui o conteudo do arquivo facenet_keras.rar, que esta em files
+              c:/temp/facenet/facerecognition : os arquivos serão criados no rotina de treinamento do modelo
               </pre>
             </figure>
           </li>
+          <li>Fazer o download do arquivo facenet_keras.rar e descompactar no diretorio facenet</li>
           <li>Abrir o notebook facenet-mtcnn-labelencoder.ipynb no jupyter notebook e :
             <ol>
               <li>Na class RegisterImg: substituir conteúdo da variável self.grv_img pelo local em que o conteúdo do dataset.rar foi gravado</li>
@@ -204,18 +205,17 @@
             <p><b>Note : </b> Na parte superior desta janela há informação para pressionar ENTER para gravar ou ESC para Finalizar</p>
             <p><b>Importante : </b> Pressione ESC para sair, caso queira executar uma das outras tarefas</p>
           </li>
-          <li>Para treinar o algoritmo com a nova imagem, digitar 2. O sistema exibira uma imagem similar a seguinte :<br>
+          <li>Para treinar o algoritmo com a nova imagem, digitar 2. O sistema exibirá uma imagem similar a seguinte :<br>
             <img title="Treinar Algoritmo" src="img/10trainalgor.png" alt="TrainAlgor" width="433" height="545">
-            <p><b>Note : </b> O sistema finaliza e retorna ao menu principal/p>
+            <p><b>Note : </b> O sistema finaliza e retorna ao menu principal.</p>
           </li>
-          <li>Ao digitar no campo 'Digite O Número Relacionado a Opção Desejada' a opção 2, o sistema iniciará o treinamento do algoritmo</li>
-          <li><b> - - </b></li>
-          <li><b>O sistema se conectará em sua webcam, para filma-lo</b></li>
-          <li>Fazer o download do arquivo dataset.rar, descompactar no diretorio dataset e dois arquivos serao exibidos : test e train</li>
-          <li>Fazer o download do arquivo facenet_keras.rar e descompactar no diretorio facenet</li>
+          <li><b> - / - </b></li><br>
+          <li><b> - / - </b></li>
+          <li>Para finalizar o sistema, digite 0 (zero). Uma janela similar a seguinte deverá aparece :<br>
+            <img title="Treinar Algoritmo" src="img/15final.png" alt="TrainAlgor" width="433" height="545">
+          </li>
           <li>O sistema criara os arquivos faces_dataset_embeddings.npz e SVM_classifier.sav no diretório facerecognition, para </li>
           <li>O sistema criara o arquivo faces_dataset.npz no diretório dataset, para </li>
-          <li>
       </tr>
     </thead>
   </table>
