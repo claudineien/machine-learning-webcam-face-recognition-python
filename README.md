@@ -157,12 +157,12 @@
     <thead>
       <tr>
         <ol>
-          <li>Criar uma estrutura de pasta, para armazenar os arquivos disponibilizados na pasta file deste repositório. A seguir modelo de estrutura a ser criada:
+          <li>Criar estrutura de diretório, para armazenar os arquivos disponibilizados neste repositório. A seguir um modelo de estrutura como orientação :
             <figure role="img" aria-labelledby="direc_struc">
               <pre>
               c:/temp/facenet/ : colocar o conteudo do arquivo dataset.rar
               c:/temp/facenet/ : colocar o conteudo do arquivo facenet_keras.rar
-              c:/temp/facenet/facerecognition : esta será preenchida automaticamente durante o processo de . . .
+              c:/temp/facenet/facerecognition : os arquivos neste diretório serão criados automaticamente durante o processo de treinamento do modelo
               </pre>
             </figure>
           </li>
@@ -178,11 +178,9 @@
               <li>Na class FaceDetector: substituir conteúdo da variável self.svm_model pelo local em que você criou o diretório facerecognition</li>
               <li>Na class FaceDetector: substituir conteúdo da variável self.data pelo local em que você criou o diretório facerecognition</li>
             </ol><br>
-            <p>
-            durante treinamento é criado o arquivo faces_dataset.npz no diretorio C:\zproject-course\deeplearn\dataset
-            os arquivos faces_dataset_embeddings.npz, SVM_classifier.sav no diretorio C:\zproject-course\deeplearn\facerecognition</p><br>
           </li>
-          <li>Executar as linhas com os códigos, até o código a seguir
+          <li>Executar as 5 linhas de códigos</li>
+          <li>A linha com os códigos a seguir apresentará uma nova linha solicitando algumas informações
             <pre>
               if __name__ == "__main__":
                 os.system('cls')
@@ -190,23 +188,25 @@
                 menu.menu_inicial()
             </pre>
           </li>
-          <li><b>Ao digitar no campo 'Digite O Número Relacionado a Opção Desejada' a opção 1 :</b></li>
-          <ol>
-            <li>No campo 'Número Matrícula -> ', digitar o número da matricula de quem esta sendo filmado<br>
-              <img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
-            </li>
-            <li>No campo 'Nome Completo -> ', digitar o primeiro nome de quem esta sendo filmado<br>
-              <img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
-            </li>
-            <li>O sistema se conectará em sua webcam, para lhe filmar. A luz de sua webcam ligara e uma janela com sua imagem deve esta em sua barra de taferas<br>
-              <img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
-            </li>
-          </ol>
-          <li><b>Ao digitar no campo 'Digite O Número Relacionado a Opção Desejada' a opção 2, o sistema iniciará o treinamento do algoritmo</li>
+          <li>Para gravar sua imagem no conjunto de dados, digitar 1 no campo seguido de >> :<br>
+            <img title="Opções para funcionamento do sistema" src="img/06main_menu.png" alt="TelaPrincipal" width="52" height="21">
+            <ol>
+              <li>No campo 'Número Matrícula -> ', digitar o número da matricula<br>
+                <img title="Número Matrícula" src="img/07main_menu.png" alt="Numero_Matricula" width="52" height="15">
+              </li>
+              <li>No campo 'Nome Completo -> ', digitar o primeiro nome de quem esta sendo filmado<br>
+                <img title="Nome Completo" src="img/08main_menu.png" alt="Nome_Completo" width="51" height="16">
+              </li>
+              <li>O sistema se conectará em sua webcam, para lhe filmar. A luz de sua webcam ligará e uma janela com sua imagem será habilitada em em barra de taferas<br>
+                <img title="Janela Webcam" src="img/09webcam.png" alt="Webcam_Img" width="63" height="49">
+              </li>
+            </ol>
+          </li>
+          <li>Ao digitar no campo 'Digite O Número Relacionado a Opção Desejada' a opção 2, o sistema iniciará o treinamento do algoritmo</li>
           <li>Digitar no campo 'Local dos arquivos do sistema', o caminho aonde quer que o sistema crie a estrutura de arquivos<br>
             <img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
           </li>
-          <li><b>Ao digitar no campo 'Digite O Número Relacionado a Opção Desejada' a opção 2, o sistema iniciará o treinamento do algoritmo</li>
+          <li>Ao digitar no campo 'Digite O Número Relacionado a Opção Desejada' a opção 2, o sistema iniciará o treinamento do algoritmo</li>
           <li><b> - - </b></li>
           <li><b>O sistema se conectará em sua webcam, para filma-lo</b></li>
           <li>Fazer o download do arquivo dataset.rar, descompactar no diretorio dataset e dois arquivos serao exibidos : test e train</li>
