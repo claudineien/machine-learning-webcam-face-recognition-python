@@ -10,7 +10,7 @@
     </li>
     <li><strong>Machine Learning</strong>
       <p>É a técnica computacional de ensinar uma máquina com determinado poder computacional a analisar um conjunto de dados e predizer informações para auxiliar nas decisões.</p>
-      <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, da mais simples a mai complexa.</p>
+      <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, da mais simples a mais complexa.</p>
     </li>
     <li><strong>Deep Learning</strong>
       <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem para auxiliar a identificar quem esta na imagem.</p>
