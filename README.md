@@ -157,7 +157,7 @@
 </details>
 
 <details>
-  <summary><strong>5. PROCEDIMENTOS PARA UTILIZAR O SISTEMA</strong></summary>
+  <summary><strong>5. PROCEDIMENTOS DE COMO UTILIZAR O SISTEMA</strong></summary>
   <table>
     <thead>
       <tr>
@@ -221,7 +221,6 @@
           <li>Para identificar a pessoa através da webcam digitar 3. O sistema ativará a webcam e iniciará o reconhecimento da face. Exibirá janela similar a seguinte :<br>
             <img title="Janela Webcam" src="img/11webcamimg.png" alt="Webcam_Img" width="446" height="348">
           </li>
-          <li><b> - / - </b></li>
           <li>Para finalizar o sistema, digite 0 (zero). Uma janela similar a seguinte deverá aparece :<br>
             <img title="Finalziar Sistema" src="img/15final.png" alt="FinalSistem" width="439" height="218">
           </li>
@@ -251,113 +250,12 @@
   </ul>
 </details>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<img src="opencv-logo-white-mini.jpg" alt="Workplace" usemap="#workmap" width="38" height="38">
-https://keras.io/
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-## Sistema Reconhecimento facial em tempo real através da webcam
-
-### 1. CONCEITOS DE FORMA SIMPLES
-### Reconhecimento Facial
-É a técnica de capturar/pegar toda a parte do rosto que envolve testa, olhos, nariz, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, apontar similaridades e exibir resultado mais próximo ao que desejamos
-
-A imagem considerada é uma foto, vídeo ou câmera
-
-### Machine Learning
-É a técnica computacional de ensinar uma máquina com determinado poder computacional a resolver tarefas complexas para predizer ações passadas ou futuras o mais automático possível
-Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, por mais complexa que seja
-
-### Deep Learning
-É a técnica computacional que analisa muito detalhadamente determinadas características de imagem, aúdio ou voz para auxiliar a identificar o seu autor e/ou
-
-### 2. INFORMAÇÕES TÉCNICAS
-### Tecnologias utilizadas neste projeto
-- [X] Linguagem de programação : python 3.7.7
-- [X] Visual Studio Code : Version: 1.46.0 (user setup) Commit: a5d1cc28bb5da32ec67e86cc50f84c67cc690321 Date: 2020-06-10T09:03:20.462Z Electron: 7.3.1
-- [X] OS : Windows_NT Home x64 10.0.18363
-- [X] CPU : Intel(R) Corel(TM) i3-4005U CPU @ 1.70GHz 1.70 GHz
-- [X] RAM : 8GB
-- [X] SSD : 225GB
-- [X] Browser : Chrome: 78.0.3904.130
-- [X] Plataforma Front de Desenvolvimento : Jupyter notebook 4.6.3
-- [X] Plataforma Back de Desenvolvimento : miniconda-conda 4.8.3
-
-### Utilizando algoritmos deep learning para desenvolver um sistema que
-- [X] Acessará a webcam local do computador, notebook com o algoritmo  [![OpenCV](opencv-logo-white-mini.jpg "OpenCV")](https://opencv.org/ "OpenCV")
-- [X] Gravará a imagem com outras imagens no computador local
-
-### Utilizando as técnicas machine learning vamos 
-- [X] Aplicar Standartization
-- [X] Aplicar Normatization
-- [X] Executar treinamento de reconhecimento facial do algorítimo MTCNN
-- [X] Utilizar técnica de Predição do algorítimo MTCNN
-- [X] Converter dados categóricos em numéricos com LabelEncoder
-- [X] Treinar o modelo Classificador SVC-SVM
-
-### 3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA
-### Plataformas para desenvolvimento
-* Instalar miniconda3
-* Instalar jupyter notebook
-* Instalar Visual Studio Code
-
-Observação: Analisar o item **Tecnologias utilizadas neste projeto**
-
-### Bibliotecas python utilizadas
-<ol>
-  <li>opencv-custom</li>
-  <li>pandas</li>
-  <li>SVC</li>
-  <li>MTCNN</li>
-</ol>
-
-### 4. FLUXO DO PROCESSO
-Desenvolver com a linguagem python um algoritmo machine learning em modo supervisionado para utilizar a tecnologia deep learning no reconhecimento facial
-
-### 5. INSTALAÇÃO DO SISTEMA RECONHECIMENTO FACIAL EM TEMPO REAL ATRAVÉS DA WEBCAM
-- [X] Baixar o arquivo dszero-desafio-facenet-mtcnn-labelencoder.ipynb
-- [X] 
-
-
-#### Origem deste projeto
-Este foi um desafio proposto no curso Data Science do Zero da equipe Minerando Dados
-
-
-#### Fontes de estudo
-* [Minerando Dados](https://minerandodados.com.br/ "Minerando Dados")
-* [Site OpenCV](https://opencv.org/ "Site OpenCV")
-* [OpenCV no github](https://github.com/opencv/opencv/ "OpenCV no github")
-* [Partnershiponai.org](https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf "Partnershiponai.org")
-* [Techradar](https://www.techradar.com/news/what-is-a-neural-network)
-* [Wikpedia-Neural Network](https://en.wikipedia.org/wiki/Artificial_neural_network)
-* [scikit-learn](https://scikit-learn.org/stable/)
-* [scipy](http://scipy.github.io/devdocs/hacking.html)
-* []()
-
-
-
-### *AGRADECIMENTOS*
-*Ser agradecido para mim é a atitude que torna as pessoas seres melhores*
-
-Agradeço a mulher mais importante da minha vida, a minha mãe sra Rosalita Borges Evangelista por ter me sido uma lutadora incansável, lutando por mim, para mim e junto a mim e também aos meus irmãos. Minha mãe é o motivo deu me tornar ser humano honrado.
-
-Agradeço aos meus dois irmãos que me ajudaram nos momentos em que mais precisei
-
-Agradeço à minha esposa e às minhas filhas por serem minha razão, emoção e inspiração e pelo apoio em minhas decisões
-
-Agradeço aos criadores do computador, da internet, das linguagens para programação computacional, inteligência artificial e tecnologias em geral
-
-Agradeço a equipe Minerando Dados que criou o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science, parq encurtar meu aprendizado
-
-Muito obrigado a todos :wink:
+<details>
+  <summary><strong>. AGRADECIMENTOS</strong></summary>
+  <p>*Ser agradecido para mim é a atitude que torna as pessoas seres melhores*</p>
+  <p>Agradeço a mulher mais importante da minha vida, a minha mãe sra Rosalita Borges Evangelista por ter sido uma lutadora incansável, lutando por mim, para mim e junto a mim e também de meus irmãos. Minha mãe é o motivo deu me tornar ser humano honrado.</p>
+  <p>Agradeço aos meus dois irmãos que me ajudaram nos momentos em que mais precisei</p>
+  <p>Agradeço à minha esposa e às minhas filhas por serem minha razão, emoção e inspiração e pelo apoio em minhas decisões</p>
+  <p>Agradeço aos criadores do computador, da internet, das linguagens para programação computacional, inteligência artificial e tecnologias em geral</p>
+  <p>Agradeço a equipe Minerando Dados que criou o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science, parq encurtar meu aprendizado e por este desafio proposto que acabei de concluir</p><br><br>
+  <p>Muito obrigado a todos :wink:</p>
