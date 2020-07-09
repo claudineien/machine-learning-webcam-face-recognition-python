@@ -41,7 +41,7 @@
         </p>
       </ol>
     </li>
-    <li><strong>Algoritmos de visão computacional <a href="https://opencv.org/" target="_blank"><img title="OpenCV" src="opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> para</strong>
+    <li><strong>Algoritmos de visão computacional <a href="https://opencv.org/" target="_blank"><img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> para</strong>
       <ol>
         <p>
         <li>- [x] Acessar a webcam local do computador, notebook </li>
@@ -162,7 +162,7 @@
               <pre>
               c:/temp/facenet/ : colocar o conteudo do arquivo dataset.rar
               c:/temp/facenet/ : colocar o conteudo do arquivo facenet_keras.rar
-              c:/temp/facenet/facerecognition : os arquivos neste diretório serão criados automaticamente durante o processo de treinamento do modelo
+              c:/temp/facenet/facerecognition : os arquivos serão criados automaticamente no processo de treinamento do modelo
               </pre>
             </figure>
           </li>
@@ -189,22 +189,24 @@
             </pre>
           </li>
           <li>Para gravar sua imagem no conjunto de dados, digitar 1 no campo seguido de >> :<br>
-            <img title="Opções para funcionamento do sistema" src="img/06main_menu.png" alt="TelaPrincipal" width="52" height="21">
+            <img title="Opções para funcionamento do sistema" src="img/06main_menu.png" alt="TelaPrincipal" width="521" height="206">
             <ol>
               <li>No campo 'Número Matrícula -> ', digitar o número da matricula<br>
-                <img title="Número Matrícula" src="img/07main_menu.png" alt="Numero_Matricula" width="52" height="15">
+                <img title="Número Matrícula" src="img/07main_menu.png" alt="Numero_Matricula" width="528" height="150">
               </li>
               <li>No campo 'Nome Completo -> ', digitar o primeiro nome de quem esta sendo filmado<br>
-                <img title="Nome Completo" src="img/08main_menu.png" alt="Nome_Completo" width="51" height="16">
+                <img title="Nome Completo" src="img/08main_menu.png" alt="Nome_Completo" width="517" height="164">
               </li>
               <li>O sistema se conectará em sua webcam, para lhe filmar. A luz de sua webcam ligará e uma janela com sua imagem será habilitada em em barra de taferas<br>
-                <img title="Janela Webcam" src="img/09webcamimg.png" alt="Webcam_Img" width="74" height="58">
+                <img title="Janela Webcam" src="img/09webcamimg.png" alt="Webcam_Img" width="446" height="348">
               </li>
             </ol>
+            <p><b>Note : </b> Na parte superior desta janela há informação para pressionar ENTER para gravar ou ESC para Finalizar</p>
+            <p><b>Importante : </b> Pressione ESC para sair, caso queira executar uma das outras tarefas</p>
           </li>
-          <li>Ao digitar no campo 'Digite O Número Relacionado a Opção Desejada' a opção 2, o sistema iniciará o treinamento do algoritmo</li>
-          <li>Digitar no campo 'Local dos arquivos do sistema', o caminho aonde quer que o sistema crie a estrutura de arquivos<br>
-            <img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="128" height="128">
+          <li>Para treinar o algoritmo com a nova imagem, digitar 2. O sistema exibira uma imagem similar a seguinte :<br>
+            <img title="Treinar Algoritmo" src="img/10trainalgor.png" alt="TrainAlgor" width="433" height="545">
+            <p><b>Note : </b> O sistema finaliza e retorna ao menu principal/p>
           </li>
           <li>Ao digitar no campo 'Digite O Número Relacionado a Opção Desejada' a opção 2, o sistema iniciará o treinamento do algoritmo</li>
           <li><b> - - </b></li>
