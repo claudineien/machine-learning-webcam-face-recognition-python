@@ -216,7 +216,7 @@
           <li><b> - / - </b></li><br>
           <li><b> - / - </b></li>
           <li>Para finalizar o sistema, digite 0 (zero). Uma janela similar a seguinte deverá aparece :<br>
-            <img title="Treinar Algoritmo" src="img/15final.png" alt="TrainAlgor" width="433" height="545">
+            <img title="Finalziar Sistema" src="img/15final.png" alt="FinalSistem" width="433" height="545">
           </li>
       </tr>
     </thead>
