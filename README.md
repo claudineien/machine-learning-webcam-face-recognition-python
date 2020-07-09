@@ -17,7 +17,7 @@
     </li>
     <li><strong>Neural Network</strong>
       <p>É um algoritmo computacional que aprende com novos dados inseridos, simulando o cérebro humano.</p>
-      <p>Exemplo: Programamos o computador para aprender todos os detalhes de forma e formato de um determinado rosto, ao inserimos outros rostos ele automaticamente armazenara as suas formas e formatos e a partir dai conseguiremos extrair de quem é o rosto</p>
+      <p>Exemplo: Programar um computador para aprender todos os detalhes de forma e formato de um determinado rosto, ao inserimos outros rostos ele automaticamente armazenara as suas formas e formatos e a partir dai conseguiremos extrair a quem pertence determinado rosto</p>
     </li>
   </ol>
 </details>
@@ -45,27 +45,32 @@
       <ol>
         <p>
         <li>- [x] Acessar a webcam local do computador, notebook </li>
-        <li>- [x] Gravar a imagem capturada com outras imagens no computador local</li>
+        <li>- [x] Exibir a imagem em tempo real através da webcam</li>
         </p>
       </ol>
     </li>
     <li><strong>Algoritmos deep learning e neural networks <a style="font-color:green"  href="https://pypi.org/project/mtcnn/" target="_blank">mtcnn 0.1.0</a> para</strong>
       <ol>
         <p>
-        <li>- [x] Analisar imagem capturada</li>
-        <li>- [x] Disponibilizar resultado da análise</li>
+        <li>- [x] Aplicar na imagem capturada diversos cálculos de reconhecimento de forma e formato</li>
+        <li>- [x] Disponibilizar resultado dos cálculos aos algoritmos machine learning</li>
         </p>
       </ol>
-    </li>    
+    </li>
     <li><strong>Utilizando as técnicas machine learning vamos</strong>
       <ol>
         <p>
+          <li>- [x] Calcular o Embedding da imagem</li>
           <li>- [x] Aplicar Standartization</li>
-          <li>- [x] Aplicar Normatization</li>
-          <li>- [x] Executar treinamento de reconhecimento facial do algorítimo MTCNN</li>
-          <li>- [x] Utilizar técnica de Predição do algorítimo MTCNN</li>
-          <li>- [x] Converter dados categóricos em numéricos com LabelEncoder</li>
-          <li>- [x] Treinar o modelo Classificador SVC-SVM</li>
+          <li>- [x] Aplicar Normatization com Normalizer da sklearn</li>
+          <li>- [x] Converter os dados categóricos em numéricos com o LabelEncoder</li>
+          <li>- [x] Executar treinamento de reconhecimento facial do algorítimo SVC da sklearn.svm</li>
+          <li>- [x] Utilizar o algoritmo de predição svm nos dados de treino e teste</li>
+          <li>- [x] Aplicar o cáculo de acurácia/precisão do algorítimo accuracy_score da sklearn.metrics</li>
+          <li>- [x] Calcular as coordenadas da face</li>
+          <li>- [x] Utilizar o método de predição do modelo facenet_keras.h5 na imagem visualizada pela webcam</li>
+          <li>- [x] Aplicar o método Normalizer l2</li>
+          <li>- [x] Ulitar a inversão do LabelEncoder</li>
           <li>- [x] Exibir o resultado da identificação no algorítimo OpenCV pela webcam</li>
         </p>
       </ol>
@@ -167,7 +172,7 @@
             </figure>
           </li>
           <li>Fazer o download do arquivo facenet_keras.rar e descompactar no diretorio facenet</li>
-          <li>Abrir o notebook facenet-mtcnn-labelencoder.ipynb no jupyter notebook e :
+          <li>Abrir o notebook facenet-keras-mtcnn-labelencoder.ipynb no jupyter notebook e :
             <ol>
               <li>Na class RegisterImg: substituir conteúdo da variável self.grv_img pelo local em que o conteúdo do dataset.rar foi gravado</li>
               <li>Na class FaceTrainer: substituir conteúdo da variável self.datasetpath pelo local em que o conteúdo do dataset.rar foi gravado</li>
@@ -234,6 +239,7 @@
     <li><a href="https://www.techradar.com/news/what-is-a-neural-network">Techradar</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Artificial_neural_network">Wikpedia-Neural Network</a></li>
     <li><a href="https://scikit-learn.org/stable/">scikit-learn</a></li>
+    <li><a href="https://scikit-learn.org/stable/_downloads/scikit-learn-docs.pdf">LabelEncoder</a></li>
     <li><a href="http://scipy.github.io/devdocs/hacking.html">scipy</a></li>
     <li><a href="https://keras.io/">keras</a></li>
     <li><a href="https://pillow.readthedocs.io/en/stable/">Pillow</a></li>
