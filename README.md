@@ -1,3 +1,25 @@
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
+<style>
+    .markdown-body {
+        box-sizing: border-box;
+        min-width: 200px;
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 45px;
+    }
+    @media (max-width: 767px) {
+        .markdown-body {
+            padding: 15px;
+        }
+    }
+</style> 
+<article class="markdown-body">
+    <h1>Unicorns</h1>
+    <p>All the things</p>
+</article>
+</html>
 <h2 align="center"><strong>Sistema Reconhecimento facial em tempo real através da webcam</strong></h2>
 <h4 align="left">Nivel Conhecimento : Estudante Iniciante &#x1F393;</h4>
 <details class="sbdocs sbdocs-details">
@@ -70,7 +92,7 @@
           <li>- [x] Calcular as coordenadas da face</li>
           <li>- [x] Utilizar o método de predição do modelo facenet_keras.h5 na imagem visualizada pela webcam</li>
           <li>- [x] Aplicar o método Normalizer l2</li>
-          <li>- [x] Ulitar a inversão do LabelEncoder</li>
+          <li>- [x] Utilizar a inversão do LabelEncoder</li>
           <li>- [x] Exibir o resultado da identificação no algorítimo OpenCV pela webcam</li>
         </p>
       </ol>
@@ -98,7 +120,7 @@
         <li>- [x] Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user</li>
         <li>- [x] Desbloquear sua webcam em seu anti-virus e/ou firewall</li>
       </ol>
-    </li>
+    </li><br>
     <table>
       <thead>
         <tr>
@@ -113,7 +135,7 @@
         </tr>
         <tr>
           <th scope="row">numpy</th>
-          <td>Computação Científica</td>
+          <td>Algoritmos para cálculos matemáticos e computação científica</td>
         </tr>
         <tr>
           <th>opencv-contrib-python</th>
@@ -121,7 +143,7 @@
         </tr>
         <tr>
           <th>scikit-learn</th>
-          <td>Algoritmos para classificação, regressão, agrupamento, dimensionalidade, validações, melhorar precisão de predições, reprocessamentos, normalizações</td>
+          <td>Algoritmos para classificação, regressão, agrupamento, dimensionalidade, validações, melhorias na precisão de predições, reprocessamentos, normalizações</td>
         </tr>
         <tr>
           <th>scipy</th>
@@ -129,7 +151,7 @@
         </tr>
         <tr>
           <th>keras</th>
-          <td>É uma interface de aplicação de programação desenvolvida para seres humanos, não para maquinas</td>
+          <td>É uma interface de aplicação de programação desenvolvida para seres humanos, não para máquinas</td>
         </tr>
         <tr>
           <th>Pillow</th>
@@ -213,8 +235,8 @@
           <li>Para treinar o algoritmo com a nova imagem, digitar 2. O sistema exibirá uma imagem similar a seguinte :<br>
             <img title="Treinar Algoritmo" src="img/10trainalgor.png" alt="TrainAlgor" width="433" height="545">
             <p><b>Note : </b>O sistema<br>
-              1. criara os arquivos faces_dataset_embeddings.npz e SVM_classifier.sav no diretório facerecognition
-              2. criara o arquivo faces_dataset.npz no diretório dataset
+              1. criara os arquivos faces_dataset_embeddings.npz e SVM_classifier.sav no diretório facerecognition<br>
+              2. criara o arquivo faces_dataset.npz no diretório dataset<br>
               3. finalizara e retorna ao menu principal
             </p>
           </li>
