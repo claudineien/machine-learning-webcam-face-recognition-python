@@ -149,18 +149,31 @@
 </details>
 
 <details>
-  <summary><strong>4. INSTALAÇÃO DO SISTEMA</strong></summary>
+  <summary><strong>4. MACHINE LEARNING - A ESCOLHA </strong></summary>
+  <ol>
+    <li>Machine Learning através da webcam</li>
+    <li>OpenCV</a></li>
+    <li>MTCNN</a></li>
+    <li>LabelEncoder</li>
+    <li>svm-SVC</li>
+    <li>Normalizer</li>
+  </ol>
+  <p><b>Importante :</b> Disponibilizei os arquivos .py caso queira testar com vscode, pycharm, spyder ou em outros IDEs</p>
+</details>
+
+<details>
+  <summary><strong>5. INSTALAÇÃO DO SISTEMA</strong></summary>
   <ol>
     <li>Cumprir o item <a href="#prereq">3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></li>
     <li>Baixar o notebook facenet-mtcnn-labelencoder.ipynb</li>
     <li>Baixar os arquivos facenet_keras.part1.rar a facenet_keras.part4.rar. Nestes há o arquivo modelo treinado facenet_keras.h5</li>
     <li>Baixar o arquivo dataset.rar. Neste há imagens diversas para utilizar em seus treinos e testes</li>
   </ol>
-  <p><b>Importante :</b> Disponibilizei os arquivos .py caso queira testar com vscode, pycharm ou em outros ides de desenvolvimento
+  <p><b>Importante :</b> Disponibilizei os arquivos .py caso queira testar com vscode, pycharm, spyder ou em outros IDEs</p>
 </details>
 
 <details>
-  <summary><strong>5. PROCEDIMENTOS DE COMO UTILIZAR O SISTEMA</strong></summary>
+  <summary><strong>6. PROCEDIMENTOS DE COMO UTILIZAR O SISTEMA</strong></summary>
   <table>
     <thead>
       <tr>
@@ -233,7 +246,7 @@
 </details>
 
 <details>
-  <summary><strong>6. FONTES DE ESTUDO</strong></summary> 
+  <summary><strong>7. FONTES DE ESTUDO</strong></summary> 
   <ul>
     <li><a href="https://minerandodados.com.br/">Minerando Dados</a></li>
     <li><a href="https://opencv.org/">Site OpenCV</a></li>
@@ -249,11 +262,12 @@
     <li><a href="https://pypi.org/project/mtcnn/">mtcnn</a></li>
     <li><a href="https://www.tensorflow.org/guide/tensor">tensorflow</a></li>
     <li><a href="https://pythonprogramming.net/linear-svc-example-scikit-learn-svm-python/r">SVC e SVM</a></li>
+    <li><a href="https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture">Embedding</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>7. AGRADECIMENTOS</strong></summary>
+  <summary><strong>8. AGRADECIMENTOS</strong></summary>
   <p>*Ser agradecido para mim é a atitude que torna as pessoas seres melhores*</p>
   <p>Agradeço a mulher mais importante da minha vida, a minha mãe sra Rosalita Borges Evangelista por ter sido uma lutadora incansável, lutando por mim, para mim e junto a mim e também de meus irmãos. Minha mãe é o motivo deu me tornar ser humano honrado.</p>
   <p>Agradeço aos meus dois irmãos que me ajudaram nos momentos em que mais precisei</p>
