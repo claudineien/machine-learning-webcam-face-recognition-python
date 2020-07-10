@@ -34,11 +34,11 @@
   </details>
     <details>
     <summary><strong>3 MTCNN</strong></summary>
-      <p> A escolha com a biblioteca MTCNN foi baseada em sua estabilidade, dezenas de dezenas de exemplos que explicam o que é, para que serve e como utilizar, além de sua constante evolução</p>
+      <p> A biblioteca MTCNN é muito estável, há dezenas de dezenas de exemplos que explicam o que é, para que serve e como utilizar, constante evolução, dezenas de desenvolvedores melhoraram seus sistemas de deteção de face com esta tecnologia. Estes são os motivos que me levaram a escolher esta biblioteca</p>
   </details>
   <details>
     <summary><strong>4 LabelEncoder</strong></summary>
-      <p> A escolha com a biblioteca LabelEncoder foi por ser simples, de processamento rápido e eficiente, por ter dezenas de dezenas de exemplos que explicam o que é, para que serve e como utilizar e sua facilidade de integração com tecnologias de classificação e regressão</p>
+      <p> A escolha da biblioteca LabelEncoder foi por ser simples, de processamento rápido e eficiente, por ter dezenas de dezenas de exemplos que explicam o que é, para que serve e como utilizar e sua facilidade de integração com tecnologias de classificação e regressão</p>
   </details>
   <details>
     <summary><strong>5 svm-SVC</strong></summary>
