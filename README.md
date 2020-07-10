@@ -1,4 +1,4 @@
-<h2 align="center"><strong>Sistema Reconhecimento facial em tempo real através da webcam</strong></h2>
+<h2 align="center"><strong>Machine Learning no reconhecimento facial em tempo real através da webcam</strong></h2>
 <h4 align="left">Nivel Conhecimento : Estudante Iniciante &#x1F393;</h4>
 <details class="sbdocs sbdocs-details">
   <summary class="sbdocs sbdocs-summary"><strong>1. CONCEITOS DE FORMA SIMPLES</strong></summary>
