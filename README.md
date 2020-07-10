@@ -1,7 +1,7 @@
 <h2 align="center"><strong>Machine Learning no reconhecimento facial em tempo real através da webcam</strong></h2>
 <h4 align="left">Nivel Conhecimento : Estudante Iniciante &#x1F393;</h4>
 <details class="sbdocs sbdocs-details">
-  <summary class="sbdocs sbdocs-summary"><strong>1. CONCEITOS DE FORMA SIMPLES</strong></summary>
+  <summary class="sbdocs sbdocs-summary"><strong>1 CONCEITOS DE FORMA SIMPLES</strong></summary>
   <ol>
     <li><strong>Reconhecimento Facial</strong>
       <p>É a técnica de capturar/pegar em uma imagem toda a parte frontal do rosto/face que envolve parte da cabeça, testa, olhos, nariz, maças do rosto, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, comparar similaridades e exibir o alvo desejado.</p>
@@ -23,20 +23,35 @@
 </details>
 
 <details>
-  <summary><strong>2. MACHINE LEARNING - A ESCOLHA </strong></summary>
-  <ol>
-    <li>Machine Learning através da webcam</li>
-    <li>OpenCV</a></li>
-    <li>MTCNN</a></li>
-    <li>LabelEncoder</li>
-    <li>svm-SVC</li>
-    <li>Normalizer</li>
-  </ol>
-  <p><b>Importante :</b> Disponibilizei os arquivos .py caso queira testar com vscode, pycharm, spyder ou em outros IDEs</p>
+  <summary><strong>2 MACHINE LEARNING - A ESCOLHA </strong></summary>
+  <details>
+    <summary><strong>1 Machine Learning através da webcam</strong></summary>
+    <p>Escolhi demonstrar o funcionamento de machine learning através de uma webcam por ser facilmente notado por qualquer pessoa que uma determinada máquina computacional pode conseguir identificar uma pessoa através de sua face em tempo real -Reconhecimento Facial em Tempo Real.</p>
+  </details>
+  <details>
+    <summary><strong>2 OpenCV</strong></summary>
+    <p>Decidi utilizar a biblioteca OpenCV demonstrada no treinamento da equipe Minerando Dados, pois dezenas de apresentações no youtube, analises à documentação e vídeos da equipe que desenvolveu o OpenCV me conveceram ser uma biblioteca com algorítimo muito estável, em constante evolução além de ser de fácil implementação.</p>
+  </details>
+    <details>
+    <summary><strong>3 MTCNN</strong></summary>
+      <p> A escolha com a biblioteca MTCNN foi baseada em sua estabilidade, dezenas de dezenas de exemplos que explicam o que é, para que serve e como utilizar, além de sua constante evolução</p>
+  </details>
+  <details>
+    <summary><strong>4 LabelEncoder</strong></summary>
+      <p> A escolha com a biblioteca LabelEncoder foi por ser simples, de processamento rápido e eficiente, por ter dezenas de dezenas de exemplos que explicam o que é, para que serve e como utilizar e sua facilidade de integração com tecnologias de classificação e regressão</p>
+  </details>
+  <details>
+    <summary><strong>5 svm-SVC</strong></summary>
+    <p> O classificador svm-SVC é robusto, simples, rápido, com dezenas de dezenas de exemplos que explicam o que é, estas qualidades me fizeram escolher</p>
+  </details>
+  <details>
+    <summary><strong>6 Normalizer</strong></summary>
+    <p> O algorítimo Normalizer da biblioteca scikit-learn foi a minha escolha, por demonstrar grande eficiência e eficácia em diversos exemplos que consultei</p>
+  </details>
 </details>
 
 <details>
-  <summary><strong>3. INFORMAÇÕES TÉCNICAS</strong></summary>
+  <summary><strong>3 INFORMAÇÕES TÉCNICAS</strong></summary>
   <ol>
     <li><strong><a id="itemtec" >Tecnologias utilizadas neste projeto</a></strong>
       <ol>
@@ -92,7 +107,7 @@
 </details>
 
 <details>
-  <summary><strong><a id="prereq">4. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></strong></summary>
+  <summary><strong><a id="prereq">4 PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></strong></summary>
   <ol>
     <li><strong>Instalar as plataformas de desenvolvimento</strong>
       <ol>
@@ -162,7 +177,7 @@
 </details>
 
 <details>
-  <summary><strong>5. INSTALAÇÃO DO SISTEMA</strong></summary>
+  <summary><strong>5 INSTALAÇÃO DO SISTEMA</strong></summary>
   <ol>
     <li>Cumprir o item <a href="#prereq">3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></li>
     <li>Baixar o notebook facenet-mtcnn-labelencoder.ipynb</li>
@@ -173,7 +188,7 @@
 </details>
 
 <details>
-  <summary><strong>6. PROCEDIMENTOS DE COMO UTILIZAR O SISTEMA</strong></summary>
+  <summary><strong>6 PROCEDIMENTOS DE COMO UTILIZAR O SISTEMA</strong></summary>
   <table>
     <thead>
       <tr>
@@ -246,7 +261,7 @@
 </details>
 
 <details>
-  <summary><strong>7. FONTES DE ESTUDO</strong></summary> 
+  <summary><strong>7 FONTES DE ESTUDO</strong></summary> 
   <ul>
     <li><a href="https://minerandodados.com.br/">Minerando Dados</a></li>
     <li><a href="https://opencv.org/">Site OpenCV</a></li>
@@ -267,7 +282,7 @@
 </details>
 
 <details>
-  <summary><strong>8. AGRADECIMENTOS</strong></summary>
+  <summary><strong>8 AGRADECIMENTOS</strong></summary>
   <p>*Ser agradecido para mim é a atitude que torna as pessoas seres melhores*</p>
   <p>Agradeço a mulher mais importante da minha vida, a minha mãe sra Rosalita Borges Evangelista por ter sido uma lutadora incansável, lutando por mim, para mim e junto a mim e também de meus irmãos. Minha mãe é o motivo deu me tornar ser humano honrado.</p>
   <p>Agradeço aos meus dois irmãos que me ajudaram nos momentos em que mais precisei</p>
