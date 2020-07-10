@@ -23,7 +23,20 @@
 </details>
 
 <details>
-  <summary><strong>2. INFORMAÇÕES TÉCNICAS</strong></summary>
+  <summary><strong>2. MACHINE LEARNING - A ESCOLHA </strong></summary>
+  <ol>
+    <li>Machine Learning através da webcam</li>
+    <li>OpenCV</a></li>
+    <li>MTCNN</a></li>
+    <li>LabelEncoder</li>
+    <li>svm-SVC</li>
+    <li>Normalizer</li>
+  </ol>
+  <p><b>Importante :</b> Disponibilizei os arquivos .py caso queira testar com vscode, pycharm, spyder ou em outros IDEs</p>
+</details>
+
+<details>
+  <summary><strong>3. INFORMAÇÕES TÉCNICAS</strong></summary>
   <ol>
     <li><strong><a id="itemtec" >Tecnologias utilizadas neste projeto</a></strong>
       <ol>
@@ -79,7 +92,7 @@
 </details>
 
 <details>
-  <summary><strong><a id="prereq">3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></strong></summary>
+  <summary><strong><a id="prereq">4. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></strong></summary>
   <ol>
     <li><strong>Instalar as plataformas de desenvolvimento</strong>
       <ol>
@@ -146,19 +159,6 @@
       </tbody>
     </table>
   </ol>
-</details>
-
-<details>
-  <summary><strong>4. MACHINE LEARNING - A ESCOLHA </strong></summary>
-  <ol>
-    <li>Machine Learning através da webcam</li>
-    <li>OpenCV</a></li>
-    <li>MTCNN</a></li>
-    <li>LabelEncoder</li>
-    <li>svm-SVC</li>
-    <li>Normalizer</li>
-  </ol>
-  <p><b>Importante :</b> Disponibilizei os arquivos .py caso queira testar com vscode, pycharm, spyder ou em outros IDEs</p>
 </details>
 
 <details>
