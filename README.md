@@ -24,30 +24,26 @@
 
 <details>
   <summary><strong>2 MACHINE LEARNING - A ESCOLHA </strong></summary>
-  <details>
-    <summary><strong>1 Machine Learning através da webcam</strong></summary>
-    <p>Escolhi demonstrar o funcionamento de machine learning através de uma webcam por ser facilmente notado por qualquer pessoa que uma determinada máquina computacional pode conseguir identificar uma pessoa através de sua face em tempo real -Reconhecimento Facial em Tempo Real.</p>
-  </details>
-  <details>
-    <summary><strong>2 OpenCV</strong></summary>
-    <p>Decidi utilizar a biblioteca OpenCV demonstrada no treinamento da equipe Minerando Dados, pois dezenas de apresentações no youtube, analises à documentação e vídeos da equipe que desenvolveu o OpenCV me conveceram ser uma biblioteca com algorítimo muito estável, em constante evolução além de ser de fácil implementação.</p>
-  </details>
-    <details>
-    <summary><strong>3 MTCNN</strong></summary>
+  <ol>
+    <li><strong>Machine Learning como backend da webcam</strong>
+      <p>Escolhi demonstrar o funcionamento de machine learning através de uma webcam por ser facilmente notado por qualquer pessoa que uma determinada máquina computacional pode conseguir identificar uma pessoa através de sua face em tempo real -Reconhecimento Facial em Tempo Real.</p>
+    </li>
+    <li><strong>OpenCV</strong>
+      <p>Decidi utilizar a biblioteca OpenCV demonstrada no treinamento da equipe Minerando Dados, pois dezenas de apresentações no youtube, analises à documentação e vídeos da equipe que desenvolveu o OpenCV me conveceram ser uma biblioteca com algorítimo muito estável, em constante evolução além de ser de fácil implementação.</p>
+    </li>
+    <li><strong>MTCNN</strong>
       <p> A biblioteca MTCNN é muito estável, há dezenas de dezenas de exemplos que explicam o que é, para que serve e como utilizar, constante evolução, dezenas de desenvolvedores melhoraram seus sistemas de deteção de face com esta tecnologia. Estes são os motivos que me levaram a escolher esta biblioteca</p>
-  </details>
-  <details>
-    <summary><strong>4 LabelEncoder</strong></summary>
+    </li>
+    <li><strong>LabelEncoder</strong>
       <p> A escolha da biblioteca LabelEncoder foi por ser simples, de processamento rápido e eficiente, por ter dezenas de dezenas de exemplos que explicam o que é, para que serve e como utilizar e sua facilidade de integração com tecnologias de classificação e regressão</p>
-  </details>
-  <details>
-    <summary><strong>5 svm-SVC</strong></summary>
-    <p> O classificador svm-SVC é robusto, simples, rápido, com dezenas de dezenas de exemplos que explicam o que é, estas qualidades me fizeram escolher</p>
-  </details>
-  <details>
-    <summary><strong>6 Normalizer</strong></summary>
-    <p> O algorítimo Normalizer da biblioteca scikit-learn foi a minha escolha, por demonstrar grande eficiência e eficácia em diversos exemplos que consultei</p>
-  </details>
+    </li>
+    <li><strong>svm-SVC</strong>
+      <p> O classificador svm-SVC é robusto, simples, rápido, com dezenas de dezenas de exemplos que explicam o que é, estas qualidades me fizeram escolher</p>
+    </li>
+    <li><strong>Normalizer</strong>
+      <p> O algorítimo Normalizer da biblioteca scikit-learn foi a minha escolha, por demonstrar grande eficiência e eficácia em diversos exemplos que consultei</p>
+    </li>
+  </ol>
 </details>
 
 <details>
