@@ -26,10 +26,17 @@
   <summary><strong>2 MACHINE LEARNING - A ESCOLHA </strong></summary>
   <ol>
     <li><strong>Machine Learning como backend da webcam</strong>
-      <p>Escolhi demonstrar o funcionamento de machine learning através de uma webcam por ser facilmente notado por qualquer pessoa que uma determinada máquina computacional pode conseguir identificar uma pessoa através de sua face em tempo real -Reconhecimento Facial em Tempo Real.</p>
+      <p>Demonstrar o funcionamento de machine learning através no reconhecimento facial através de uma webcam por ser fácil de notar que é possível uma determinada máquina computacional conseguir identificar uma pessoa através de sua face em tempo real, também conhecida como Reconhecimento Facial em Tempo Real.</p>
     </li>
     <li><strong>OpenCV</strong>
-      <p>Decidi utilizar a biblioteca OpenCV demonstrada no treinamento da equipe Minerando Dados, pois dezenas de apresentações no youtube, analises à documentação e vídeos da equipe que desenvolveu o OpenCV me conveceram ser uma biblioteca com algorítimo muito estável, em constante evolução além de ser de fácil implementação.</p>
+      <p>Utilizar a biblioteca OpenCV foi uma decisão fácil, pois foi demonstrada com facilidade pela equipe de treinamento Minerando Dados, e identifiquei os seguintes prós:
+        <ul>
+        <li>open source </li>
+        <li>suporta as linguagens C++, Python, Java, etc</li>
+        <li>é multiplataforma : windows, macos, linux</li>
+        <li>desenvolvida com a linguagem c++</li>
+        <li> . . .   pois dezenas de apresentações no youtube, analises à documentação e vídeos da equipe que desenvolveu o OpenCV me conveceram ser uma biblioteca com algorítimo muito estável, em constante evolução além de ser de fácil implementação.</li></p>
+      </ul>
     </li>
     <li><strong>MTCNN</strong>
       <p> A biblioteca MTCNN é muito estável, há dezenas de dezenas de exemplos que explicam o que é, para que serve e como utilizar, constante evolução, dezenas de desenvolvedores melhoraram seus sistemas de deteção de face com esta tecnologia. Estes são os motivos que me levaram a escolher esta biblioteca</p>
