@@ -28,16 +28,19 @@
     <li><strong>Machine Learning como backend da webcam</strong>
       <p>Demonstrar o funcionamento de machine learning no reconhecimento facial através de uma webcam, para mim, é a forma mais fácil de explicar na prática a qualquer pessoa, que é possivel incluir uma inteligência em máquina com poder computacional. Neste caso utilizei o que conhecemos de Reconhecimento Facial em Tempo Real.</p>
     </li>
-    <li><strong>As bibliotecas de algorítimos a seguir foram ensinadas no treinamento Data Science do Zero e demonstraram uma eficiência satisfatória, mesmo assim consultei diversas opinicoes em sites como a mesma aplicação para cumprir este desafio. Algoritmos utilizados neste pequeno projeto :</strong>
+    <li><strong>As bibliotecas de algorítimos a seguir foram ensinadas no treinamento Data Science do Zero e demonstraram eficiência satisfatória, mesmo assim consultei diversas documentações, explicações e exemplos em sites voltados a data science para cumprir este desafio. Os algoritmos principais são :</strong>
       <p>
         <ul>
           <li>OpenCV</li>
           <li>MTCNN</li>
+          <li>PIL</li>
+          <li>numpy</li>
+          <li>keras</li>
           <li>LabelEncoder</li>
           <li>svm-SVC</li>
           <li>Standardization</li>
           <li>Normalizer</li>
-          <li>MTCNN</li>
+          <li>pickle</li>
         </ul>
       </p>
     </li>
