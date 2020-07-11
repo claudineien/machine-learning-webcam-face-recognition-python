@@ -44,7 +44,7 @@
         </ul>
       </p>
     </li>
-    <p><b>Fontes consultadas :</b> <a href="https://www.edureka.co/">edureka</a>, <a href="https://medium.com/iversos/">medium</a>, <a href="https://stackoverflow.com/">stack overflow</a>, <a href="https://towardsdatascience.com/>towards data science</a></p>
+    <p><b>Fontes consultadas :</b> <a href="https://www.edureka.co/">edureka</a>, <a href="https://medium.com">medium</a>, <a href="https://stackoverflow.com/">stack overflow</a>, <a href="https://towardsdatascience.com/">towards data science</a></p>
   </ol>
 </details>
 
