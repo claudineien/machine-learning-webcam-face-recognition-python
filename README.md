@@ -25,7 +25,7 @@
 <details>
   <summary><strong>2 MACHINE LEARNING + WEBCAM - A ESCOLHA </strong></summary>
   <ol>
-    <li><strong>Machine Learning como backend da webcam</strong>
+    <li><strong>Machine Learning como back-end de webcam</strong>
       <p>Demonstrar o funcionamento de machine learning no reconhecimento facial através de uma webcam, para mim, é a forma mais fácil de explicar na prática a qualquer pessoa, que é possivel incluir uma inteligência em máquina com poder computacional. Neste caso utilizei o que conhecemos de Reconhecimento Facial em Tempo Real.</p>
     </li>
     <li><strong>As bibliotecas de algorítimos a seguir foram ensinadas no treinamento Data Science do Zero e demonstraram eficiência satisfatória, mesmo assim consultei diversas documentações, explicações e exemplos em sites voltados a data science para cumprir este desafio. Os algoritmos principais são :</strong>
