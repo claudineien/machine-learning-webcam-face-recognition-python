@@ -179,6 +179,7 @@
     <li>Baixar o notebook facenet-mtcnn-labelencoder.ipynb</li>
     <li>Baixar os arquivos facenet_keras.part1.rar a facenet_keras.part4.rar. Nestes há o arquivo modelo treinado facenet_keras.h5</li>
     <li>Baixar o arquivo dataset.rar. Neste há imagens diversas para utilizar em seus treinos e testes</li>
+    <p><b>Nota :</b> Consultar documentação específica sobre <a href="files/readme.md">descompactar .rar</a>
   </ol>
   <p><b>Importante :</b> Disponibilizei os arquivos .py caso queira testar com vscode, pycharm, spyder ou em outros IDEs</p>
 </details>
