@@ -26,30 +26,22 @@
   <summary><strong>2 MACHINE LEARNING - A ESCOLHA </strong></summary>
   <ol>
     <li><strong>Machine Learning como backend da webcam</strong>
-      <p>Demonstrar o funcionamento de machine learning através no reconhecimento facial através de uma webcam por ser fácil de notar que é possível uma determinada máquina computacional conseguir identificar uma pessoa através de sua face em tempo real, também conhecida como Reconhecimento Facial em Tempo Real.</p>
+      <p>Demonstrar o funcionamento de machine learning no reconhecimento facial através de uma webcam, para mim, é a forma mais fácil de explicar na prática a qualquer pessoa, que é possivel incluir uma inteligência em máquina com poder computacional. Neste caso utilizei o que conhecemos de Reconhecimento Facial em Tempo Real.</p>
     </li>
-    <li><strong>OpenCV</strong>
-      <p>Utilizar a biblioteca OpenCV foi uma decisão fácil, pois foi demonstrada com facilidade pela equipe de treinamento Minerando Dados, e identifiquei os seguintes prós:
+    <li><strong>As bibliotecas de algorítimos a seguir foram ensinadas no treinamento Data Science do Zero e demonstraram uma eficiência satisfatória, mesmo assim consultei diversas opinicoes em sites como a mesma aplicação para cumprir este desafio. Algoritmos utilizados neste pequeno projeto :</strong>
+      <p>
         <ul>
-        <li>open source </li>
-        <li>suporta as linguagens C++, Python, Java, etc</li>
-        <li>é multiplataforma : windows, macos, linux</li>
-        <li>desenvolvida com a linguagem c++</li>
-        <li> . . .   pois dezenas de apresentações no youtube, analises à documentação e vídeos da equipe que desenvolveu o OpenCV me conveceram ser uma biblioteca com algorítimo muito estável, em constante evolução além de ser de fácil implementação.</li></p>
-      </ul>
+          <li>OpenCV</li>
+          <li>MTCNN</li>
+          <li>LabelEncoder</li>
+          <li>svm-SVC</li>
+          <li>Standardization</li>
+          <li>Normalizer</li>
+          <li>MTCNN</li>
+        </ul>
+      </p>
     </li>
-    <li><strong>MTCNN</strong>
-      <p> A biblioteca MTCNN é muito estável, há dezenas de dezenas de exemplos que explicam o que é, para que serve e como utilizar, constante evolução, dezenas de desenvolvedores melhoraram seus sistemas de deteção de face com esta tecnologia. Estes são os motivos que me levaram a escolher esta biblioteca</p>
-    </li>
-    <li><strong>LabelEncoder</strong>
-      <p> A escolha da biblioteca LabelEncoder foi por ser simples, de processamento rápido e eficiente, por ter dezenas de dezenas de exemplos que explicam o que é, para que serve e como utilizar e sua facilidade de integração com tecnologias de classificação e regressão</p>
-    </li>
-    <li><strong>svm-SVC</strong>
-      <p> O classificador svm-SVC é robusto, simples, rápido, com dezenas de dezenas de exemplos que explicam o que é, estas qualidades me fizeram escolher</p>
-    </li>
-    <li><strong>Normalizer</strong>
-      <p> O algorítimo Normalizer da biblioteca scikit-learn foi a minha escolha, por demonstrar grande eficiência e eficácia em diversos exemplos que consultei</p>
-    </li>
+    <p><b>Fontes consultadas :</b> <a href="https://www.edureka.co/">edureka</a>, <a href="https://medium.com/iversos/">medium</a>, <a href="https://stackoverflow.com/">stack overflow</a>, <a href="https://towardsdatascience.com/>towards data science</a></p>
   </ol>
 </details>
 
