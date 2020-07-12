@@ -46,7 +46,7 @@
         </ul>
       </p>
     </li>
-    <p><b>Fontes consultadas :</b> <a href="https://www.edureka.co/">edureka</a>, <a href="https://medium.com">medium</a>, <a href="https://stackoverflow.com/">stack overflow</a>, <a href="https://towardsdatascience.com/">towards data science</a></p>
+    <p><b>Fontes de Estudo :</b> <a href="https://www.edureka.co/">edureka</a>, <a href="https://medium.com">medium</a>, <a href="https://stackoverflow.com/">stack overflow</a>, <a href="https://towardsdatascience.com/">towards data science</a></p>
   </ol>
 </details>
 
@@ -85,7 +85,7 @@
         </p>
       </ol>
     </li>
-    <li><strong>Utilizando as técnicas machine learning vamos</strong>
+    <li><strong>Utilizando as técnicas Machine Learning vamos :</strong>
       <ol>
         <p>
           <li>- [x] Calcular o Embedding da imagem</li>
@@ -182,8 +182,8 @@
     <li>Cumprir o item <a href="#prereq">3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></li>
     <li>Baixar o notebook <a href="files/facenet-keras-mtcnn-labelencoder.ipynb">facenet-keras-mtcnn-labelencoder.ipynb</a></li>
     <li>Baixar os arquivos facenet_keras.part1.rar a facenet_keras.part4.rar. Nestes há o arquivo modelo treinado facenet_keras.h5</li>
-    <li>Baixar o arquivo dataset.rar. Neste há imagens diversas para utilizar em seus treinos e testes</li>
     <p><b>Nota :</b> Consultar documentação específica sobre <a href="files/readme.md">descompactar .rar</a>
+    <li>Baixar o arquivo dataset.rar. Neste há imagens diversas para utilizar em seus treinos e testes</li>
   </ol>
   <p><b>Importante :</b> Disponibilizei os arquivos .py caso queira testar com vscode, pycharm, spyder ou em outros IDEs</p>
 </details>
