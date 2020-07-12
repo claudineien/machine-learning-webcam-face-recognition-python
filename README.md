@@ -5,16 +5,16 @@
   <summary class="sbdocs sbdocs-summary"><strong>1 CONCEITOS DE FORMA SIMPLES</strong></summary>
   <ol>
     <li><strong>Reconhecimento Facial</strong>
-      <p>É a técnica de capturar/pegar em uma imagem toda a parte frontal do rosto/face que envolve parte da cabeça, testa, olhos, nariz, maças do rosto, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, comparar similaridades e exibir o alvo desejado.</p>
+      <p>É a técnica de capturar/pegar em uma imagem a parte frontal do rosto/face que envolve parte da cabeça, testa, olhos, nariz, maças do rosto, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, comparar similaridades e exibir o alvo desejado.</p>
       <p>A imagem considerada pode ser uma foto, vídeo ou câmera.</p>
       <p>O alvo desejado é o ser humano que será identificado.</p>
     </li>
     <li><strong>Machine Learning</strong>
-      <p>É a técnica computacional de ensinar uma máquina com determinado poder computacional a analisar um conjunto de dados e predizer informações para auxiliar nas decisões.</p>
-      <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa, da mais simples a mais complexa.</p>
+      <p><b>É o ojeto de estudo</b> neste projeto. É a técnica computacional de ensinar uma máquina com determinado poder computacional a analisar um conjunto de dados e predizer informações para auxiliar nas decisões.</p>
+      <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa -da mais simples a mais complexa.</p>
     </li>
     <li><strong>Deep Learning</strong>
-      <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem para auxiliar a identificar quem esta na imagem.</p>
+      <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem para auxiliar a identificar quem a imagem pertence.</p>
     </li>
     <li><strong>Neural Network</strong>
       <p>É um algoritmo computacional que aprende com novos dados inseridos, simulando o cérebro humano.</p>
@@ -28,7 +28,7 @@
   <p align="center" ><img title="Diagrama Machine Learning at Face Recognition" src="img/machlearnfacerecogn.png" alt="Machine Learning at Face Recognition" width="607" height="311"></p>
   <ol>
     <li><strong>Machine Learning como back-end de webcam</strong>
-      <p>Demonstrar o funcionamento de machine learning no reconhecimento facial através de uma webcam, para mim, é a forma mais fácil de explicar na prática a qualquer pessoa, que é possivel incluir uma inteligência em máquina com poder computacional. Neste caso utilizei o que conhecemos de Reconhecimento Facial em Tempo Real.</p>
+      <p>Demonstrar o funcionamento de <b>machine learning</b> no reconhecimento facial através de uma webcam, para mim, é a forma mais fácil de explicar na prática a qualquer pessoa, que é possivel incluir uma inteligência em uma máquina com determinado poder computacional. Neste caso utilizei o conhecido Reconhecimento Facial em Tempo Real.</p>
     </li>
     <li><strong>As bibliotecas de algorítimos a seguir foram ensinadas no treinamento Data Science do Zero e demonstraram eficiência satisfatória, mesmo assim consultei diversas documentações, explicações e exemplos em sites voltados a data science para cumprir este desafio. Os algoritmos principais são :</strong>
       <p>
