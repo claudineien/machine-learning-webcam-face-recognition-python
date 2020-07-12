@@ -1,6 +1,6 @@
 <h2 align="center"><strong>Machine Learning no reconhecimento facial através da webcam</strong></h2>
 <h4 align="left">Nivel Conhecimento : Estudante Iniciante &#x1F393;</h4>
-<h4 align="left">Objetivo : Demonstrar um pouco do poder da tecnolocia Machine Learning - Tempo Total de Leitura : 9 minutos</h4>
+<h4 align="left">Objetivo : Demonstrar Machine Learning - Tempo Total de Leitura : 9 minutos</h4>
 <details class="sbdocs sbdocs-details">
   <summary class="sbdocs sbdocs-summary"><strong>1 CONCEITOS DE FORMA SIMPLES</strong></summary>
   <ol>
@@ -182,7 +182,7 @@
     <li>Cumprir o item <a href="#prereq">3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></li>
     <li>Baixar o notebook <a href="files/facenet-keras-mtcnn-labelencoder.ipynb">facenet-keras-mtcnn-labelencoder.ipynb</a></li>
     <li>Baixar os arquivos facenet_keras.part1.rar a facenet_keras.part4.rar. Nestes há o arquivo modelo treinado facenet_keras.h5</li>
-    <p><b>Nota :</b> Consultar documentação específica sobre <a href="files/readme.md">descompactar .rar</a>
+    <p><b>Nota :</b> Consultar documentação <a href="files/readme.md">DESCOMPACTAR O CONTEÚDO DOS ARQUIVOS EXTENSÃO .rar - WINRAR</a>
     <li>Baixar o arquivo dataset.rar. Neste há imagens diversas para utilizar em seus treinos e testes</li>
   </ol>
   <p><b>Importante :</b> Disponibilizei os arquivos .py caso queira testar com vscode, pycharm, spyder ou em outros IDEs</p>
@@ -204,18 +204,19 @@
             </figure>
           </li>
           <li>Fazer o download do arquivo facenet_keras.rar e descompactar no diretorio facenet</li>
-          <li>Abrir o notebook facenet-keras-mtcnn-labelencoder.ipynb no jupyter notebook e :
+          <li>Abrir o notebook facenet-keras-mtcnn-labelencoder.ipynb no jupyter notebook e executar procedimentos a seguir :
             <ol>
-              <li>Na class RegisterImg: substituir conteúdo da variável self.grv_img pelo local em que o conteúdo do dataset.rar foi gravado</li>
-              <li>Na class FaceTrainer: substituir conteúdo da variável self.datasetpath pelo local em que o conteúdo do dataset.rar foi gravado</li>
-              <li>Na class FaceTrainer: substituir conteúdo da variável self.faces_npz pelo local em que o conteúdo do dataset.rar foi gravado</li>
-              <li>Na class FaceTrainer: substituir conteúdo da variável self.keras_facenet pelo local em que o conteúdo dos facenet_kerasX.rar foram gravados</li>
-              <li>Na class FaceTrainer: substituir conteúdo da variável self.faces_embeddings pelo local em que você criou o diretório facerecognition</li>
-              <li>Na class FaceTrainer: substituir conteúdo da variável self.svm_classifier pelo local em que você criou o diretório facerecognition</li>
-              <li>Na class FaceDetector: substituir conteúdo da variável self.facenet_model pelo local em que o conteúdo dos facenet_kerasX.rar foram gravados</li>
-              <li>Na class FaceDetector: substituir conteúdo da variável self.svm_model pelo local em que você criou o diretório facerecognition</li>
-              <li>Na class FaceDetector: substituir conteúdo da variável self.data pelo local em que você criou o diretório facerecognition</li>
+              <li>Na class RegisterImg : substituir conteúdo da variável self.grv_img pelo local em que o conteúdo do dataset.rar foi gravado</li>
+              <li>Na class FaceTrainer : substituir conteúdo da variável self.datasetpath pelo local em que o conteúdo do dataset.rar foi gravado</li>
+              <li>Na class FaceTrainer : substituir conteúdo da variável self.faces_npz pelo local em que o conteúdo do dataset.rar foi gravado(*)</li>
+              <li>Na class FaceTrainer : substituir conteúdo da variável self.keras_facenet pelo local em que o conteúdo dos arquivos .rar foram gravados(**)</li>
+              <li>Na class FaceTrainer : substituir conteúdo da variável self.faces_embeddings pelo local em que você criou o diretório facerecognition(*)</li>
+              <li>Na class FaceTrainer : substituir conteúdo da variável self.svm_classifier pelo local em que você criou o diretório facerecognition(*)</li>
+              <li>Na class FaceDetector : substituir conteúdo da variável self.facenet_model pelo local em que o conteúdo dos facenet_kerasX.rar foram gravados</li>
+              <li>Na class FaceDetector : substituir conteúdo da variável self.svm_model pelo local em que você criou o diretório facerecognition</li>
+              <li>Na class FaceDetector : substituir conteúdo da variável self.data pelo local em que você criou o diretório facerecognition</li>
             </ol><br>
+            <p><b>Nota : </b>(*) Manter a extensão .npz;  (**) Manter o nome e a extensão do arquivo; 
           </li>
           <li>Executar as 5 linhas de códigos</li>
           <li>A linha com os códigos a seguir apresentará uma nova linha solicitando algumas informações
