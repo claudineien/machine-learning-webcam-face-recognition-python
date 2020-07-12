@@ -179,7 +179,7 @@
   <summary><strong>5 INSTALAÇÃO DO SISTEMA</strong></summary>
   <ol>
     <li>Cumprir o item <a href="#prereq">3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></li>
-    <li>Baixar o notebook <a href="files/facenet-mtcnn-labelencoder.ipynb">facenet-mtcnn-labelencoder.ipynb</a></li>
+    <li>Baixar o notebook <a href="files/facenet-keras-mtcnn-labelencoder.ipynb">facenet-keras-mtcnn-labelencoder.ipynb</a></li>
     <li>Baixar os arquivos facenet_keras.part1.rar a facenet_keras.part4.rar. Nestes há o arquivo modelo treinado facenet_keras.h5</li>
     <li>Baixar o arquivo dataset.rar. Neste há imagens diversas para utilizar em seus treinos e testes</li>
     <p><b>Nota :</b> Consultar documentação específica sobre <a href="files/readme.md">descompactar .rar</a>
