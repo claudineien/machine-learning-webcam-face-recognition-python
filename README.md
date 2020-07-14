@@ -30,7 +30,7 @@
     <li><strong>Machine Learning como back-end de webcam</strong>
       <p>Demonstrar o funcionamento de <b>machine learning</b> no reconhecimento facial através de uma webcam, para mim, é a forma mais fácil de explicar na prática a qualquer pessoa, que é possivel incluir uma inteligência em uma máquina com determinado poder computacional. Neste caso utilizei o conhecido Reconhecimento Facial em Tempo Real.</p>
     </li>
-    <li><strong>As bibliotecas de algorítimos a seguir foram ensinadas no treinamento Data Science do Zero e demonstraram eficiência satisfatória, mesmo assim consultei diversas documentações, explicações e exemplos em sites voltados a data science para cumprir este desafio. Os algoritmos principais são :</strong>
+    <li><strong>As bibliotecas de algoritmos a seguir foram ensinadas no treinamento Data Science do Zero e demonstraram eficiência satisfatória, mesmo assim consultei diversas documentações, explicações e exemplos em sites voltados a data science para cumprir este desafio. Os algoritmos principais são :</strong>
       <p>
         <ul>
           <li>OpenCV</li>
@@ -92,14 +92,14 @@
           <li>- [x] Aplicar Standardization</li>
           <li>- [x] Aplicar Normatization com Normalizer da sklearn</li>
           <li>- [x] Converter os dados categóricos em numéricos com o LabelEncoder</li>
-          <li>- [x] Executar treinamento de reconhecimento facial do algorítimo SVC da sklearn.svm</li>
+          <li>- [x] Executar treinamento de reconhecimento facial do algoritmo SVC da sklearn.svm</li>
           <li>- [x] Utilizar o algoritmo de predição svm nos dados de treino e teste</li>
-          <li>- [x] Aplicar o cáculo de acurácia/precisão do algorítimo accuracy_score da sklearn.metrics</li>
+          <li>- [x] Aplicar o cáculo de acurácia/precisão do algoritmo accuracy_score da sklearn.metrics</li>
           <li>- [x] Calcular as coordenadas da face</li>
           <li>- [x] Utilizar o método de predição do modelo facenet_keras.h5 na imagem visualizada pela webcam</li>
           <li>- [x] Aplicar o método Normalizer l2</li>
           <li>- [x] Utilizar a inversão do LabelEncoder</li>
-          <li>- [x] Exibir o resultado da identificação no algorítimo OpenCV pela webcam</li>
+          <li>- [x] Exibir o resultado da identificação no algoritmo OpenCV pela webcam</li>
         </p>
       </ol>
     </li>    
