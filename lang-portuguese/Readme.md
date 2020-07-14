@@ -50,7 +50,7 @@
   </ol>
 </details>
 
-<details open>
+<details>
   <summary><strong>3 TECHNICAL INFORMATION</strong></summary>
   <ol>
     <li><strong><a id="itemtec" >Technologies used in this project</a></strong>
