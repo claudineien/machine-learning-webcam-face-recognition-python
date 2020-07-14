@@ -272,7 +272,7 @@
     <li><a href="https://www.techradar.com/news/what-is-a-neural-network">Techradar</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Artificial_neural_network">Wikpedia-Neural Network</a></li>
     <li><a href="https://scikit-learn.org/stable/">scikit-learn</a></li>
-    <li><a href="https://scikit-learn.org/stable/_downloads/scikit-learn-docs.pdf">LabelEncoder</a></li>
+    <li><a href="https://scikit-learn.org/stable/_downloads/scikit-learn-docs.pdf">scikit-learn LabelEncoder</a></li>
     <li><a href="http://scipy.github.io/devdocs/hacking.html">scipy</a></li>
     <li><a href="https://keras.io/">keras</a></li>
     <li><a href="https://pillow.readthedocs.io/en/stable/">Pillow</a></li>
