@@ -169,7 +169,7 @@
         </tr>
         <tr>
           <th>tensorflow</th>
-          <td>Serviço flexível e de alto desempenho para machine learning, feito para ambientes de produção</td>
+          <td>APIs intuitivas de nível superior e construção flexível de modelos em qualquer plataforma</td>
         </tr>
       </tbody>
     </table>
