@@ -50,13 +50,13 @@
   </ol>
 </details>
 
-<details>
-  <summary><strong>3 INFORMAÇÕES TÉCNICAS</strong></summary>
+<details open>
+  <summary><strong>3 TECHNICAL INFORMATION</strong></summary>
   <ol>
-    <li><strong><a id="itemtec" >Tecnologias utilizadas neste projeto</a></strong>
+    <li><strong><a id="itemtec" >Technologies used in this project</a></strong>
       <ol>
         <p>
-        <li>- [x] Linguagem de programação : python 3.7.7</li>
+        <li>- [x] Programming language : python 3.7.7</li>
         <li>- [x] Python Package Index -pip : versão 20.1.1</li>
         <li>- [x] Visual Studio Code : Version: 1.46.0 (user setup) Electron: 7.3.1</li>
         <li>- [x] OS : Windows_NT x64 10.0.18363 (Windows 10 Home)</li>
@@ -64,42 +64,44 @@
         <li>- [x] RAM : 8GB</li>
         <li>- [x] SSD : 225GB</li>
         <li>- [x] Browser : Chrome: 78.0.3904.130</li>
-        <li>- [x] Plataforma Front de Desenvolvimento : Jupyter notebook 4.6.3</li>
-        <li>- [x] Plataforma Back de Desenvolvimento : miniconda-conda 4.8.3</li>
+        <li>- [x] Development front plataform : Jupyter notebook 4.6.3</li>
+        <li>- [x] Development back plataform : miniconda-conda 4.8.3</li>
         </p>
       </ol>
     </li>
-    <li><strong>Algoritmos de visão computacional <a href="https://opencv.org/" target="_blank"><img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> para</strong>
+    <li><strong>Computer vision algorithms <a href="https://opencv.org/" target="_blank"><img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> to </strong>
       <ol>
         <p>
-        <li>- [x] Acessar a webcam local do computador, notebook </li>
-        <li>- [x] Exibir a imagem em tempo real através da webcam</li>
+        <li>- [x] Access the local computer/notebook webcam </li>
+        <li>- [x] Display the real-time image through webcam</li>
         </p>
       </ol>
     </li>
-    <li><strong>Algoritmos deep learning e neural networks <a style="font-color:green"  href="https://pypi.org/project/mtcnn/" target="_blank">mtcnn 0.1.0</a> para</strong>
+    <li><strong>Deep learning and neural networks Algorithms <a style="font-color:green"  href="https://pypi.org/project/mtcnn/" target="_blank">mtcnn 0.1.0</a> to</strong>
       <ol>
         <p>
-        <li>- [x] Aplicar na imagem capturada diversos cálculos de reconhecimento de forma e formato</li>
-        <li>- [x] Disponibilizar resultado dos cálculos aos algoritmos machine learning</li>
+        <li>- [x] Apply multiple shape and format recognition calculations to the captured image</li>
+        <li>- [x] Making calculations results available to machine learning algorithms</li>
         </p>
       </ol>
     </li>
-    <li><strong>Utilizando as técnicas Machine Learning vamos :</strong>
+    <li><strong>Using Machine Learning techniques we will learn how to :</strong>
       <ol>
         <p>
-          <li>- [x] Calcular o Embedding da imagem</li>
-          <li>- [x] Aplicar Standartization</li>
-          <li>- [x] Aplicar Normatization com Normalizer da sklearn</li>
-          <li>- [x] Converter os dados categóricos em numéricos com o LabelEncoder</li>
-          <li>- [x] Executar treinamento de reconhecimento facial com algoritmo SVC da sklearn.svm</li>
-          <li>- [x] Utilizar o algoritmo de predição sklearn.svm nos dados de treino e teste</li>
-          <li>- [x] Aplicar o cáculo de acurácia/precisão do algorítimo accuracy_score da sklearn.metrics</li>
-          <li>- [x] Calcular as coordenadas da face</li>
-          <li>- [x] Utilizar o método de predição do modelo facenet_keras.h5 na imagem visualizada pela webcam</li>
-          <li>- [x] Aplicar o método Normalizer l2</li>
-          <li>- [x] Utilizar a inversão do LabelEncoder</li>
-          <li>- [x] Exibir o resultado da identificação no algorítimo OpenCV pela webcam</li>
+          <li>- [x] Calculet the Embedding of the image</li>
+          <li>- [x] Apply Standardization</li>
+          <li>- [x] Apply Normatization with sklearn Normalizer</li>
+          <li>- [x] Convert categorical data to numerical data with LabelEncoder</li>
+          <li>- [x] Perform facial recognition training with sklearn.svm's SVC algorithm
+          </li>
+          <li>- [x] Use sklearn.svm predict algorithm in the trainning and testing data</li>
+          <li>- [x] Apply the accuracy/precision calculation of the sklearn.metrics accuracy_score algorithm  
+        </li>
+          <li>- [x] Calculate faces coordenates</li>
+          <li>- [x] Use model predict method of the facenet_keras.h5's in the image viewed by webcam </li>
+          <li>- [x] Apply the Normalizer l2 method</li>
+          <li>- [x] Use LabelEncoder inverse transform</li>
+          <li>- [x] Display the identification result on the webcam through the OpenCV algoritm</li>
         </p>
       </ol>
     </li>    
