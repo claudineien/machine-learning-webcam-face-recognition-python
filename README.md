@@ -89,7 +89,7 @@
       <ol>
         <p>
           <li>- [x] Calcular o Embedding da imagem</li>
-          <li>- [x] Aplicar Standartization</li>
+          <li>- [x] Aplicar Standardization</li>
           <li>- [x] Aplicar Normatization com Normalizer da sklearn</li>
           <li>- [x] Converter os dados categóricos em numéricos com o LabelEncoder</li>
           <li>- [x] Executar treinamento de reconhecimento facial do algorítimo SVC da sklearn.svm</li>
