@@ -180,7 +180,7 @@
   </ol>
 </details>
 
-<details open>
+<details>
   <summary><strong>5 SYSTEM INSTALLATION GUIDE</strong></summary>
   <ol>
     <li>First run <a href="#prereq">4 PRE-REQUISITS FOR THE SYSTEM TO WORK</a></li>
