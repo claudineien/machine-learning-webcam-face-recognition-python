@@ -1,7 +1,7 @@
 
 <h2 align="center"><strong>Machine Learning on facial recognition by webcam</strong></h2>
 <h5 align="left">Target audience: Machine Learning Apprentice &#x1F393; - Objective: Demonstrate Machine Learning - Read Time: 00:09:30 mins - Language: 
-<a href="lang-en/README.MD">Portuguese</a>󠁧󠁢󠁥󠁮󠁧󠁿</h5>
+<a href="../README.MD">Portuguese</a>󠁧󠁢󠁥󠁮󠁧󠁿</h5>
 <details class="sbdocs sbdocs-details">
   <summary class="sbdocs sbdocs-summary"><strong>1 CONCEPTS IN A SIMPLE WAY</strong></summary>
   <ol>
