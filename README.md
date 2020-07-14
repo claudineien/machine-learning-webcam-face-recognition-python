@@ -1,6 +1,6 @@
 <h2 align="center"><strong>Machine Learning no reconhecimento facial através da webcam</strong></h2>
 <h4 align="left">Nivel Conhecimento : Estudante Iniciante &#x1F393;</h4>
-<h4 align="left">Objetivo : Demonstrar Machine Learning - Tempo Total de Leitura : 00:09:30 minutos</h4>
+<h4 align="left">Objetivo : Demonstrar Machine Learning - Tempo Leitura : 00:09:30 minutos</h4>
 <details class="sbdocs sbdocs-details">
   <summary class="sbdocs sbdocs-summary"><strong>1 CONCEITOS DE FORMA SIMPLES</strong></summary>
   <ol>
