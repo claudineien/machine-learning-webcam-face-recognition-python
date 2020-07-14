@@ -107,7 +107,7 @@
 </details>
 
 <details>
-  <summary><strong>4 PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</strong></summary>
+  <summary><strong><a id="prereq">4 PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></strong></summary>
   <ol>
     <li><strong>Instalar as plataformas de desenvolvimento</strong>
       <ol>
@@ -179,7 +179,7 @@
 <details>
   <summary><strong>5 INSTALAÇÃO DO SISTEMA</strong></summary>
   <ol>
-    <li>Cumprir o item <a href="#prereq">3. PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></li>
+    <li>Cumprir o item <a href="#prereq">4 PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></li>
     <li>Baixar o notebook <a href="files/facenet-keras-mtcnn-labelencoder.ipynb">facenet-keras-mtcnn-labelencoder.ipynb</a></li>
     <li>Baixar os arquivos facenet_keras.part1.rar a facenet_keras.part4.rar. Nestes há o arquivo modelo treinado facenet_keras.h5</li>
     <p><b>Nota :</b> Consultar documentação <a href="files/readme.md">DESCOMPACTAR O CONTEÚDO DOS ARQUIVOS EXTENSÃO .rar - WINRAR</a>
