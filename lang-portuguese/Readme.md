@@ -108,70 +108,72 @@
   </ol>
 </details>
 
-<details>
-  <summary><strong><a id="prereq">4 PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></strong></summary>
+<details open>
+  <summary><strong>4 PRE-REQUISITS FOR THE SYSTEM TO WORK </strong></summary>
   <ol>
-    <li><strong>Instalar as plataformas de desenvolvimento</strong>
+    <li><strong>Install developement plataforms</strong>
       <ol>
         <p>
-          <li>- [x] Instalar <a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank">miniconda3</a></li>
-          <li>- [x] Instalar <a href="https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html" target="_blank">jupyter notebook</a></li>
-          <li>- [x] Instalar <a href="https://code.visualstudio.com/download" target="_blank">visual studio code</a></li>
+          <li>- [x] Install <a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank">miniconda3</a></li>
+          <li>- [x] Install <a href="https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html" target="_blank">jupyter notebook</a></li>
+          <li>- [x] Install <a href="https://code.visualstudio.com/download" target="_blank">visual studio code</a></li>
         </p>
       </ol>
-      <p><b>Nota: </b><br>Analisar o item <em><a href="#itemtec">Tecnologias utilizadas neste projeto</a></em></p>
+      <p><b>Note: </b><br>Analyze the item
+       <em><a href="#itemtec">Technologies used in this project</a></em></p>
     </li>
-    <li><strong>Instalar as bibliotecas de algoritmos</strong>
+    <li><strong>Install the algorithm libraries :</strong>
       <ol>
-        <li>- [x] Atualizar o instalador pip - python package index :computer: python3 -m pip install --upgrade pip</li>
-        <li>- [x] Recomendo utilizar o prompt/terminal do anaconda e/ou miniconda para instalar as bibliotecas, por ser mais prático e apresentar menos inconsistências.</li>
-        <li>- [x] Sintaxe para instalar bibliotecas : pip3 install [nome_biblioteca] --user</li>
-        <li>- [x] Desbloquear sua webcam em seu anti-virus e/ou firewall</li>
+        <li>- [x] Update the pip python - python package index :computer: python3 -m pip install --upgrade pip</li>
+        <li>- [x] I recommend using either anaconda prompt/terminal and/or miniconda to install the libraries for convenience and for having fewer inconsistences. </li>
+        <li>- [x] Sintaxe for installing libraries : pip3 install [librarie_name] --user</li>
+        <li>- [x] Unblock your webcam in your anti-virus and/or firewall
+        </li>
       </ol>
     </li><br>
     <table>
       <thead>
         <tr>
-          <th>Biblioteca</th>
-          <th scope="col">Objetivo</th>
+          <th>Libraries</th>
+          <th scope="col">Objective</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <th scope="row">pandas</th>
-          <td>Estrutura de dados e ferramentas de análise de dados</td>
+          <td>Easy-to-use data structures and data analisys tools</td>
         </tr>
         <tr>
           <th scope="row">numpy</th>
-          <td>Algoritmos para cálculos matemáticos e computação científica</td>
+          <td>Algotithm for scientific and mathematical computing</td>
         </tr>
         <tr>
           <th>opencv-contrib-python</th>
-          <td>Algoritmos de visão computacional</td>
+          <td>Computer vision algorithm</td>
         </tr>
         <tr>
           <th>scikit-learn</th>
-          <td>Algoritmos para classificação, regressão, agrupamento, dimensionalidade, validações, melhorias na precisão de predições, reprocessamentos, normalizações</td>
+          <td>Algorithms for classification, regression, clustering, dimensionality, validations, prediction accuracy improvements, preprocessing, normalizations, etc</td>
         </tr>
         <tr>
           <th>scipy</th>
-          <td>Cálculos científicos com numpy</td>
+          <td>Scientific calculations with numpy</td>
         </tr>
         <tr>
           <th>keras</th>
-          <td>É uma interface de aplicação de programação desenvolvida para seres humanos, não para máquinas</td>
+          <td>Keras is an API designed for human beings, not machines.</td>
         </tr>
         <tr>
           <th>Pillow</th>
-          <td>Biblioteca com algoritmos para ler, escrever, criar, inserir, converter, cortar, redimensionar imagens</td>
+          <td>Libraries with algorithm to read, write, create, insert, convert, cut, resize images</td>
         </tr>
         <tr>
           <th>mtcnn</th>
-          <td>Algoritmos para reconhecimento facial -Face Recognition</td>
+          <td>Facial landmark localization algorithm</td>
         </tr>
         <tr>
           <th>tensorflow</th>
-          <td>Serviço flexível e de alto desempenho para machine learning, feito para ambientes de produção</td>
+          <td>Intuitive higher-level APIs, and flexible model building on any platform </td>
         </tr>
       </tbody>
     </table>
@@ -274,7 +276,7 @@
     <li><a href="https://www.techradar.com/news/what-is-a-neural-network">Techradar</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Artificial_neural_network">Wikpedia-Neural Network</a></li>
     <li><a href="https://scikit-learn.org/stable/">scikit-learn</a></li>
-    <li><a href="https://scikit-learn.org/stable/_downloads/scikit-learn-docs.pdf">LabelEncoder</a></li>
+    <li><a href="https://scikit-learn.org/stable/_downloads/scikit-learn-docs.pdf">scikit-learn LabelEncoder</a></li>
     <li><a href="http://scipy.github.io/devdocs/hacking.html">scipy</a></li>
     <li><a href="https://keras.io/">keras</a></li>
     <li><a href="https://pillow.readthedocs.io/en/stable/">Pillow</a></li>
