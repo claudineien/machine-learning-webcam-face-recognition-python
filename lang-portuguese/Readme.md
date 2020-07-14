@@ -23,7 +23,7 @@
   </ol>
 </details>
 
-<details open>
+<details>
   <summary><strong>2 MACHINE LEARNING + WEBCAM - THE CHOICE </strong></summary><br>
   <p align="center" ><img title="Diagrama Machine Learning at Face Recognition" src="img/machlearnfacerecogn.png" alt="Machine Learning at Face Recognition" width="607" height="311"></p>
   <ol>
@@ -46,7 +46,7 @@
         </ul>
       </p>
     </li>
-    <p><b>Fontes de Estudo :</b> <a href="https://www.edureka.co/">edureka</a>, <a href="https://medium.com">medium</a>, <a href="https://stackoverflow.com/">stack overflow</a>, <a href="https://towardsdatascience.com/">towards data science</a></p>
+    <p><b>Sources of research :</b> <a href="https://www.edureka.co/">edureka</a>, <a href="https://medium.com">medium</a>, <a href="https://stackoverflow.com/">stack overflow</a>, <a href="https://towardsdatascience.com/">towards data science</a></p>
   </ol>
 </details>
 
