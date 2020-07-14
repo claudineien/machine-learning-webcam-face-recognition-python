@@ -92,8 +92,8 @@
           <li>- [x] Aplicar Standartization</li>
           <li>- [x] Aplicar Normatization com Normalizer da sklearn</li>
           <li>- [x] Converter os dados categóricos em numéricos com o LabelEncoder</li>
-          <li>- [x] Executar treinamento de reconhecimento facial do algorítimo SVC da sklearn.svm</li>
-          <li>- [x] Utilizar o algoritmo de predição svm nos dados de treino e teste</li>
+          <li>- [x] Executar treinamento de reconhecimento facial com algoritmo SVC da sklearn.svm</li>
+          <li>- [x] Utilizar o algoritmo de predição sklearn.svm nos dados de treino e teste</li>
           <li>- [x] Aplicar o cáculo de acurácia/precisão do algorítimo accuracy_score da sklearn.metrics</li>
           <li>- [x] Calcular as coordenadas da face</li>
           <li>- [x] Utilizar o método de predição do modelo facenet_keras.h5 na imagem visualizada pela webcam</li>
