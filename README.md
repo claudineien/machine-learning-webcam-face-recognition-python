@@ -107,7 +107,7 @@
 </details>
 
 <details>
-  <summary><strong><a id="prereq">4 PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></strong></summary>
+  <summary><strong>4 PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</strong></summary>
   <ol>
     <li><strong>Instalar as plataformas de desenvolvimento</strong>
       <ol>
