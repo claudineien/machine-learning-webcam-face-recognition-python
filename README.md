@@ -149,7 +149,7 @@
         </tr>
         <tr>
           <th>scikit-learn</th>
-          <td>Algoritmos para classificação, regressão, agrupamento, dimensionalidade, validações, melhorias na precisão de predições, reprocessamentos, normalizações</td>
+          <td>Algoritmos para classificação, regressão, agrupamento, dimensionalidade, validações, melhorias na precisão de predições, preprocessamentos, normalizações, etc</td>
         </tr>
         <tr>
           <th>scipy</th>
