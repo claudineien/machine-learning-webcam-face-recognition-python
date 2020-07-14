@@ -1,6 +1,6 @@
 <h2 align="center"><strong>Machine Learning on facial recognition by webcam</strong></h2>
-<h4 align="left">Nivel Conhecimento : Estudante Iniciante &#x1F393;</h4>
-<h4 align="left">Objetivo : Demonstrar Machine Learning - Tempo Total de Leitura : 00:09:30 minutos</h4>
+<h4 align="left">Level of knowledge : Machine learning Apprentice &#x1F393;</h4>
+<h4 align="left">Goal : Demonstrate Machine Learning - Read Time : 00:09:30 minutes</h4>
 <details class="sbdocs sbdocs-details">
   <summary class="sbdocs sbdocs-summary"><strong>1 CONCEPTS IN A SIMPLE WAY</strong></summary>
   <ol>
@@ -28,9 +28,9 @@
   <p align="center" ><img title="Diagrama Machine Learning at Face Recognition" src="img/machlearnfacerecogn.png" alt="Machine Learning at Face Recognition" width="607" height="311"></p>
   <ol>
     <li><strong>Machine Learning as the back-end of the webcam</strong>
-      <p>Demonstrar o funcionamento de <b>machine learning</b> no reconhecimento facial através de uma webcam, para mim, é a forma mais fácil de explicar na prática a qualquer pessoa, que é possivel incluir uma inteligência em uma máquina com determinado poder computacional. Neste caso utilizei o conhecido Reconhecimento Facial em Tempo Real.</p>
+      <p>Demonstrating <b>machine learning</b> in facial recognition through a webcam, for me, is the easiest way to explain in pratice to anyone, that you can include intelligence in a machine with a certain amount of computing power. In this case I used the well-known Real-Time Facial Recognition.</p>
     </li>
-    <li><strong>As bibliotecas de algorítimos a seguir foram ensinadas no treinamento Data Science do Zero e demonstraram eficiência satisfatória, mesmo assim consultei diversas documentações, explicações e exemplos em sites voltados a data science para cumprir este desafio. Os algoritmos principais são :</strong>
+    <li><strong>The following algorithm libraries were taugh in the Data Science do Zero training and produced an efficient result, even after these results I consulted various documentation, explanations and examples on data science sites to make this challenge. Core algotitms are :</strong>
       <p>
         <ul>
           <li>OpenCV</li>
