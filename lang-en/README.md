@@ -193,7 +193,7 @@
 </details>
 
 <details>
-  <summary><strong>6 PROCEDIMENTOS DE COMO UTILIZAR O SISTEMA</strong></summary>
+  <summary><strong>6 PROCEDURES FOR USING THE SYSTEM</strong></summary>
   <table>
     <thead>
       <tr>
@@ -288,7 +288,7 @@
 </details>
 
 <details>
-  <summary><strong>8 AGRADECIMENTOS</strong></summary>
+  <summary><strong>8 GRATEFUL</strong></summary>
   <p>*Ser agradecido para mim é a atitude que torna as pessoas seres melhores*</p>
   <p>Agradeço a mulher mais importante da minha vida, a minha mãe sra Rosalita Borges Evangelista por ter sido uma lutadora incansável, lutando por mim, para mim e junto a mim e também de meus irmãos. Minha mãe é o motivo deu me tornar ser humano honrado.</p>
   <p>Agradeço aos meus dois irmãos que me ajudaram nos momentos em que mais precisei</p>
