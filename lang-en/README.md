@@ -1,4 +1,3 @@
-
 <h2 align="center"><strong>Machine Learning on facial recognition by webcam</strong></h2>
 <h5 align="left">Target audience: Machine Learning Apprentice &#x1F393; - Objective: Demonstrate Machine Learning - Read Time: 00:09:30 mins - Language: 
 <a href="https://github.com/claudineien/machine-learning-webcam-face-recognition-python">Portuguese</a>󠁧󠁢󠁥󠁮󠁧󠁿</h5>
@@ -181,16 +180,16 @@
   </ol>
 </details>
 
-<details>
+<details open>
   <summary><strong>5 SYSTEM INSTALLATION GUIDE</strong></summary>
   <ol>
-    <li>Cumprir o item <a href="#prereq">4 PRE-REQUISITS FOR THE SYSTEM TO WORK</a></li>
-    <li>Baixar o notebook <a href="files/facenet-keras-mtcnn-labelencoder.ipynb">facenet-keras-mtcnn-labelencoder.ipynb</a></li>
-    <li>Baixar os arquivos facenet_keras.part1.rar a facenet_keras.part4.rar. Nestes há o arquivo modelo treinado facenet_keras.h5</li>
-    <p><b>Nota :</b> Consultar documentação <a href="files/readme.md">DESCOMPACTAR O CONTEÚDO DOS ARQUIVOS EXTENSÃO .rar - WINRAR</a>
-    <li>Baixar o arquivo dataset.rar. Neste há imagens diversas para utilizar em seus treinos e testes</li>
+    <li>First run <a href="#prereq">4 PRE-REQUISITS FOR THE SYSTEM TO WORK</a></li>
+    <li>Download notebook <a href="files/facenet-keras-mtcnn-labelencoder.ipynb">facenet-keras-mtcnn-labelencoder.ipynb</a></li>
+    <li>Download facenet_keras.part1, part2, part3 and part4.rar files. In these there is the facenet_keras.h5 trained model</li>
+    <p><b>Note :</b> Check documentation <a href="files/readme.md">UNZIP THE CONTENT OF THE EXTENSION .rar - WINRAR</a>
+    <li>Download dataset.rar file. There are several images to use for your training and tests</li>
   </ol>
-  <p><b>Importante :</b> Disponibilizei os arquivos .py caso queira testar com vscode, pycharm, spyder ou em outros IDEs</p>
+  <p><b>Important :</b> I made the .py files available in case you want to tes with vscode, pycharm, spyder or others IDEs</p>
 </details>
 
 <details>
