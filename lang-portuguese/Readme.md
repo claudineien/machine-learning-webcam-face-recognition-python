@@ -108,7 +108,7 @@
   </ol>
 </details>
 
-<details open>
+<details>
   <summary><strong>4 PRE-REQUISITS FOR THE SYSTEM TO WORK </strong></summary>
   <ol>
     <li><strong>Install developement plataforms</strong>
