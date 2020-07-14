@@ -1,34 +1,33 @@
-
 <h2 align="center"><strong>Machine Learning no reconhecimento facial através da webcam</strong></h2>
 <h4 align="left">Nivel Conhecimento : Estudante Iniciante &#x1F393;</h4>
 <h4 align="left">Objetivo : Demonstrar Machine Learning - Tempo Total de Leitura : 00:09:30 minutos</h4>
 <details class="sbdocs sbdocs-details">
-  <summary class="sbdocs sbdocs-summary"><strong>1 CONCEITOS DE FORMA SIMPLES</strong></summary>
+  <summary class="sbdocs sbdocs-summary"><strong>1 CONCEPTS IN A SIMPLE WAY</strong></summary>
   <ol>
-    <li><strong>Reconhecimento Facial</strong>
-      <p>É a técnica de capturar/pegar em uma imagem a parte frontal do rosto/face que envolve parte da cabeça, testa, olhos, nariz, maças do rosto, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, comparar similaridades e exibir o alvo desejado.</p>
-      <p>A imagem considerada pode ser uma foto, vídeo ou câmera.</p>
-      <p>O alvo desejado é o ser humano que será identificado.</p>
+    <li><strong>Facial Recognition</strong>
+      <p>It's the technique of capturing the front of the face in an image that involves part of the head, forhead, eyes, nose, cheek, mouth, jam, chin, analyzing the distance of between each of these parts, comparing them with other images, identifying differences, comparing similarities and displaying the desired target.</p>
+      <p>The considered image can be in a picture, video or camera.</p>
+      <p>The desired target is the human being that will be identified.</p>
     </li>
     <li><strong>Machine Learning</strong>
-      <p><b>Machine Learning é o objeto de estudo</b> neste projeto. É a técnica computacional de ensinar uma máquina com determinado poder computacional a analisar um conjunto de dados e predizer informações para auxiliar nas decisões.</p>
-      <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa -da mais simples a mais complexa.</p>
+      <p><b>Machine Learning is the object of the study</b> in this project. It's the computational technique of teaching a machine whith a determined computing power to analyze a set of data and predict information to assist in decisions.</p>
+      <p>This technique can be used to try to solve any task -from the simplest to the most complex.</p>
     </li>
     <li><strong>Deep Learning</strong>
-      <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem para auxiliar a identificar quem a imagem pertence.</p>
+      <p>It's the computational technique that analyzes  certain image characteristics in detail to help identify the owner of the image.</p>
     </li>
     <li><strong>Neural Network</strong>
-      <p>É um algoritmo computacional que aprende com novos dados inseridos, simulando o cérebro humano.</p>
-      <p>Exemplo: Programar um computador para aprender todos os detalhes de forma e formato de um determinado rosto, ao inserimos outros rostos ele automaticamente armazenara as suas formas e formatos e a partir dai conseguiremos extrair a quem pertence determinado rosto</p>
+      <p>It's the computational algorithm that learns from the new datas inserted, simulating the human brain.</p>
+      <p>Example: We programmed a computer to learn all the details of the shapes and formats of a certain face, when inserting other faces it will automatically store its shapes and formats and from this datas the algorithm identifies who belongs to a a certain face</p>
     </li>
   </ol>
 </details>
 
-<details>
-  <summary><strong>2 MACHINE LEARNING + WEBCAM - A ESCOLHA </strong></summary><br>
+<details open>
+  <summary><strong>2 MACHINE LEARNING + WEBCAM - THE CHOICE </strong></summary><br>
   <p align="center" ><img title="Diagrama Machine Learning at Face Recognition" src="img/machlearnfacerecogn.png" alt="Machine Learning at Face Recognition" width="607" height="311"></p>
   <ol>
-    <li><strong>Machine Learning como back-end de webcam</strong>
+    <li><strong>Machine Learning as the back-end of the webcam</strong>
       <p>Demonstrar o funcionamento de <b>machine learning</b> no reconhecimento facial através de uma webcam, para mim, é a forma mais fácil de explicar na prática a qualquer pessoa, que é possivel incluir uma inteligência em uma máquina com determinado poder computacional. Neste caso utilizei o conhecido Reconhecimento Facial em Tempo Real.</p>
     </li>
     <li><strong>As bibliotecas de algorítimos a seguir foram ensinadas no treinamento Data Science do Zero e demonstraram eficiência satisfatória, mesmo assim consultei diversas documentações, explicações e exemplos em sites voltados a data science para cumprir este desafio. Os algoritmos principais são :</strong>
