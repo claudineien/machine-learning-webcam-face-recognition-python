@@ -177,7 +177,7 @@
 </details>
 
 <details>
-  <summary><strong>5 INSTALAÇÃO DO SISTEMA</strong></summary>
+  <summary><strong>5 GUIA DE INSTALAÇÃO DO SISTEMA</strong></summary>
   <ol>
     <li>Cumprir o item <a href="#prereq">4 PRE-REQUISITOS PARA FUNCIONAMENTO DO SISTEMA</a></li>
     <li>Baixar o notebook <a href="files/facenet-keras-mtcnn-labelencoder.ipynb">facenet-keras-mtcnn-labelencoder.ipynb</a></li>
