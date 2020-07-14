@@ -266,7 +266,7 @@
   <summary><strong>7 FONTES DE ESTUDO</strong></summary> 
   <ul>
     <li><a href="https://minerandodados.com.br/">Minerando Dados</a></li>
-    <li><a href="https://opencv.org/">Site OpenCV</a></li>
+    <li><a href="https://opencv.org/">OpenCV Org</a></li>
     <li><a href="https://github.com/opencv/opencv/">OpenCV no github</a></li>
     <li><a href="https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf">Partnershiponai.org</a></li>
     <li><a href="https://www.techradar.com/news/what-is-a-neural-network">Techradar</a></li>
