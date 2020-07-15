@@ -291,10 +291,11 @@
 
 <details>
   <summary><strong>8 GRATEFUL</strong></summary>
-  <p>*Ser agradecido para mim é a atitude que torna as pessoas seres melhores*</p>
-  <p>Agradeço a mulher mais importante da minha vida, a minha mãe sra Rosalita Borges Evangelista por ter sido uma lutadora incansável, lutando por mim, para mim e junto a mim e também de meus irmãos. Minha mãe é o motivo deu me tornar ser humano honrado.</p>
-  <p>Agradeço aos meus dois irmãos que me ajudaram nos momentos em que mais precisei</p>
-  <p>Agradeço à minha esposa e às minhas filhas por serem minha razão, emoção e inspiração e por me apoiar em todos os momentos</p>
+  <p>*To be gratful, to me, is the attitude that makes people better*</p>
+  <p>I thank the most important woman in my life, my mother mrs Rosalita Borges Evangelista for having being a tireless fighter, fighting for me, for me, and with me and also with my brothers. My mother is the reason why I become an honorable human being.
+  </p>
+  <p>I thank to the my two brothers who helped me in the time I needed most.</p>
+  <p>I thank to my wife and my two daughters for being my reason, emotion and inspiration and for supporting me at all moments.</p>
   <p>Agradeço aos criadores do computador, da internet, das linguagens de programação computacional, inteligência artificial e tecnologias em geral</p>
   <p>Agradeço a equipe Minerando Dados que criou o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science, parq encurtar meu aprendizado e por este desafio proposto que acabei de concluir</p><br><br>
   <p>Muito obrigado a todos :wink:</p><br>
