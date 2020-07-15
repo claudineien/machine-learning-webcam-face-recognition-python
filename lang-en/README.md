@@ -233,17 +233,17 @@
                 menu.menu_inicial()
             </pre>
           </li>
-          <li>Para gravar sua imagem no conjunto de dados, digitar 1 no campo seguido de >> :<br>
-            <img title="Opções para funcionamento do sistema" src="img/06main_menu.png" alt="TelaPrincipal" width="521" height="206">
+          <li>To save your image into data set, type 1 in the field followed by >> :<br>
+            <img title="Options to system operate" src="img/06main_menu.png" alt="MainManu" width="521" height="206">
             <ol>
-              <li>No campo 'Número Matrícula -> ', digitar o número da matricula<br>
-                <img title="Número Matrícula" src="img/07main_menu.png" alt="Numero_Matricula" width="528" height="150">
+              <li>In the field 'Numero Matricula ->', enter the registration number<br>
+                <img title="Register Number" src="img/07main_menu.png" alt="Register_Number" width="528" height="150">
               </li>
-              <li>No campo 'Nome Completo -> ', digitar o primeiro nome de quem esta sendo filmado<br>
-                <img title="Nome Completo" src="img/08main_menu.png" alt="Nome_Completo" width="517" height="164">
+              <li>In the field 'Nome Completo -> ', enter the first cadidate name being filmed<br>
+                <img title="Complete name" src="img/08main_menu.png" alt="Complete_Name" width="517" height="164">
               </li>
-              <li>O sistema se conectará em sua webcam, para lhe filmar. A luz de sua webcam ligará e uma janela com sua imagem será habilitada em em barra de taferas<br>
-                <img title="Janela Webcam" src="img/09webcamimg.png" alt="Webcam_Img" width="446" height="348">
+              <li>The system will connect to your webcam to film you. Your webcam light will turn on and one window with you image will be enable on your tasks bar<br>
+                <img title="Webcam window" src="img/09webcamimg.png" alt="Image_Webcam" width="446" height="348">
               </li>
             </ol>
             <p><b>Nota : </b> Na parte superior desta janela há informação para pressionar ENTER para gravar ou ESC para Finalizar</p>
