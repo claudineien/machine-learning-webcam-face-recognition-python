@@ -236,7 +236,7 @@
               <li>No campo 'Nome Completo -> ', digitar o primeiro nome de quem esta sendo filmado<br>
                 <img title="Nome Completo" src="img/08main_menu.png" alt="Nome_Completo" width="517" height="164">
               </li>
-              <li>O sistema se conectará em sua webcam, para lhe filmar. A luz de sua webcam ligará e uma janela com sua imagem será habilitada em em barra de taferas<br>
+              <li>O sistema se conectará em sua webcam, para lhe filmar. A luz de sua webcam ligará e uma janela com sua imagem será habilitada em sua barra de taferas<br>
                 <img title="Janela Webcam" src="img/09webcamimg.png" alt="Webcam_Img" width="446" height="348">
               </li>
             </ol>
