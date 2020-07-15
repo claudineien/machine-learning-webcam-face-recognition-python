@@ -296,7 +296,7 @@
   </p>
   <p>I thank to the my two brothers who helped me in the time I needed most.</p>
   <p>I thank to my wife and my two daughters for being my reason, emotion and inspiration and for supporting me at all moments.</p>
-  <p>Agradeço aos criadores do computador, da internet, das linguagens de programação computacional, inteligência artificial e tecnologias em geral</p>
-  <p>Agradeço a equipe Minerando Dados que criou o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science, parq encurtar meu aprendizado e por este desafio proposto que acabei de concluir</p><br><br>
-  <p>Muito obrigado a todos :wink:</p><br>
-  <p>Desejo muito sucesso a todos !</p>
+  <p>I thank to the creators of : computer, internet, computer programming languages, artificial intelligence and technologies in general</p>
+  <p>I thank to Minerando Dados team for creating a Data Science do Zero space, providing several teachings in machine learning, statístics, deep learning and data science, to speed up my learning and for this propose challenge that I just concluded.</p><br><br>
+  <p>Thank you all :wink:</p><br>
+  <p>I wish you all great success !</p>
