@@ -25,7 +25,7 @@
 
 <details>
   <summary><strong>2 MACHINE LEARNING + WEBCAM - THE CHOICE </strong></summary><br>
-  <p align="center" ><img title="Diagrama Machine Learning at Face Recognition" src="img/machlearnfacerecogn.png" alt="Machine Learning at Face Recognition" width="607" height="311"></p>
+  <p align="center" ><img title="Diagrama Machine Learning at Face Recognition" src="../img/machlearnfacerecogn.png" alt="Machine Learning at Face Recognition" width="607" height="311"></p>
   <ol>
     <li><strong>Machine Learning as the back-end of the webcam</strong>
       <p>Demonstrating <b>machine learning</b> in facial recognition through a webcam, for me, is the easiest way to explain in pratice to anyone, that you can include intelligence in a machine with a certain amount of computing power. In this case I used the well-known Real-Time Facial Recognition.</p>
@@ -69,7 +69,7 @@
         </p>
       </ol>
     </li>
-    <li><strong>Computer vision algorithms <a href="https://opencv.org/" target="_blank"><img title="OpenCV" src="img/opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> to </strong>
+    <li><strong>Computer vision algorithms <a href="https://opencv.org/" target="_blank"><img title="OpenCV" src="../img/opencv-logo-white-mini.jpg" alt="OpenCV" width="28" height="28"></a> to </strong>
       <ol>
         <p>
         <li>- [x] Access the local computer/notebook webcam </li>
@@ -186,13 +186,13 @@
     <li>First run <a href="#prereq">4 PRE-REQUISITS FOR THE SYSTEM TO WORK</a></li>
     <li>Download notebook <a href="files/facenet-keras-mtcnn-labelencoder.ipynb">facenet-keras-mtcnn-labelencoder.ipynb</a></li>
     <li>Download facenet_keras.part1, part2, part3 and part4.rar files. In these there is the facenet_keras.h5 trained model</li>
-    <p><b>Note :</b> Check documentation <a href="files/readme.md">UNZIP THE CONTENT OF THE EXTENSION .rar - WINRAR</a>
+    <p><b>Note :</b> Check documentation <a href="../files/readme.md">UNZIP THE CONTENT OF THE EXTENSION .rar - WINRAR</a>
     <li>Download dataset.rar file. There are several images to use for your training and tests</li>
   </ol>
   <p><b>Important :</b> I made the .py files available in case you want to tes with vscode, pycharm, spyder or others IDEs</p>
 </details>
 
-<details>
+<details open>
   <summary><strong>6 PROCEDURES FOR USING THE SYSTEM</strong></summary>
   <table>
     <thead>
@@ -234,23 +234,23 @@
             </pre>
           </li>
           <li>To save your image into data set, type 1 in the field followed by >> :<br>
-            <img title="Options to system operate" src="img/06main_menu.png" alt="MainManu" width="521" height="206">
+            <img title="Options to system operate" src="../img/06main_menu.png" alt="MainManu" width="521" height="206">
             <ol>
               <li>In the field 'Numero Matricula ->', enter the registration number<br>
-                <img title="Register Number" src="img/07main_menu.png" alt="Register_Number" width="528" height="150">
+                <img title="Register Number" src="../img/07main_menu.png" alt="Register_Number" width="528" height="150">
               </li>
               <li>In the field 'Nome Completo -> ', enter the first cadidate name being filmed<br>
-                <img title="Complete name" src="img/08main_menu.png" alt="Complete_Name" width="517" height="164">
+                <img title="Complete name" src="../img/08main_menu.png" alt="Complete_Name" width="517" height="164">
               </li>
               <li>The system will connect to your webcam to film you. Your webcam light will turn on and one window with you image will be enable on your tasks bar<br>
-                <img title="Webcam window" src="img/09webcamimg.png" alt="Image_Webcam" width="446" height="348">
+                <img title="Webcam window" src="../img/09webcamimg.png" alt="Image_Webcam" width="446" height="348">
               </li>
             </ol>
             <p><b>Note : </b> At the top of the webcam there is information to press Enter to record or press ESC to close/terminate</p>
             <p><b>Important : </b> Press Enter to exit, if you want to run on of the other tasks</p>
           </li>
           <li>To train the algorithm with a new image, type 2. The system will display an image similar to the following:<br>
-            <img title="Train Algorithm" src="img/10trainalgor.png" alt="TrainAlgor" width="433" height="545">
+            <img title="Train Algorithm" src="../img/10trainalgor.png" alt="TrainAlgor" width="433" height="545">
             <p><b>Note : </b>The program<br>
               1. Will create faces_dataset_embeddings.npz and SVM_classifier.sav files into the facerecognition directory<br>
               2. Will create the faces_dataset.npz file into dataset directory<br>
@@ -258,10 +258,10 @@
             </p>
           </li>
           <li>To identify the person through the webcam type 3. The program will activate the webcam and will start the face recognition. It will display the follow similar window :<br>
-            <img title="Webcam Window" src="img/11webcamimg.png" alt="Webcam_Window_Img" width="446" height="348">
+            <img title="Webcam Window" src="../img/11webcamimg.png" alt="Webcam_Window_Img" width="446" height="348">
           </li>
           <li>To finish the program, enter 0. A window similar to the following should appear:<br>
-            <img title="Finish Program" src="img/15final.png" alt="FinishProgram" width="439" height="218">
+            <img title="Finish Program" src="../img/15final.png" alt="FinishProgram" width="439" height="218">
           </li>
       </tr>
     </thead>
