@@ -254,7 +254,7 @@
           <li>Para identificar a pessoa através da webcam digitar 3. O sistema ativará a webcam e iniciará o reconhecimento da face. Exibirá janela similar a seguinte :<br>
             <img title="Janela Webcam" src="img/11webcamimg.png" alt="Webcam_Img" width="446" height="348">
           </li>
-          <li>Para finalizar o sistema, digite 0 (zero). Uma janela similar a seguinte deverá aparece :<br>
+          <li>Para finalizar o sistema, digite 0 (zero). Uma janela similar a seguinte deverá aparecer :<br>
             <img title="Finalziar Sistema" src="img/15final.png" alt="FinalSistem" width="439" height="218">
           </li>
       </tr>
