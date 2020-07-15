@@ -192,13 +192,13 @@
   <p><b>Important :</b> I made the .py files available in case you want to tes with vscode, pycharm, spyder or others IDEs</p>
 </details>
 
-<details>
+<details open>
   <summary><strong>6 PROCEDURES FOR USING THE SYSTEM</strong></summary>
   <table>
     <thead>
       <tr>
         <ol>
-          <li>Create directory structure to store the files available in this repository. Following is a structure model as a guideline :
+          <li>Create a directory structure to store the files available in this repository. Following is a structure model as a guideline :
             <figure role="img" aria-labelledby="direc_struc">
               <pre>
               c:/temp/facenet/ : put here the content of the dataset.rar file. This file is in file folder
@@ -246,11 +246,11 @@
                 <img title="Webcam window" src="img/09webcamimg.png" alt="Image_Webcam" width="446" height="348">
               </li>
             </ol>
-            <p><b>Nota : </b> Na parte superior desta janela há informação para pressionar ENTER para gravar ou ESC para Finalizar</p>
-            <p><b>Importante : </b> Pressione ESC para sair, caso queira executar uma das outras tarefas</p>
+            <p><b>Note : </b> At the top of the webcam there is information to press Enter to record or press ESC to close/terminate</p>
+            <p><b>Important : </b> Press Enter to exit, if you want to run on of the other tasks</p>
           </li>
-          <li>Para treinar o algoritmo com a nova imagem, digitar 2. O sistema exibirá uma imagem similar a seguinte :<br>
-            <img title="Treinar Algoritmo" src="img/10trainalgor.png" alt="TrainAlgor" width="433" height="545">
+          <li>To train the algorithm with a new image, type 2. The system will display an image similar to the following:<br>
+            <img title="Train Algorithm" src="img/10trainalgor.png" alt="TrainAlgor" width="433" height="545">
             <p><b>Note : </b>O sistema<br>
               1. criara os arquivos faces_dataset_embeddings.npz e SVM_classifier.sav no diretório facerecognition<br>
               2. criara o arquivo faces_dataset.npz no diretório dataset<br>
