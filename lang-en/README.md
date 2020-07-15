@@ -192,7 +192,7 @@
   <p><b>Important :</b> I made the .py files available in case you want to tes with vscode, pycharm, spyder or others IDEs</p>
 </details>
 
-<details>
+<details open>
   <summary><strong>6 PROCEDURES FOR USING THE SYSTEM</strong></summary>
   <table>
     <thead>
@@ -251,17 +251,17 @@
           </li>
           <li>To train the algorithm with a new image, type 2. The system will display an image similar to the following:<br>
             <img title="Train Algorithm" src="img/10trainalgor.png" alt="TrainAlgor" width="433" height="545">
-            <p><b>Note : </b>O sistema<br>
-              1. criara os arquivos faces_dataset_embeddings.npz e SVM_classifier.sav no diretório facerecognition<br>
-              2. criara o arquivo faces_dataset.npz no diretório dataset<br>
+            <p><b>Note : </b>The program<br>
+              1. Will create faces_dataset_embeddings.npz and SVM_classifier.sav files into the facerecognition directory<br>
+              2. Will create the faces_dataset.npz file into dataset directory<br>
               3. finalizara e retorna ao menu principal
             </p>
           </li>
-          <li>Para identificar a pessoa através da webcam digitar 3. O sistema ativará a webcam e iniciará o reconhecimento da face. Exibirá janela similar a seguinte :<br>
-            <img title="Janela Webcam" src="img/11webcamimg.png" alt="Webcam_Img" width="446" height="348">
+          <li>To identify the person through the webcam type 3. The program will activate the webcam and will start the face recognition. It will display the follow similar window :<br>
+            <img title="Webcam Window" src="img/11webcamimg.png" alt="Webcam_Window_Img" width="446" height="348">
           </li>
-          <li>Para finalizar o sistema, digite 0 (zero). Uma janela similar a seguinte deverá aparece :<br>
-            <img title="Finalziar Sistema" src="img/15final.png" alt="FinalSistem" width="439" height="218">
+          <li>To finish the program, enter 0. A window similar to the following should appear:<br>
+            <img title="Finish Program" src="img/15final.png" alt="FinishProgram" width="439" height="218">
           </li>
       </tr>
     </thead>
