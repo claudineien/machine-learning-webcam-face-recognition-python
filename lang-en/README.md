@@ -192,7 +192,7 @@
   <p><b>Important :</b> I made the .py files available in case you want to tes with vscode, pycharm, spyder or others IDEs</p>
 </details>
 
-<details open>
+<details>
   <summary><strong>6 PROCEDURES FOR USING THE SYSTEM</strong></summary>
   <table>
     <thead>
@@ -289,7 +289,7 @@
   </ul>
 </details>
 
-<details open>
+<details>
   <summary><strong>8 GRATEFUL</strong></summary>
   <p>*To be gratful, to me, is the attitude that makes people better*</p>
   <p>I thank the most important woman in my life, my mother mrs Rosalita Borges Evangelista for having being a tireless fighter, fighting for me, for me, and with me and also with my brothers. My mother is the reason why I become an honorable human being.
