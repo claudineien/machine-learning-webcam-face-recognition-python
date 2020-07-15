@@ -286,9 +286,9 @@
 <details>
   <summary><strong>8 AGRADECIMENTOS</strong></summary>
   <p>*Ser agradecido para mim é a atitude que torna as pessoas seres melhores*</p>
-  <p>Agradeço a mulher mais importante da minha vida, a minha mãe sra Rosalita Borges Evangelista por ter sido uma lutadora incansável, lutando por mim, para mim e comigo e também com irmãos. Minha mãe é o motivo de eu me tornar ser humano honrado.</p>
+  <p>Agradeço a mulher mais importante da minha vida, a minha mãe sra Rosalita Borges Evangelista por ter sido uma lutadora incansável, lutando por mim, para mim e comigo e também com meus irmãos. Minha mãe é o motivo de eu me tornar um ser humano honrado.</p>
   <p>Agradeço aos meus dois irmãos que me ajudaram nos momentos em que mais precisei</p>
-  <p>Agradeço à minha esposa e às minhas filhas por serem minha razão, emoção e inspiração e por me apoiar em todos os momentos</p>
+  <p>Agradeço à minha esposa e às minhas duas filhas por serem minha razão, emoção e inspiração e por me apoiar em todos os momentos</p>
   <p>Agradeço aos criadores do computador, da internet, das linguagens de programação computacional, inteligência artificial e tecnologias em geral</p>
   <p>Agradeço a equipe Minerando Dados que criou o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science, parq encurtar meu aprendizado e por este desafio proposto que acabei de concluir</p><br><br>
   <p>Muito obrigado a todos :wink:</p><br>
