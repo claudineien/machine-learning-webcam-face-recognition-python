@@ -289,7 +289,7 @@
   </ul>
 </details>
 
-<details>
+<details open>
   <summary><strong>8 GRATEFUL</strong></summary>
   <p>*To be gratful, to me, is the attitude that makes people better*</p>
   <p>I thank the most important woman in my life, my mother mrs Rosalita Borges Evangelista for having being a tireless fighter, fighting for me, for me, and with me and also with my brothers. My mother is the reason why I become an honorable human being.
