@@ -23,7 +23,7 @@
   </ol>
 </details>
 
-<details open>
+<details>
   <summary><strong>2 MACHINE LEARNING + WEBCAM - THE CHOICE </strong></summary><br>
   <p align="center" ><img title="Diagrama Machine Learning at Face Recognition" src="../img/machlearnfacerecogn-en.png" alt="Machine Learning at Face Recognition" width="607" height="311"></p>
   <ol>
