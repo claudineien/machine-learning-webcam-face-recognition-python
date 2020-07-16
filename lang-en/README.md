@@ -23,9 +23,9 @@
   </ol>
 </details>
 
-<details>
+<details open>
   <summary><strong>2 MACHINE LEARNING + WEBCAM - THE CHOICE </strong></summary><br>
-  <p align="center" ><img title="Diagrama Machine Learning at Face Recognition" src="../img/machlearnfacerecogn.png" alt="Machine Learning at Face Recognition" width="607" height="311"></p>
+  <p align="center" ><img title="Diagrama Machine Learning at Face Recognition" src="../img/machlearnfacerecogn-en.png" alt="Machine Learning at Face Recognition" width="607" height="311"></p>
   <ol>
     <li><strong>Machine Learning as the back-end of the webcam</strong>
       <p>Demonstrating <b>machine learning</b> in facial recognition through a webcam, for me, is the easiest way to explain in pratice to anyone, that you can include intelligence in a machine with a certain amount of computing power. In this case I used the well-known Real-Time Facial Recognition.</p>
