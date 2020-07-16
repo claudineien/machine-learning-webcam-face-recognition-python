@@ -5,7 +5,7 @@
   <summary class="sbdocs sbdocs-summary"><strong>1 CONCEPTS IN A SIMPLE WAY</strong></summary>
   <ol>
     <li><strong>Facial Recognition</strong>
-      <p>It's the technique of capturing the front of the face in an image that involves part of the head, forhead, eyes, nose, cheek, mouth, jam, chin, analyzing the distance of between each of these parts, comparing them with other images, identifying differences, comparing similarities and displaying the desired target.</p>
+      <p>It's the technique of capturing the front of the face in an image that involves part of the head, forhead, eyes, nose, cheek, mouth, jaw, chin, analyzing the distance of between each of these parts, comparing them with other images, identifying differences, comparing similarities and displaying the desired target.</p>
       <p>The considered image can be in a picture, video or camera.</p>
       <p>The desired target is the human being that will be identified.</p>
     </li>
