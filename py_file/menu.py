@@ -35,32 +35,38 @@ class MainMenu:
         os.system('cls')
         print("Gravando...")
         print("Digitar Dados Do Participante")
-        self.file_path += "register.py"
+        pathreg = self.file_path+"register.py"
         try:
-            self.file_path
-            subprocess.call(["python",self.file_path])
+            pathreg
+            subprocess.call(["python",pathreg])
         except ValueError:
-            print("Arquivo "+self.file_path+" Nao Encontrado. Retornando ao menu principal")
+            print("Arquivo "+pathreg+" Nao Encontrado. Retornando ao menu principal")
         
         os.system('cls')
         self.homemenu()
         return
 
     def analyze(self):
+        os.system('cls')
         print("Analisando Imagem ...")
+        pathanlyz =  self.file_path+"analyzer.py"
         try:
-            self.file_path
-            subprocess.call(["python",self.file_path])
+            pathanlyz
+            subprocess.call(["python",pathanlyz])
         except ValueError:
-            print("Arquivo "+self.file_path+" Nao Encontrado. Retornando ao menu principal")
+            print("Arquivo "+pathanlyz+" Nao Encontrado. Retornando ao menu principal")
         os.system('cls')
         self.homemenu()
         return
 
     def identifyimg(self):
         print("Identificando Imagem ...")
-        #identificar = FaceDetector()
-        #identificar.face_detector()
+        pathident =  self.file_path+"identifier.py"
+        try:
+            pathident
+            subprocess.call(["python",pathident])
+        except ValueError:
+            print("Arquivo "+pathident+" Nao Encontrado. Retornando ao menu principal")
         os.system('cls')
         self.homemenu()
         return
