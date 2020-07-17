@@ -3,12 +3,12 @@
 <details open class="sbdocs sbdocs-details">
   <summary class="sbdocs sbdocs-summary"><strong>1 SOBRE OS ARQUIVOS</strong></summary>
   <ol>
-    <li><strong>Reconhecimento Facial</strong>
+    <li><strong>menu.py</strong>
       <p>É a técnica de capturar/pegar em uma imagem a parte frontal do rosto/face que envolve parte da cabeça, testa, olhos, nariz, maças do rosto, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, comparar similaridades e exibir o alvo desejado.</p>
       <p>A imagem considerada pode ser uma foto, vídeo ou câmera.</p>
       <p>O alvo desejado é o ser humano que será identificado.</p>
     </li>
-    <li><strong>Machine Learning</strong>
+    <li><strong>register</strong>
       <p><b>Machine Learning é o objeto de estudo</b> neste projeto. É a técnica computacional de ensinar uma máquina com determinado poder computacional a analisar um conjunto de dados e predizer informações para auxiliar nas decisões.</p>
       <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa -da mais simples a mais complexa.</p>
     </li>
