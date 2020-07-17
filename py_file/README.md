@@ -22,7 +22,7 @@
   </ol>
 </details><br>
 
-<h2 align="center"><strong><a id="lang-en">Machine Learning no reconhecimento facial através da webcam</a></strong></h2>
+<h2 align="center"><strong><a id="lang-en">Machine Learning on facial recognition by webcam</a></strong></h2>
 <h5 align="left">Público alvo: Estudante de Machine Learning &#x1F393; - Objetivo: Demonstrar Machine Learning - Tempo leitura: 00:02:30 mins - Idioma : <a href="#lang-ptbr">[Pt-Br]</a>󠁧󠁢󠁥󠁮󠁧󠁿</h5>
 <details open class="sbdocs sbdocs-details">
   <summary class="sbdocs sbdocs-summary"><strong>1 SOBRE OS ARQUIVOS</strong></summary>
