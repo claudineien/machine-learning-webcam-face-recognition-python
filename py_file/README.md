@@ -11,8 +11,8 @@
       <p>0 Sair Do Sistema : finalizará o programa</p>
     </li>
     <li><strong>register.py</strong>
-      <p><b>Machine Learning é o objeto de estudo</b> neste projeto. É a técnica computacional de ensinar uma máquina com determinado poder computacional a analisar um conjunto de dados e predizer informações para auxiliar nas decisões.</p>
-      <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa -da mais simples a mais complexa.</p>
+      <p>Este arquivo ativará sua webcam e permitirá gravar sua imagem ao pressionar Enter ou fechar a janela ao pressionar Esc.</p>
+      <p>Esta versão permite gravar apenas uma imagem a cada acesso. Para gravar outra imagem é necessário teclar Esc e digitar a opção 1 novamente.</p>
     </li>
     <li><strong>analyzer.py</strong>
       <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem para auxiliar a identificar quem a imagem pertence.</p>
