@@ -8,7 +8,7 @@
       <p>A imagem considerada pode ser uma foto, vídeo ou câmera.</p>
       <p>O alvo desejado é o ser humano que será identificado.</p>
     </li>
-    <li><strong>register</strong>
+    <li><strong>register.py</strong>
       <p><b>Machine Learning é o objeto de estudo</b> neste projeto. É a técnica computacional de ensinar uma máquina com determinado poder computacional a analisar um conjunto de dados e predizer informações para auxiliar nas decisões.</p>
       <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa -da mais simples a mais complexa.</p>
     </li>
