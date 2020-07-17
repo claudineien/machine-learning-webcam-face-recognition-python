@@ -4,9 +4,11 @@
   <summary class="sbdocs sbdocs-summary"><strong>1 SOBRE OS ARQUIVOS</strong></summary>
   <ol>
     <li><strong>menu.py</strong>
-      <p>É a técnica de capturar/pegar em uma imagem a parte frontal do rosto/face que envolve parte da cabeça, testa, olhos, nariz, maças do rosto, bochechas, boca, maxilar, queixo, analisar a distância entre cada uma destas partes, comparar com outras imagens, identificar diferenças, comparar similaridades e exibir o alvo desejado.</p>
-      <p>A imagem considerada pode ser uma foto, vídeo ou câmera.</p>
-      <p>O alvo desejado é o ser humano que será identificado.</p>
+      <p>Este arquivo exibirá 4 opçoes que podem ser executadas pelo programa, sendo : </p>
+      <p>1 Gravar Imagem : chamará a arquivo register.py</p>
+      <p>2 Analisar Imagem : chamará o arquivo analyzer.py</p>
+      <p>3 Identificar Imagem : chamará o arquivo identifier.py</p>
+      <p>0 Sair Do Sistema : finalizará o programa</p>
     </li>
     <li><strong>register.py</strong>
       <p><b>Machine Learning é o objeto de estudo</b> neste projeto. É a técnica computacional de ensinar uma máquina com determinado poder computacional a analisar um conjunto de dados e predizer informações para auxiliar nas decisões.</p>
