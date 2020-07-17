@@ -15,7 +15,14 @@
       <p>Esta versão permite gravar apenas uma imagem a cada acesso. Para gravar outra imagem é necessário teclar Esc e digitar a opção 1 novamente.</p>
     </li>
     <li><strong>analyzer.py</strong>
-      <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem para auxiliar a identificar quem a imagem pertence.</p>
+      <p>Este arquivo contém os algorítimos para :</p>
+      <p>1 calcular o standardization</p>
+      <p>2 applicar o embedding na imagem</p>
+      <p>3 executar o predict do conjunto de algoritmos treinado facenet_keras.h5 do keras</p>
+      <p>4 aplicar Normalizer l2</p>
+      <p>5 aplicar LabelEncoder</p>
+      <p>6 treinar o modelo svm-SVC</p>
+      <p>7 calcular e exibir a acurácia das imagens de treino e das imagens de teste</p>
     </li>
     <li><strong>identifier.py</strong>
       <p>É um algoritmo computacional que aprende com novos dados inseridos, simulando o cérebro humano.</p>
