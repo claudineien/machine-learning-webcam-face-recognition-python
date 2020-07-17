@@ -1,5 +1,5 @@
-<h2 align="center"><strong>Machine Learning no reconhecimento facial através da webcam</strong></h2>
-<h5 align="left">Público alvo: Estudante de Machine Learning &#x1F393; - Objetivo: Demonstrar Machine Learning - Tempo leitura: 00:02:30 mins - Idioma : <a href="lang-en/README.md">[EN]</a>󠁧󠁢󠁥󠁮󠁧󠁿</h5>
+<h2 align="center"><strong><a id="lang-ptbr">Machine Learning no reconhecimento facial através da webcam</a></strong></h2>
+<h5 align="left">Público alvo: Estudante de Machine Learning &#x1F393; - Objetivo: Demonstrar Machine Learning - Tempo leitura: 00:02:30 mins - Idioma : <a href="#lang-en">[EN]</a>󠁧󠁢󠁥󠁮󠁧󠁿</h5>
 <details open class="sbdocs sbdocs-details">
   <summary class="sbdocs sbdocs-summary"><strong>1 SOBRE OS ARQUIVOS</strong></summary>
   <ol>
@@ -20,9 +20,9 @@
       <p>Exemplo: Programar um computador para aprender todos os detalhes de forma e formato de um determinado rosto, ao inserimos outros rostos ele automaticamente armazenara as suas formas e formatos e a partir dai conseguiremos extrair a quem pertence determinado rosto</p>
     </li>
   </ol>
-</details>
+</details><br>
 
-<h2 align="center"><strong>Machine Learning no reconhecimento facial através da webcam</strong></h2>
+<h2 align="center"><strong><a id="lang-en">Machine Learning no reconhecimento facial através da webcam</a></strong></h2>
 <h5 align="left">Público alvo: Estudante de Machine Learning &#x1F393; - Objetivo: Demonstrar Machine Learning - Tempo leitura: 00:02:30 mins - Idioma : <a href="#lang-ptbr">[Pt-Br]</a>󠁧󠁢󠁥󠁮󠁧󠁿</h5>
 <details open class="sbdocs sbdocs-details">
   <summary class="sbdocs sbdocs-summary"><strong>1 SOBRE OS ARQUIVOS</strong></summary>
