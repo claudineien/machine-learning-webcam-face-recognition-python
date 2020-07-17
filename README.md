@@ -184,7 +184,7 @@
     <p><b>Nota :</b> Consultar documentação <a href="files/readme.md">DESCOMPACTAR O CONTEÚDO DOS ARQUIVOS EXTENSÃO .rar - WINRAR</a>
     <li>Baixar o arquivo dataset.rar. Neste há imagens diversas para utilizar em seus treinos e testes</li>
   </ol>
-  <p><b>Importante :</b> Disponibilizei os arquivos <a href="files/py_file">.py</a> caso queira testar com vscode, pycharm, spyder ou em outros IDEs</p>
+  <p><b>Importante :</b> Disponibilizei os arquivos <a href="files/py_file/*">.py</a> caso queira testar com vscode, pycharm, spyder ou em outros IDEs</p>
 </details>
 
 <details>
