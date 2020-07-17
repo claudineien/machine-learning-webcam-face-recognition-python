@@ -12,10 +12,10 @@
       <p><b>Machine Learning é o objeto de estudo</b> neste projeto. É a técnica computacional de ensinar uma máquina com determinado poder computacional a analisar um conjunto de dados e predizer informações para auxiliar nas decisões.</p>
       <p>Esta técnica pode ser utilizada para tentar resolver qualquer tarefa -da mais simples a mais complexa.</p>
     </li>
-    <li><strong>Deep Learning</strong>
+    <li><strong>analyzer.py</strong>
       <p>É a técnica computacional que analisa muito detalhadamente determinadas características de imagem para auxiliar a identificar quem a imagem pertence.</p>
     </li>
-    <li><strong>Neural Network</strong>
+    <li><strong>identifier.py</strong>
       <p>É um algoritmo computacional que aprende com novos dados inseridos, simulando o cérebro humano.</p>
       <p>Exemplo: Programar um computador para aprender todos os detalhes de forma e formato de um determinado rosto, ao inserimos outros rostos ele automaticamente armazenara as suas formas e formatos e a partir dai conseguiremos extrair a quem pertence determinado rosto</p>
     </li>
