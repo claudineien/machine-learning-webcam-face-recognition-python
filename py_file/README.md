@@ -40,7 +40,7 @@
 <h2 align="center"><strong><a id="lang-en">Machine Learning on facial recognition by webcam</a></strong></h2>
 <h5 align="left">Público alvo: Estudante de Machine Learning &#x1F393; - Objetivo: Demonstrar Machine Learning - Tempo leitura: 00:02:30 mins - Idioma : <a href="#lang-ptbr">[Pt-Br]</a>󠁧󠁢󠁥󠁮󠁧󠁿</h5>
 <details open class="sbdocs sbdocs-details">
-  <summary class="sbdocs sbdocs-summary"><strong>1 SOBRE OS ARQUIVOS</strong></summary>
+  <summary class="sbdocs sbdocs-summary"><strong>BELOW THE DETAILS ABOUT THE FILE</strong></summary>
   <ol>
     <li><strong>menu.py</strong>
       <p>Este arquivo exibirá 4 opçoes que podem ser executadas pelo programa, sendo : </p>
