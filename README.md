@@ -261,9 +261,8 @@
   </table>
 </details>
 
-
 <details>
-  <summary><strong>7 FONTES DE ESTUDO</strong></summary> 
+  <summary><strong>8 RESULTADOS</strong></summary> 
   <ul>
     <li><a href="https://minerandodados.com.br/">Minerando Dados</a></li>
     <li><a href="https://opencv.org/">OpenCV Org</a></li>
