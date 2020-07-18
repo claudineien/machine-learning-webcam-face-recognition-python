@@ -25,8 +25,14 @@
       <p>7 calcular e exibir a acurácia das imagens de treino e das imagens de teste</p>
     </li>
     <li><strong>identifier.py</strong>
-      <p>É um algoritmo computacional que aprende com novos dados inseridos, simulando o cérebro humano.</p>
-      <p>Exemplo: Programar um computador para aprender todos os detalhes de forma e formato de um determinado rosto, ao inserimos outros rostos ele automaticamente armazenara as suas formas e formatos e a partir dai conseguiremos extrair a quem pertence determinado rosto</p>
+      <p>Este arquivo contém os algoritmos responsáveis por :</p>
+      <p>1 ativar sua webcam</p>
+      <p>2 identificar seu rosto</p>
+      <p>3 aplicar a predição do modelo treinado pelo svm-SVC</p>
+      <p>4 aplicar a predição probabilidade do modelo treinado pelo svm-SVC</p>
+      <p>5 treinar imagem para treino utilizando LabelEncoder</p>
+      <p>6 utilizar a inversão do LabelEncoder</p>
+      <p>7 calcular e exibir a probabilidade de acerto da imagem do svm-SVC</p>
     </li>
   </ol>
 </details><br>
