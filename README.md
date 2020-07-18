@@ -261,6 +261,7 @@
   </table>
 </details>
 
+
 <details>
   <summary><strong>7 FONTES DE ESTUDO</strong></summary> 
   <ul>
@@ -283,7 +284,28 @@
 </details>
 
 <details>
-  <summary><strong>8 AGRADECIMENTOS</strong></summary>
+  <summary><strong>8 FONTES DE ESTUDO</strong></summary> 
+  <ul>
+    <li><a href="https://minerandodados.com.br/">Minerando Dados</a></li>
+    <li><a href="https://opencv.org/">OpenCV Org</a></li>
+    <li><a href="https://github.com/opencv/opencv/">OpenCV no github</a></li>
+    <li><a href="https://www.partnershiponai.org/wp-content/uploads/2020/02/Understanding-Facial-Recognition-Paper_final.pdf">Partnershiponai.org</a></li>
+    <li><a href="https://www.techradar.com/news/what-is-a-neural-network">Techradar</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Artificial_neural_network">Wikpedia-Neural Network</a></li>
+    <li><a href="https://scikit-learn.org/stable/">scikit-learn</a></li>
+    <li><a href="https://scikit-learn.org/stable/_downloads/scikit-learn-docs.pdf">scikit-learn LabelEncoder</a></li>
+    <li><a href="http://scipy.github.io/devdocs/hacking.html">scipy</a></li>
+    <li><a href="https://keras.io/">keras</a></li>
+    <li><a href="https://pillow.readthedocs.io/en/stable/">Pillow</a></li>
+    <li><a href="https://pypi.org/project/mtcnn/">mtcnn</a></li>
+    <li><a href="https://www.tensorflow.org/guide/tensor">tensorflow</a></li>
+    <li><a href="https://pythonprogramming.net/linear-svc-example-scikit-learn-svm-python/r">SVC e SVM</a></li>
+    <li><a href="https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture">Embedding</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>9 AGRADECIMENTOS</strong></summary>
   <p>*Ser agradecido para mim é a atitude que torna as pessoas seres melhores*</p>
   <p>Agradeço a mulher mais importante da minha vida, a minha mãe sra Rosalita Borges Evangelista por ter sido uma lutadora incansável, lutando por mim, para mim e comigo e também com meus irmãos. Minha mãe é o motivo de eu me tornar um ser humano honrado.</p>
   <p>Agradeço aos meus dois irmãos que me ajudaram nos momentos em que mais precisei.</p>
