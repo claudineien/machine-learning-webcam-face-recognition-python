@@ -304,3 +304,4 @@
   <p>Agradeço à equipe Minerando Dados por criar o espaço Data Sciente do Zero, disponibilizando diversos ensinamentos em machine learning, estatísticas, deep learning e data science, para acelerar meu aprendizado e por este desafio proposto que acabei de concluir.</p><br><br>
   <p>Muito obrigado a todos :wink:</p><br>
   <p>Desejo muito sucesso a todos !</p>
+</details>
